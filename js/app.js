@@ -71,7 +71,16 @@ window.loadDigest = async function(id) {
 function showDigest(d) {
   const el = document.getElementById('digest-view');
   if (d.html_content) {
-    el.innerHTML = d.html_content;
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(d.html_content, 'text/html');
+    doc.querySelectorAll('script, iframe, object, embed, form').forEach(n => n.remove());
+    doc.querySelectorAll('[onload], [onerror], [onclick], [onmouseover]').forEach(n => {
+      n.removeAttribute('onload');
+      n.removeAttribute('onerror');
+      n.removeAttribute('onclick');
+      n.removeAttribute('onmouseover');
+    });
+    el.innerHTML = doc.body.innerHTML;
   } else {
     el.innerHTML = '<div class="empty">This digest has no content yet.</div>';
   }
