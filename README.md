@@ -2,7 +2,7 @@
 
 Daily email digest of product marketing articles from 10+ industry sources. Fetches RSS feeds, deduplicates, compiles a digest, and sends it via Resend. Includes a web archive to browse past digests.
 
-**Live:** [link TBD]
+**Live:** [pmm-daily-digest.vercel.app](https://pmm-daily-digest.vercel.app)
 
 ## Supabase Features Used
 
