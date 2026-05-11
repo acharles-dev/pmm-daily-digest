@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>PMM Daily Digest</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="layout">
+    <aside class="sidebar">
+      <h1>PMM Daily Digest</h1>
+      <p class="tagline">Product marketing intelligence, delivered daily</p>
+
+      <div class="stats">
+        <div class="stat-box">
+          <div class="num" id="stat-articles">0</div>
+          <div class="lbl">Articles</div>
+        </div>
+        <div class="stat-box">
+          <div class="num" id="stat-digests">0</div>
+          <div class="lbl">Digests</div>
+        </div>
+        <div class="stat-box">
+          <div class="num" id="stat-sources">0</div>
+          <div class="lbl">Sources</div>
+        </div>
+      </div>
+
+      <h3>Digests</h3>
+      <div id="digest-list">
+        <p class="empty-small">Loading...</p>
+      </div>
+
+      <div class="source-chips">
+        <h3>Sources</h3>
+        <div id="source-list"></div>
+      </div>
+
+      <footer>
+        Built with <a href="https://supabase.com" target="_blank">Supabase</a>
+      </footer>
+    </aside>
+
+    <main class="main" id="digest-view">
+      <div class="empty">Select a digest from the sidebar, or wait for the first one to be generated.</div>
+    </main>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+  <script>
+    window.__SUPABASE_URL__ = 'https://sdsqowabqotxllwxknvd.supabase.co';
+    window.__SUPABASE_KEY__ = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNkc3Fvd2FicW90eGxsd3hrbnZkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg0NTk5MzYsImV4cCI6MjA5NDAzNTkzNn0.k2NKRWMraRNa8HQt5fQOt7MjySquPaq0VBdgnJi4H8w';
+  </script>
+  <script src="js/app.js"></script>
+</body>
+</html>
