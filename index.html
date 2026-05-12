@@ -3,47 +3,47 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PMM Daily Digest</title>
+  <title>PMM Digest — Product Marketing Tactics & Campaigns</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
   <div class="layout">
     <aside class="sidebar">
-      <h1>PMM Daily Digest</h1>
-      <p class="tagline">Product marketing intelligence, delivered daily</p>
+      <h1>PMM Digest</h1>
+      <p class="tagline">Campaigns, tactics, and ideas from the best in product marketing</p>
 
-      <div class="stats">
+      <div class="stat-row">
         <div class="stat-box">
-          <div class="num" id="stat-articles">0</div>
-          <div class="lbl">Articles</div>
+          <div class="n" id="stat-articles">0</div>
+          <div class="l">Articles</div>
         </div>
         <div class="stat-box">
-          <div class="num" id="stat-digests">0</div>
-          <div class="lbl">Digests</div>
+          <div class="n" id="stat-today">0</div>
+          <div class="l">Today</div>
         </div>
         <div class="stat-box">
-          <div class="num" id="stat-sources">0</div>
-          <div class="lbl">Sources</div>
+          <div class="n" id="stat-sources">0</div>
+          <div class="l">Sources</div>
         </div>
       </div>
 
-      <h3>Digests</h3>
-      <div id="digest-list">
-        <p class="empty-small">Loading...</p>
-      </div>
+      <div class="nav-label">Topics</div>
+      <div id="nav-categories"></div>
 
-      <div class="source-chips">
-        <h3>Sources</h3>
-        <div id="source-list"></div>
-      </div>
+      <div class="nav-label" style="margin-top: 20px;">Sources</div>
+      <div id="nav-sources"></div>
 
-      <footer>
+      <div class="footer">
         Built with <a href="https://supabase.com" target="_blank">Supabase</a>
-      </footer>
+      </div>
     </aside>
 
-    <main class="main" id="digest-view">
-      <div class="empty">Select a digest from the sidebar, or wait for the first one to be generated.</div>
+    <main class="main">
+      <h2 id="view-title">All</h2>
+      <p class="subtitle" id="view-subtitle"></p>
+      <div id="articles">
+        <div class="empty">Loading...</div>
+      </div>
     </main>
   </div>
 
