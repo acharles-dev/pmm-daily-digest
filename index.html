@@ -1,57 +1,44 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PMM Digest — Product Marketing Tactics & Campaigns</title>
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PMM Daily Digest</title>
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <div class="layout">
-    <aside class="sidebar">
-      <h1>PMM Digest</h1>
-      <p class="tagline">Campaigns, tactics, and ideas from the best in product marketing</p>
+    <header>
+        <h1>PMM Daily Digest</h1>
+        <p class="subtitle">Curated articles from top product marketing sources</p>
+    </header>
 
-      <div class="stat-row">
-        <div class="stat-box">
-          <div class="n" id="stat-articles">0</div>
-          <div class="l">Articles</div>
+    <main>
+        <div class="stats" id="stats">
+            <span id="stat-articles">-- articles</span>
+            <span class="stat-sep">&middot;</span>
+            <span id="stat-sources">-- sources</span>
+            <span class="stat-sep">&middot;</span>
+            <span id="stat-updated">Last updated: --</span>
         </div>
-        <div class="stat-box">
-          <div class="n" id="stat-today">0</div>
-          <div class="l">Today</div>
+
+        <div class="filters" id="filters"></div>
+
+        <div id="articles"></div>
+
+        <div id="empty-state" class="empty-state" style="display:none;">
+            <p>No articles collected yet.</p>
+            <p>Run the workflow manually from the Actions tab or wait for the daily schedule.</p>
         </div>
-        <div class="stat-box">
-          <div class="n" id="stat-sources">0</div>
-          <div class="l">Sources</div>
+
+        <div id="load-more-wrap" style="display:none;">
+            <button id="load-more" class="load-more">Load more</button>
         </div>
-      </div>
-
-      <div class="nav-label">Topics</div>
-      <div id="nav-categories"></div>
-
-      <div class="nav-label" style="margin-top: 20px;">Sources</div>
-      <div id="nav-sources"></div>
-
-      <div class="footer">
-        Built with <a href="https://supabase.com" target="_blank">Supabase</a>
-      </div>
-    </aside>
-
-    <main class="main">
-      <h2 id="view-title">All</h2>
-      <p class="subtitle" id="view-subtitle"></p>
-      <div id="articles">
-        <div class="empty">Loading...</div>
-      </div>
     </main>
-  </div>
 
-  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-  <script>
-    window.__SUPABASE_URL__ = 'https://afsrseiljizdmytfgxcg.supabase.co';
-    window.__SUPABASE_KEY__ = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImFmc3JzZWlsaml6ZG15dGZneGNnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3Nzg0NTk3NjMsImV4cCI6MjA5NDAzNTc2M30.IYVhyn9uv6CUupTn48sIaAwiA17olsOSZsDB3wBGjuM';
-  </script>
-  <script src="js/app.js"></script>
+    <footer>
+        <p>Articles collected daily via GitHub Actions from 8 RSS feeds.</p>
+    </footer>
+
+    <script src="js/app.js"></script>
 </body>
 </html>

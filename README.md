@@ -1,38 +1,36 @@
-# pmm-daily-digest
+# PMM Daily Digest
 
-Daily email digest of product marketing articles from 10+ industry sources. Fetches RSS feeds, deduplicates, compiles a digest, and sends it via Gmail API. Includes a web archive to browse past digests.
+Aggregates articles from 8 product marketing RSS feeds daily and serves a browsable archive on GitHub Pages.
 
-**Live:** [pmm-daily-digest.vercel.app](https://pmm-daily-digest.vercel.app)
+**Live site:** [acharles-dev.github.io/pmm-daily-digest/](https://acharles-dev.github.io/pmm-daily-digest/)
 
-## Supabase Features Used
+## How it works
 
-- **Database (Postgres)** for sources, articles, and digest archive with deduplication
-- **Edge Functions** — `fetch-articles` collects from RSS feeds, `send-digest` compiles the daily digest HTML
-- **Row Level Security** — public read via anon key, writes restricted to service_role
+1. A GitHub Actions workflow runs daily at 1 PM UTC
+2. A Python script fetches RSS feeds, deduplicates articles, and writes JSON to `data/`
+3. GitHub Pages serves the static HTML archive from the repository
+
+No API keys or external services needed.
 
 ## Sources
 
-Product Marketing Alliance, First Round Review, Andrew Chen, Intercom, MKT1, HubSpot Marketing, OpenView Partners
+| Source | Feed |
+|---|---|
+| Product Marketing Alliance | productmarketingalliance.com/feed/ |
+| Andrew Chen | andrewchen.com/feed/ |
+| Intercom Blog | intercom.com/blog/feed/ |
+| HubSpot Marketing | blog.hubspot.com/marketing/rss.xml |
+| SaaStr | saastr.com/feed/ |
+| Lenny's Newsletter | lennysnewsletter.com/feed |
+| Growth Unhinged | growthunhinged.com/feed |
+| ChartMogul | chartmogul.com/blog/feed/ |
 
-## Setup
+## Run manually
 
-1. Create a Supabase project
-2. Run `supabase/migrations/001_initial_schema.sql`
-3. Run `supabase/seed.sql` to add sources
-4. Deploy Edge Functions:
-   ```
-   supabase functions deploy fetch-articles
-   supabase functions deploy send-digest
-   ```
-5. Invoke `fetch-articles` from the Dashboard to populate initial data
-6. Copy project URL + anon key into `index.html`
-7. Deploy frontend: `vercel --prod`
+Go to the **Actions** tab, select "Fetch PMM Articles", and click **Run workflow**.
 
-Email delivery is handled locally via Gmail API (no third-party email service needed).
+Or run locally:
 
-## Stack
-
-- Vanilla HTML/CSS/JS with sidebar layout
-- Supabase JS client via CDN
-- Deno Edge Functions for RSS parsing and digest compilation
-- Gmail API for email delivery (local script)
+```bash
+python scripts/fetch.py
+```

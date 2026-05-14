@@ -1,126 +1,207 @@
-const SUPABASE_URL = window.__SUPABASE_URL__ || '';
-const SUPABASE_KEY = window.__SUPABASE_KEY__ || '';
+(function () {
+    "use strict";
 
-let db, allArticles = [], sources = [];
-let filterCategory = null, filterSource = null;
+    var PAGE_SIZE = 30;
+    var allArticles = [];
+    var filtered = [];
+    var shown = 0;
+    var activeSource = null;
 
-const CATEGORIES = {
-  pmm: 'Campaigns',
-  strategy: 'Strategy',
-  growth: 'Growth',
-  product: 'Launches',
-  marketing: 'Tactics',
-};
+    var SOURCE_NAMES = {
+        pma: "Product Marketing Alliance",
+        andrew_chen: "Andrew Chen",
+        intercom: "Intercom Blog",
+        hubspot: "HubSpot Marketing",
+        saastr: "SaaStr",
+        lenny: "Lenny's Newsletter",
+        growth_unhinged: "Growth Unhinged",
+        chartmogul: "ChartMogul"
+    };
 
-async function init() {
-  if (!SUPABASE_URL || !SUPABASE_KEY) return;
-  const { createClient } = supabase;
-  db = createClient(SUPABASE_URL, SUPABASE_KEY);
+    function $(id) { return document.getElementById(id); }
 
-  const [a, s] = await Promise.all([
-    db.from('articles').select('*, sources(name, category)')
-      .order('fetched_at', { ascending: false }).limit(200),
-    db.from('sources').select('*').eq('active', true),
-  ]);
+    function escapeHtml(str) {
+        var div = document.createElement("div");
+        div.appendChild(document.createTextNode(str));
+        return div.innerHTML;
+    }
 
-  allArticles = a.data || [];
-  sources = s.data || [];
-  render();
-}
+    function renderCard(article) {
+        var card = document.createElement("div");
+        card.className = "article-card border-" + article.source;
 
-function render() {
-  renderStats();
-  renderNav();
-  renderArticles();
-}
+        var title = document.createElement("div");
+        title.className = "article-title";
+        var link = document.createElement("a");
+        link.href = article.url;
+        link.target = "_blank";
+        link.rel = "noopener noreferrer";
+        link.textContent = article.title;
+        title.appendChild(link);
 
-function renderStats() {
-  document.getElementById('stat-articles').textContent = allArticles.length;
-  document.getElementById('stat-sources').textContent = sources.length;
-  const today = new Date().toISOString().split('T')[0];
-  const todayCount = allArticles.filter(a => a.fetched_at?.startsWith(today)).length;
-  document.getElementById('stat-today').textContent = todayCount;
-}
+        var meta = document.createElement("div");
+        meta.className = "article-meta";
 
-function renderNav() {
-  const catEl = document.getElementById('nav-categories');
-  const srcEl = document.getElementById('nav-sources');
+        var tag = document.createElement("span");
+        tag.className = "source-tag source-" + article.source;
+        tag.textContent = article.source_name || SOURCE_NAMES[article.source] || article.source;
 
-  const catCounts = {};
-  allArticles.forEach(a => {
-    const cat = a.sources?.category || 'general';
-    catCounts[cat] = (catCounts[cat] || 0) + 1;
-  });
+        var date = document.createElement("span");
+        date.className = "article-date";
+        date.textContent = article.date || "No date";
 
-  let catHtml = `<div class="nav-item ${!filterCategory ? 'active' : ''}" data-cat="">All <span class="count">${allArticles.length}</span></div>`;
-  Object.entries(CATEGORIES).forEach(([key, label]) => {
-    catHtml += `<div class="nav-item ${filterCategory === key ? 'active' : ''}" data-cat="${key}">${label} <span class="count">${catCounts[key] || 0}</span></div>`;
-  });
-  catEl.innerHTML = catHtml;
+        meta.appendChild(tag);
+        meta.appendChild(date);
 
-  let srcHtml = '';
-  sources.forEach(s => {
-    srcHtml += `<span class="source-tag">${esc(s.name)}</span>`;
-  });
-  srcEl.innerHTML = srcHtml;
+        card.appendChild(title);
+        card.appendChild(meta);
 
-  catEl.querySelectorAll('.nav-item').forEach(item => {
-    item.addEventListener('click', () => {
-      filterCategory = item.dataset.cat || null;
-      render();
-    });
-  });
-}
+        if (article.summary) {
+            var summary = document.createElement("p");
+            summary.className = "article-summary";
+            summary.textContent = article.summary;
+            card.appendChild(summary);
+        }
 
-function renderArticles() {
-  const el = document.getElementById('articles');
-  let filtered = allArticles;
+        return card;
+    }
 
-  if (filterCategory) {
-    filtered = filtered.filter(a => a.sources?.category === filterCategory);
-  }
+    function renderArticles() {
+        var container = $("articles");
+        container.innerHTML = "";
 
-  const catLabel = filterCategory ? CATEGORIES[filterCategory] || filterCategory : 'All';
-  document.getElementById('view-title').textContent = catLabel;
-  document.getElementById('view-subtitle').textContent = `${filtered.length} articles`;
+        var end = Math.min(shown, filtered.length);
+        for (var i = 0; i < end; i++) {
+            container.appendChild(renderCard(filtered[i]));
+        }
 
-  if (!filtered.length) {
-    el.innerHTML = '<div class="empty">No articles yet. The fetch function runs every 6 hours.</div>';
-    return;
-  }
+        var loadMoreWrap = $("load-more-wrap");
+        if (shown < filtered.length) {
+            loadMoreWrap.style.display = "block";
+        } else {
+            loadMoreWrap.style.display = "none";
+        }
+    }
 
-  el.innerHTML = filtered.map(a => {
-    const cat = a.sources?.category || 'general';
-    const catLabel = CATEGORIES[cat] || cat;
-    const source = a.sources?.name || 'Unknown';
-    const date = a.fetched_at ? timeAgo(new Date(a.fetched_at)) : '';
+    function applyFilter(source) {
+        if (source === activeSource) {
+            activeSource = null;
+        } else {
+            activeSource = source;
+        }
 
-    return `
-      <div class="card">
-        <div class="card-top">
-          <span class="card-source">${esc(source)}</span>
-          <span class="card-category cat-${esc(cat)}">${esc(catLabel)}</span>
-        </div>
-        <div class="card-title"><a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a></div>
-        ${a.summary ? `<div class="card-summary">${esc(a.summary)}</div>` : ''}
-        <div class="card-meta">${date}${a.author ? ' · ' + esc(a.author) : ''}</div>
-      </div>`;
-  }).join('');
-}
+        // Update pill states
+        var pills = document.querySelectorAll(".filter-pill");
+        for (var i = 0; i < pills.length; i++) {
+            var pill = pills[i];
+            if (pill.dataset.source === activeSource) {
+                pill.classList.add("active");
+            } else {
+                pill.classList.remove("active");
+            }
+        }
 
-function timeAgo(d) {
-  const s = Math.floor((Date.now() - d.getTime()) / 1000);
-  if (s < 3600) return Math.floor(s / 60) + 'm ago';
-  if (s < 86400) return Math.floor(s / 3600) + 'h ago';
-  if (s < 604800) return Math.floor(s / 86400) + 'd ago';
-  return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-}
+        // Filter articles
+        if (activeSource) {
+            filtered = allArticles.filter(function (a) {
+                return a.source === activeSource;
+            });
+        } else {
+            filtered = allArticles.slice();
+        }
 
-function esc(s) {
-  if (!s) return '';
-  const d = document.createElement('div');
-  d.textContent = s;
-  return d.innerHTML;
-}
+        shown = PAGE_SIZE;
+        renderArticles();
+    }
 
-document.addEventListener('DOMContentLoaded', init);
+    function buildFilters(sources) {
+        var container = $("filters");
+        container.innerHTML = "";
+
+        // Collect unique sources from articles
+        var seen = {};
+        for (var i = 0; i < allArticles.length; i++) {
+            var s = allArticles[i].source;
+            if (!seen[s]) {
+                seen[s] = true;
+            }
+        }
+
+        // Also include sources from status
+        if (sources) {
+            for (var key in sources) {
+                if (sources.hasOwnProperty(key)) {
+                    seen[key] = true;
+                }
+            }
+        }
+
+        var keys = Object.keys(seen).sort();
+        for (var j = 0; j < keys.length; j++) {
+            var key = keys[j];
+            var pill = document.createElement("span");
+            pill.className = "filter-pill source-" + key;
+            pill.dataset.source = key;
+            pill.textContent = SOURCE_NAMES[key] || key;
+            pill.addEventListener("click", (function (k) {
+                return function () { applyFilter(k); };
+            })(key));
+            container.appendChild(pill);
+        }
+    }
+
+    function updateStats(status) {
+        if (status && status.total_articles > 0) {
+            $("stat-articles").textContent = status.total_articles + " articles";
+            var activeCount = 0;
+            if (status.sources) {
+                for (var k in status.sources) {
+                    if (status.sources.hasOwnProperty(k) && status.sources[k].status === "ok") {
+                        activeCount++;
+                    }
+                }
+            }
+            $("stat-sources").textContent = activeCount + " sources active";
+            if (status.last_updated) {
+                var d = new Date(status.last_updated);
+                $("stat-updated").textContent = "Updated " + d.toLocaleDateString();
+            }
+        }
+    }
+
+    function init() {
+        Promise.all([
+            fetch("data/articles.json").then(function (r) { return r.json(); }),
+            fetch("data/status.json").then(function (r) { return r.json(); })
+        ]).then(function (results) {
+            allArticles = results[0] || [];
+            var status = results[1] || {};
+
+            if (allArticles.length === 0) {
+                $("empty-state").style.display = "block";
+                return;
+            }
+
+            filtered = allArticles.slice();
+            shown = PAGE_SIZE;
+
+            updateStats(status);
+            buildFilters(status.sources);
+            renderArticles();
+
+            $("load-more").addEventListener("click", function () {
+                shown += PAGE_SIZE;
+                renderArticles();
+            });
+        }).catch(function (err) {
+            console.error("Failed to load data:", err);
+            $("empty-state").style.display = "block";
+        });
+    }
+
+    if (document.readyState === "loading") {
+        document.addEventListener("DOMContentLoaded", init);
+    } else {
+        init();
+    }
+})();
