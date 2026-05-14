@@ -1,1 +1,1762 @@
-[]
+[
+  {
+    "title": "We Haven’t Had a Great CS Experience in Years. But Our FDEs Have Been Incredible.",
+    "url": "https://www.saastr.com/we-havent-had-a-great-cs-experience-in-years-but-our-fdes-have-been-incredible/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-14",
+    "summary": "In some ways, we helped build the Customer Success category at SaaStr a generation or so ago. Some of the earliest writing here on Second Order Revenueand the power of a funded, dedicated CS..."
+  },
+  {
+    "title": "Early adopter engagement plan framework",
+    "url": "https://www.productmarketingalliance.com/early-adopter-engagement-plan-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-13",
+    "summary": "Everything you need to find, engage, and activate early adopters."
+  },
+  {
+    "title": "The Claude Skill Stack for product marketing [Bonus article]",
+    "url": "https://www.productmarketingalliance.com/the-claude-skill-stack-for-product-marketing-bonus-article/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-13",
+    "summary": "Download the free, open-source Claude Skills Pack for PMMs – six ready-to-install Skills covering messaging, competitive intel, research, pricing, and GTM."
+  },
+  {
+    "title": "How MACC accelerates enterprise procurement in B2B SaaS",
+    "url": "https://www.productmarketingalliance.com/how-macc-accelerates-enterprise-procurement/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-13",
+    "summary": "Accelerate B2B SaaS sales with MACC and Azure Marketplace. Simplify enterprise procurement and shorten sales cycles for vendors targeting Microsoft customers."
+  },
+  {
+    "title": "The ultimate guide to knowledge management for your Sales Agent",
+    "url": "https://www.intercom.com/blog/sales-agent-knowledge-management-guide/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-13",
+    "summary": "Everything you need to know about building and maintaining a knowledge base that powers your Sales Agent, in one comprehensive guide."
+  },
+  {
+    "title": "We’re Hiring a Human Marketing Exec to Report to 10K, Our AI VP Marketing. Could You Report to an AI?",
+    "url": "https://www.saastr.com/were-hiring-a-human-marketing-exec-to-report-to-10k-our-ai-vp-marketing-the-bottleneck-isnt-great-ideas-anymore/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-13",
+    "summary": "We’re hiring a hands-on, driven human marketing exec who loves AI and loves running campaigns. To report directly to our AI VP Marketing, 10K. \"We're hiring for a Director of Digital Marketing. 6..."
+  },
+  {
+    "title": "Two AI VPs for $257. A Website Became Our 21st Agent. Killed a $4K SaaS App in 60 Minutes: The Agents #005 Is Out!!",
+    "url": "https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-13",
+    "summary": "Amelia and I just shipped Episode #005 of The Agents. Same setup as always: three humans, 21+ agents, revenue went from -19% to +47% YoY, and every week we talk about what’s actually working, what’s..."
+  },
+  {
+    "title": "Where do product marketing leaders go next?",
+    "url": "https://www.productmarketingalliance.com/where-do-product-marketing-leaders-go-next/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-12",
+    "summary": "Senior PMMs have more career paths than ever, from CMO to fractional work. Here's how the best leaders are choosing what comes next."
+  },
+  {
+    "title": "Today Intercom becomes Fin",
+    "url": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-12",
+    "summary": "We're changing the name of our company to Fin. Intercom will live on as our customer service software platform, but Fin is our future."
+  },
+  {
+    "title": "Who’s Winning Enterprise AI Now: Claude Up 128%, Gemini Up 48%, OpenAI Down 8%, Grok Still A Rounding Error",
+    "url": "https://www.saastr.com/whos-winning-enterprise-ai-now-claude-up-128-gemini-up-48-openai-down-8-grok-still-a-rounding-error/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-12",
+    "summary": "New Enterprise Technology Research data, reported by the Wall Street Journal today, shows how enterprise AI adoption has shifted over the past twelve months. The percentage of enterprises currently..."
+  },
+  {
+    "title": "The #1 Way to Win as a GTM Exec in the Age of AI: Be a True Product Guru. Know Your Space 10x Better Than Any Customer.",
+    "url": "https://www.saastr.com/the-1-way-to-win-as-a-gtm-exec-in-the-age-of-ai-be-a-true-product-guru-know-your-space-10x-better-than-any-customer/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-12",
+    "summary": "It’s not enough to be a “people person” anymore. Not even close. Here’s a test I want every sales leader to try right now: Upload your company’s pitch deck, product documentation, and competitive..."
+  },
+  {
+    "title": "4 strategies for PMM and CS to drive sustained active use",
+    "url": "https://www.productmarketingalliance.com/4-strategies-for-pmm-and-cs-to-drive-sustained-active-use/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-11",
+    "summary": "Learn 4 proven strategies for PMM and customer success to partner, drive post-sale engagement, and guarantee sustained SaaS active use."
+  },
+  {
+    "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-11",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
+  },
+  {
+    "title": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
+    "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-11",
+    "summary": "Watch now | 🎙 Ryan Nystrom (Notion) shows how to automate standups, ship PRs from a single comment, and use spec-first development so agents do the coding while you do the thinking"
+  },
+  {
+    "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+    "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-10",
+    "summary": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder..."
+  },
+  {
+    "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-09",
+    "summary": "Community Wisdom 185"
+  },
+  {
+    "title": "PMM Powerhour: Developer Marketing",
+    "url": "https://www.productmarketingalliance.com/pmm-powerhour/developermarketing/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-08",
+    "summary": ""
+  },
+  {
+    "title": "How we turned our ICP into a $230M growth engine",
+    "url": "https://www.productmarketingalliance.com/how-we-turned-our-icp-into-a-230m-growth-engine/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-08",
+    "summary": "What if your ICP did more than sit in a forgotten Google Doc?"
+  },
+  {
+    "title": "\"I wish I'd known about this years ago\": How PMA helped me land a job in two weeks",
+    "url": "https://www.productmarketingalliance.com/how-pma-helped-me-land-a-job-in-two-weeks/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-08",
+    "summary": "Product marketing can be a lonely role. Here's how one PMM found her people, her confidence, and her next job... all through the PMA community."
+  },
+  {
+    "title": "How we turned support into a revenue engine at Intercom",
+    "url": "https://www.intercom.com/blog/how-we-turned-support-into-a-revenue-engine-at-intercom/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-08",
+    "summary": "We used freed-up capacity from Fin to spin up a consultative support function, which has changed the way we operate and driven meaningful business results."
+  },
+  {
+    "title": "Building outcome-based pricing for Fin for Sales",
+    "url": "https://www.intercom.com/blog/building-outcome-based-pricing-for-fin-for-sales/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-08",
+    "summary": "Pricing should align with value delivery. In the case of sales, that means paying when Fin qualifies a lead."
+  },
+  {
+    "title": "6 generative engine optimization benefits every marketer should know",
+    "url": "https://blog.hubspot.com/marketing/6-generative-engine-optimization-benefits-every-marketer-should-know",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-08",
+    "summary": "You’ve seen it with your own eyes, reader. The way buyers discover brands is changing faster than most marketing teams realize."
+  },
+  {
+    "title": "PMM Talks Bootstrapping PMM",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/bootstrapping-pmm/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "PMM Talks Product Market Fit",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/pmf/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "PMM Talks Messaging & Positioning",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/messaging-positioning-september/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "PMM Talks Sales Enablement",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/sales-enablement-august/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "PMM Talks Go-to-Market",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/gtm/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "PMM Talks Competitive Intelligence",
+    "url": "https://www.productmarketingalliance.com/pmmtalks-series/competitive-intel/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-07",
+    "summary": ""
+  },
+  {
+    "title": "Announcing Fin for Ecommerce: Fin’s next role as a Customer Agent",
+    "url": "https://www.intercom.com/blog/announcing-fin-for-ecommerce/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-07",
+    "summary": "Fin for Ecommerce guides shoppers from browsing to checkout, delivering a new level of customer experience."
+  },
+  {
+    "title": "Digital Marketing Optimization: 10 Best Strategies to Increase Marketing ROI",
+    "url": "https://blog.hubspot.com/marketing/digital-marketing-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-07",
+    "summary": "Digital marketing optimization plays a major role in whether a marketing program grows or remains stagnant. Most teams are running campaigns, tracking metrics, and still scratching their heads,..."
+  },
+  {
+    "title": "Code with Claude: The 5 biggest updates explained",
+    "url": "https://www.lennysnewsletter.com/p/code-with-claude-the-5-biggest-updates",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-07",
+    "summary": "Watch now | 🎙️ Everything Anthropic launched at Code with Claude"
+  },
+  {
+    "title": "PMM Powerhour: Partner marketing",
+    "url": "https://www.productmarketingalliance.com/pmm-powerhour/partner-marketing/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-06",
+    "summary": ""
+  },
+  {
+    "title": "5 science-backed pricing tips from the U.K.’s top marketing podcast",
+    "url": "https://blog.hubspot.com/marketing/science-backed-pricing",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-06",
+    "summary": "In 2007 , Coulter and Coulter showed two advertisements to two random groups of customers. Each advertised £10 discounts on flights to Turkey. One listed the tickets at £188. The other showed a..."
+  },
+  {
+    "title": "Brand Visibility: How to Increase It in the Era of AI",
+    "url": "https://blog.hubspot.com/marketing/brand-visibility",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-06",
+    "summary": "Brand visibility determines whether your business gets found or gets passed over — in search results, on social feeds, and increasingly, in AI-generated answers. It’s one of the highest-leverage..."
+  },
+  {
+    "title": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
+    "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-06",
+    "summary": "Watch now | 🎙️Sendbird’s CEO turned AI adoption into a product, including quests, token tiers, and a marketing team that ships live swag stores in a day with zero engineers"
+  },
+  {
+    "title": "Product SEO: 8 Strategies That Drive Demand for B2B & SaaS",
+    "url": "https://blog.hubspot.com/marketing/product-seo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-05",
+    "summary": "Product SEO is one of the highest-leveraged — and most overlooked — strategies in B2B and SaaS marketing. While most teams pour resources into top-of-funnel content, the pages that actually drive..."
+  },
+  {
+    "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
+    "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-05",
+    "summary": "How to build an AI monetization strategy that actually works"
+  },
+  {
+    "title": "Our Vision for Building an Open Ecosystem for the Agent Era",
+    "url": "https://blog.hubspot.com/marketing/our-vision-for-building-an-open-ecosystem-for-the-agent-era",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-04",
+    "summary": "For years, HubSpot invested in making our platform the best place for marketing, sales, and service teams to do their work. With AI, we’ve been building it to do the work for them – through agents..."
+  },
+  {
+    "title": "Keyword clustering: How to create a strategy for topic authority in 2026",
+    "url": "https://blog.hubspot.com/marketing/keyword-clustering",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-04",
+    "summary": "As a content writer with over 7 years of SEO experience, I can confidently say that keyword clustering is a critical technique—even in a world where the SEO landscape has changed significantly."
+  },
+  {
+    "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
+    "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-04",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
+  },
+  {
+    "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
+    "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-04",
+    "summary": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes"
+  },
+  {
+    "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
+    "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-03",
+    "summary": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”"
+  },
+  {
+    "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-02",
+    "summary": "Community Wisdom 184"
+  },
+  {
+    "title": "AEO prompt tracking for marketing teams",
+    "url": "https://blog.hubspot.com/marketing/aeo-prompt-tracking",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-01",
+    "summary": "You already track and analyze your SEO strategy — keyword rankings, organic traffic, SERP positions. But when a prospect asks ChatGPT, Perplexity, or Google AI Overviews a buying question and your..."
+  },
+  {
+    "title": "AI is the answer to the sales growth-without-headcount problem",
+    "url": "https://www.intercom.com/blog/the-sales-growth-without-headcount-problem/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-04-28",
+    "summary": "Sales teams are asked to deliver more pipeline whether headcount follows or not. AI Agents are the first real answer to that constraint."
+  },
+  {
+    "title": "AEO Competitor Analysis: Track AI Answer Engine Rivals",
+    "url": "https://blog.hubspot.com/marketing/aeo-competitor-analysis",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "Every company’s competitors are showing up in AI-generated answers, but do marketers know which ones, for which queries, and why? That’s exactly what AEO competitor analysis is designed to tell teams."
+  },
+  {
+    "title": "Share of Voice Tools for Growing Companies",
+    "url": "https://blog.hubspot.com/marketing/share-of-voice-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "When tracking share of voice for marketing teams, it’s often assumed to be a vanity metric — a number executives like to include in board decks but one that rarely influences strategy. In practice,..."
+  },
+  {
+    "title": "Zero-click searches and the future of your marketing funnel",
+    "url": "https://blog.hubspot.com/marketing/zero-click-searches",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "Search results used to be a doorway. A brand ranked, someone clicked, and they landed on a website. But today, that model is eroding faster than most marketing teams are equipped to move."
+  },
+  {
+    "title": "Free Answer Engine Optimization Tools to Benchmark LLM Visibility",
+    "url": "https://blog.hubspot.com/marketing/free-aeo-tool-benchmark",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "I’ve spent considerable time testing free answer engine optimization tools across dozens of brand audits, and the verdict is clear: you don’t need a five-figure tech stack to get meaningful AEO data."
+  },
+  {
+    "title": "How to do keyword research for AEO (+ Tools)",
+    "url": "https://blog.hubspot.com/marketing/keyword-research-tools-for-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "When I first started auditing content for answer engine visibility, I assumed the keyword research process was roughly the same as traditional SEO — just with a few tweaks. I was wrong."
+  },
+  {
+    "title": "Is AI Killing Web Traffic? How AI Overviews Impact Organic Website Traffic",
+    "url": "https://blog.hubspot.com/marketing/is-ai-killing-web-traffic",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "Every few years, marketing headlines announce the demise of one foundational strategy or another. First, email, then blogging, then search engines. Now, with the rise of AI comes the question, “Is AI..."
+  },
+  {
+    "title": "15 Competitor Monitoring Tools Teams Actually Use (2026)",
+    "url": "https://blog.hubspot.com/marketing/competitor-monitoring-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "Your competitors are adjusting pricing, launching new ad creative, publishing content that outranks yours, and showing up in AI answers you didn’t know existed — often all in the same week...."
+  },
+  {
+    "title": "How we Operate as an AI-first Company",
+    "url": "https://blog.hubspot.com/marketing/how-we-operate-as-an-ai-first-company",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "This is part three of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part two covers how we grow with Agent-first GTM."
+  },
+  {
+    "title": "How we Grow with Agent-first GTM",
+    "url": "https://blog.hubspot.com/marketing/how-we-grow-with-agent-first-gtm",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "This is part two of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part three is how we operate as an AI-first company."
+  },
+  {
+    "title": "How we Build with AI",
+    "url": "https://blog.hubspot.com/marketing/how-we-build-with-ai",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "This is part one of a three-part series on how HubSpot transformed with AI. Part two covers how we grow with Agent-first GTM. Part three is how we operate as an AI-first company."
+  },
+  {
+    "title": "6 top answer engine optimization benefits for growth and enterprise marketers",
+    "url": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-28",
+    "summary": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As AI-powered search engines like ChatGPT, Google AI Overviews, and Perplexity handle a growing..."
+  },
+  {
+    "title": "Your Couch-to-5K for AI",
+    "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-28",
+    "summary": "A step-by-step guide to building an AI habit that sticks"
+  },
+  {
+    "title": "Answer engine optimization vs. traditional SEO: What marketers need to know",
+    "url": "https://blog.hubspot.com/marketing/aeo-vs-seo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-27",
+    "summary": "Understanding answer engine optimization (AEO) vs. traditional SEO has become mission-critical for content managers and marketing leaders as search shifts toward AI-generated responses, voice..."
+  },
+  {
+    "title": "AI visibility score: How to summarize your AI visibility",
+    "url": "https://blog.hubspot.com/marketing/ai-visibility-score",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-27",
+    "summary": "Your brand’s AI visibility score covers the part of the search landscape that traditional SEO rank tracking can’t see. Tracking it is becoming as essential as monitoring Google rankings — and a lot..."
+  },
+  {
+    "title": "Best practices for answer engine optimization (AEO) marketing teams can't ignore",
+    "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-best-practices",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-27",
+    "summary": "Search behavior has changed dramatically, and teams need to learn answer engine optimization (AEO) best practices to keep up. While traditional search engines still dominate, people increasingly turn..."
+  },
+  {
+    "title": "How to Optimize Content for ChatGPT: An AI Discovery Guide",
+    "url": "https://blog.hubspot.com/marketing/how-to-optimize-content-for-chatgpt",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-27",
+    "summary": "A lot is going on in search today. Google still reigns supreme, but the competition and evolution coming from AI alternatives have many marketers wondering how to optimize for ChatGPT."
+  },
+  {
+    "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
+    "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-27",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
+  },
+  {
+    "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
+    "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-27",
+    "summary": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users"
+  },
+  {
+    "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+    "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-26",
+    "summary": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats..."
+  },
+  {
+    "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-25",
+    "summary": "Community Wisdom 182"
+  },
+  {
+    "title": "AI citation tracking: How to track (and grow) AI engine citations",
+    "url": "https://blog.hubspot.com/marketing/ai-citation-tracking",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-24",
+    "summary": "AI search engine citation tracking helps measure brand visibility and authority in AI-powered search results. As AI-powered search experiences reshape how people discover information, evaluate..."
+  },
+  {
+    "title": "Introducing the Sales Agent Blueprint",
+    "url": "https://www.intercom.com/blog/introducing-the-sales-agent-blueprint/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-04-23",
+    "summary": "Today we’re announcing The Sales Agent Blueprint, a map for launching and scaling AI for sales with confidence."
+  },
+  {
+    "title": "Generative engine optimization KPIs that actually matter for marketing teams",
+    "url": "https://blog.hubspot.com/marketing/geo-kpis",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-23",
+    "summary": "Generative AI is changing how people discover brands, products, and information. Because it disrupts the buyer journey, it requires new metrics, specifically GEO KPIs, that accurately reflect..."
+  },
+  {
+    "title": "GPT 5.5 just did what no other model could",
+    "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-23",
+    "summary": "Watch now | 🎙️ Why I'm happy to pay $180 per million output tokens for GPT 5.5 Pro, what it actually did in my Codex workflow, and the intelligence test it completed that Claude Code kept failing"
+  },
+  {
+    "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+    "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-23",
+    "summary": "Listen now | Head of Product for Claude Code on how AI is changing the PM role, building products before the model is ready, inside Claude Code's launch room process, and why speed now matters more..."
+  },
+  {
+    "title": "Announcing Fin for Sales: A new role for Fin Customer Agent",
+    "url": "https://www.intercom.com/blog/announcing-fin-for-sales/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-04-22",
+    "summary": "At Pioneer, we shared our vision of a single Customer Agent working across the customer lifecycle. Fin for Sales is a big step towards that vision, and brings Fin to the start of the customer journey."
+  },
+  {
+    "title": "AEO metrics every marketer should track in 2026",
+    "url": "https://blog.hubspot.com/marketing/aeo-metrics",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-22",
+    "summary": "According to Adobe Express, 77% of Americans have used ChatGPT as a search tool. Although Google still owns a large share of traditional search, it’s becoming clearer that discovery no longer happens..."
+  },
+  {
+    "title": "AEO Strategy for B2B: 9 Tactics to Increase B2B Answer Engine Visibility",
+    "url": "https://blog.hubspot.com/marketing/aeo-b2b-strategy",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-22",
+    "summary": "Research shows that 32% of buyers discover new B2B vendors using generative AI chatbots. This is why an answer engine optimization (AEO) strategy for B2B businesses is essential . AI-driven answer..."
+  },
+  {
+    "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
+    "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-22",
+    "summary": "Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets"
+  },
+  {
+    "title": "AI is approving our pull requests: Here’s how we made it safe",
+    "url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-04-21",
+    "summary": "We're producing more code than ever at Intercom. Here's how we're safely using AI for PR approval."
+  },
+  {
+    "title": "The future of generative engine optimization: How 5 GEO trends reshape loop and inbound marketing",
+    "url": "https://blog.hubspot.com/marketing/future-of-geo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-21",
+    "summary": "​​GEO — or, as HubSpot refers to it, AEO — has found its place in the search landscape, and it’s reasonable to think that the future of generative engine optimization is guaranteed. According to..."
+  },
+  {
+    "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
+    "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-04-21",
+    "summary": "Now 25 incredible products totaling over $30,000 in value—free with your Lenny’s Newsletter subscription"
+  },
+  {
+    "title": "8 Ways to Elevate Your Brand as a Creator or Entrepreneur (& Close the Pay Gap)",
+    "url": "https://blog.hubspot.com/marketing/grow-your-personal-brand-minority-creator",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-17",
+    "summary": "While many are still skeptical, the global creator economy is expected to reach $1.18 trillion USD by 2032 . And for minority creators and entrepreneurs from underrepresented groups, this moment is..."
+  },
+  {
+    "title": "The hardest percentages",
+    "url": "https://www.intercom.com/blog/the-hardest-percentages/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-04-14",
+    "summary": "Solving your customers' most challenging problems is what your support team exists for. With Procedures, Fin can do this too."
+  },
+  {
+    "title": "Answer engine optimization case studies that prove the ROI of AEO in 2026",
+    "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-case-studies",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "Answer engines are already influencing how buyers discover brands — and the results are measurable. According to the 2026 HubSpot State of Marketing report, 58% of marketers say visitors referred by..."
+  },
+  {
+    "title": "AEO vs. GEO explained: What marketers need to know now",
+    "url": "https://blog.hubspot.com/marketing/aeo-vs-geo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "Marketers use AEO and GEO interchangeably, but there is a difference, and that’s what will be defined and explained in this article. In brief, AEO optimizes content for answer boxes and voice search..."
+  },
+  {
+    "title": "SEO audits: How to conduct one that drives traffic growth [+ checklist]",
+    "url": "https://blog.hubspot.com/marketing/seo-audit",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "At its core, an SEO audit is a step-by-step review of your website’s technical health, content quality, and search visibility. An SEO audit identifies technical, on-page, content, and link issues on..."
+  },
+  {
+    "title": "8 Generative engine optimization best practices your strategy needs",
+    "url": "https://blog.hubspot.com/marketing/generative-engine-optimization-best-practices",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "Despite what the headlines would have you believe, artificial intelligence (AI) isn’t new. The term and early technology date back to the 1950s , but generative AI (which emerged in the 2010s) is..."
+  },
+  {
+    "title": "How HubSpot became the #1 CRM in AI search [A case study]",
+    "url": "https://blog.hubspot.com/marketing/hubspot-aeo-case-study",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "Today, more and more buyers are beginning their journey with an AI-search. They may ask ChatGPT to compare products or use an AI-powered platform like Perplexity. Or, they're just Googling an..."
+  },
+  {
+    "title": "What AEO rank trackers measure and why marketers need them",
+    "url": "https://blog.hubspot.com/marketing/aeo-rank-trackers",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "If you’re asking yourself, “How can I measure AEO success?”, AEO rank trackers should be your next investment. They gauge your brand visibility in AI-generated answers, considering metrics like..."
+  },
+  {
+    "title": "AEO Insights: Building an Informed Answer Engine Strategy",
+    "url": "https://blog.hubspot.com/marketing/aeo-insights",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "By now, you know that everyone’s buzzing over answer engine optimization (AEO). So, just what is AEO in marketing? It’s a new way of ensuring your brand shows up in the places your prospects are..."
+  },
+  {
+    "title": "How to Show Up in ChatGPT Results and Get Noticed by Customers",
+    "url": "https://blog.hubspot.com/marketing/how-to-show-up-in-chatgpt-results",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "There’s a lot of conjecture out there about how to show up in ChatGPT results, but if you want advice from a practitioner who’s actually done it , keep reading."
+  },
+  {
+    "title": "The FSA framework explained: Why AI engines cite certain brands (and how marketers can use it)",
+    "url": "https://blog.hubspot.com/marketing/fsa-framework",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-14",
+    "summary": "Most marketing teams I talk to are doing genuinely good SEO, and yet when they open ChatGPT or Perplexity and type in the prompts their buyers are actually using, their brand is nowhere to be found...."
+  },
+  {
+    "title": "The Real AI Race Isn't About Models or Data. It's About Context.",
+    "url": "https://blog.hubspot.com/marketing/the-real-ai-race-isnt-about-models-or-data-its-about-context",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-09",
+    "summary": "Every company I talk to right now is convinced they have an AI problem."
+  },
+  {
+    "title": "AEO strategy for SaaS: 6 tactics that convert prospects into trials",
+    "url": "https://blog.hubspot.com/marketing/aeo-for-saas-companies",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-09",
+    "summary": "An AEO strategy for SaaS won’t stray too far from a good SEO strategy, but some tactics benefit AI search more than others, and it helps to know what these are. We all know that AI has shifted how..."
+  },
+  {
+    "title": "Loop Marketing vs. traditional marketing: What’s the difference?",
+    "url": "https://blog.hubspot.com/marketing/loop-marketing-vs-traditional-marketing",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-08",
+    "summary": "Two-thirds of marketers say that marketing has changed more in the past three years than in the past 50. Understanding Loop Marketing versus traditional marketing has become essential for marketers..."
+  },
+  {
+    "title": "Marketing forecast fundamentals every growth team needs",
+    "url": "https://blog.hubspot.com/marketing/marketing-forecast",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-08",
+    "summary": "A marketing forecast estimates future marketing results, such as leads, pipeline, and revenue, using historical data and conversion assumptions. Marketing forecasting connects planned activity to..."
+  },
+  {
+    "title": "Knowing About AI Isn't Enough. Here's How to Actually Use It.",
+    "url": "https://blog.hubspot.com/marketing/ai-enablement",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-08",
+    "summary": "Maybe you’ve opened ChatGPT a handful of times, gotten subpar results, and moved on. Maybe you’ve sat through an AI training or two and thought, “Cool, but how does this actually apply to my job?” Or..."
+  },
+  {
+    "title": "From Signup to Value: How AI Is Changing Activation in SaaS",
+    "url": "https://alleged-peace.flywheelsites.com/from-signup-to-value-how-ai-is-changing-activation-in-saas/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2026-04-07",
+    "summary": "Users are trying a new product and getting to value faster than ever. That first “oh, this actually works” feeling, which used to take days of setup and onboarding, is now happening in the first..."
+  },
+  {
+    "title": "Profound vs. AthenaHQ AI: Which AEO platform fits your growth stack?",
+    "url": "https://blog.hubspot.com/marketing/profound-vs-athenahq",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-06",
+    "summary": "AI-referred traffic has increased by 600% since January 2025, and marketers are racing to understand what that means for brand discovery. For teams seeking clarity on how AI impacts brand and..."
+  },
+  {
+    "title": "Best workflow automation software: How to choose the right tool for your growth stage",
+    "url": "https://blog.hubspot.com/marketing/workflow-automation-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-06",
+    "summary": "Workflow automation tools automate repetitive business tasks across systems using defined triggers and logic. These platforms link apps, CRM data, and communication channels to execute multi-step..."
+  },
+  {
+    "title": "AI-driven email personalization strategies that actually work",
+    "url": "https://blog.hubspot.com/marketing/ai-driven-email-personalization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-06",
+    "summary": "Email personalization drives measurable revenue impact. According to HubSpot’s 2026 State of Marketing report , 93.2% of marketers say personalized or segmented experiences generate more leads and..."
+  },
+  {
+    "title": "How AI improves email deliverability beyond send times",
+    "url": "https://blog.hubspot.com/marketing/ai-email-deliverability-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-02",
+    "summary": "Email deliverability is cumulative, and AI email deliverability optimization works by reinforcing the sending behaviors that mailbox providers already measure over time. Mailbox providers evaluate..."
+  },
+  {
+    "title": "Best Content Marketing Tools: The Top 20 for Next-Level Success in 2026",
+    "url": "https://blog.hubspot.com/marketing/content-marketing-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-04-01",
+    "summary": "Being a content marketer isn’t easy. You need to be a writer, designer, and editor; have knowledge of user experience, project management, analytics, your industry, and much more. With so many things..."
+  },
+  {
+    "title": "Page Authority: How to Build Pages That Rank",
+    "url": "https://blog.hubspot.com/marketing/page-authority",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-03-31",
+    "summary": "When I first started working in content and weaving SEO into my strategy, I treated Page Authority like a report card: the higher the score, the better I was doing. It took a few humbling ranking..."
+  },
+  {
+    "title": "Brand optimization: What it is and why your AI visibility depends on it",
+    "url": "https://blog.hubspot.com/marketing/brand-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-03-30",
+    "summary": "Consistency is key to achieving any goal. Want to learn to play the piano? Practice consistently. Trying to get in shape for a sibling's wedding? Exercise and eat healthily consistently. Want your..."
+  },
+  {
+    "title": "ChartMogul + Crono: bringing outbound workflow to ChartMogul CRM",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-crono-bringing-outbound-leads-into-chartmogul-crm/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2026-02-09",
+    "summary": "Outbound sales is really about one thing: starting the conversation. When it’s done well, it isn’t about pressure or persuasion tricks. It’s about showing up with something genuinely worth offering...."
+  },
+  {
+    "title": "Introducing the native ChartMogul integration for n8n",
+    "url": "https://alleged-peace.flywheelsites.com/introducing-the-native-chartmogul-integration-for-n8n/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2026-01-16",
+    "summary": "We’re excited to share that ChartMogul is now available as a native integration in n8n, giving you a faster, easier, and more flexible way to build automated workflows around your customer data. If..."
+  },
+  {
+    "title": "AI in SaaS: What the Law Currently Says",
+    "url": "https://alleged-peace.flywheelsites.com/ai-in-saas-what-the-law-currently-says/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2026-01-07",
+    "summary": "AI has moved from a side project to a core capability in SaaS products. Teams are integrating LLMs into customer support workflows, analytics pipelines, internal tools, and even core product..."
+  },
+  {
+    "title": "Why it has never been easier or cheaper to build a high-accuracy SaaS attribution model",
+    "url": "https://alleged-peace.flywheelsites.com/why-it-has-never-been-easier-or-cheaper-to-build-a-high-accuracy-saas-attribution-model/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-11-19",
+    "summary": "Marketing attribution in SaaS has a reputation for being complex, unreliable, and expensive. Over the last fifteen years, the industry has focused heavily on pipeline performance marketing. Many..."
+  },
+  {
+    "title": "Fast forever: how to keep shipping at speed as your SaaS company grows",
+    "url": "https://alleged-peace.flywheelsites.com/fast-forever-how-to-keep-shipping-at-speed-as-your-saas-company-grows/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-10-30",
+    "summary": "We’ve been building ChartMogul for more than a decade. I’m a product-focused generalist and a solo founder with a deep love for design and detail. Over the years, I’ve come to believe that a..."
+  },
+  {
+    "title": "Enhanced support for tracking free trials and freemium subscriptions in ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/enhanced-support-for-tracking-free-trials-and-freemium-subscriptions-in-chartmogul/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-10-16",
+    "summary": "SaaS companies have long relied on free trials and freemium tiers to reduce adoption friction and grow faster. They are powerful strategies that allow users to experience value before making a..."
+  },
+  {
+    "title": "Model your SaaS growth with Scenarios",
+    "url": "https://alleged-peace.flywheelsites.com/model-your-saas-growth-with-scenarios/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-08-12",
+    "summary": "What would happen if you reduced churn by 20%? Raised prices by 10%? Doubled your free trial volume? With ChartMogul’s new Scenarios feature, you can explore how key business decisions might impact..."
+  },
+  {
+    "title": "Sync SaaS metrics to HubSpot Companies",
+    "url": "https://alleged-peace.flywheelsites.com/sync-saas-metrics-to-hubspot-companies/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-08-06",
+    "summary": "You can now automatically sync key subscription data from ChartMogul including MRR, customer status, billing cycles, and more, directly to Company records in HubSpot. That means your sales,..."
+  },
+  {
+    "title": "Should founders care about startup branding?",
+    "url": "https://alleged-peace.flywheelsites.com/startup-branding/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-07-24",
+    "summary": "Startup branding isn’t just for later-stage companies with big budgets. It’s something early-stage startups can (and should) care about from day one. The reason is simple: you already have a brand...."
+  },
+  {
+    "title": "More control, 90% less CDP spend: why we moved from Segment to Jitsu",
+    "url": "https://alleged-peace.flywheelsites.com/more-control-less-spend-cdp/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-06-30",
+    "summary": "A few months ago, I was reviewing our RevOps budget when one line item jumped out: our Customer Data Platform (CDP) spend. It hadn’t changed in over a year, but our use of the platform had. That..."
+  },
+  {
+    "title": "Chat with your revenue data: ChartMogul’s experimental MCP server",
+    "url": "https://alleged-peace.flywheelsites.com/chat-with-your-revenue-data/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-06-16",
+    "summary": "AI is quickly becoming the new interface of the internet, not just for finding information, but for getting things done. So what if you could also chat with your SaaS metrics? Today, we’re releasing..."
+  },
+  {
+    "title": "How we run customer onboarding at ChartMogul + a SaaS customer onboarding template",
+    "url": "https://alleged-peace.flywheelsites.com/how-we-run-customer-onboarding/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-06-05",
+    "summary": "When you think about SaaS onboarding, what comes to mind? Scores of help docs and maybe a few automated emails? In reality, onboarding requires significantly more human effort than most people..."
+  },
+  {
+    "title": "5 stops, 5 lessons: what we learned from a season of SaaS events",
+    "url": "https://alleged-peace.flywheelsites.com/5-stops-5-lessons-what-we-learned-from-a-season-of-saas-events/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-05-30",
+    "summary": "This spring, we packed our bags and hit the road. ChartMogul’s goals for the start of the 2025 event season were simple. Spend time with customers. Listen more than we talk. Learn what’s shaping SaaS..."
+  },
+  {
+    "title": "Transform customer data with AI-powered enrichment",
+    "url": "https://alleged-peace.flywheelsites.com/transform-customer-data-with-ai-powered-enrichment/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-05-29",
+    "summary": "We’re excited to bring AI-based enrichment to every ChartMogul customer, across both CRM and Subscription Analytics. Late last year, we quietly rolled out an AI-powered enrichment feature to a small..."
+  },
+  {
+    "title": "How we reduced Snowflake costs by 70%: a practical optimization guide",
+    "url": "https://alleged-peace.flywheelsites.com/how-we-reduced-snowflake-costs-by-70-a-practical-optimization-guide/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-05-22",
+    "summary": "Snowflake is a powerful data platform known for its scalability and ease of use, but its consumption-based pricing requires careful cost management. Without active monitoring and optimization, usage..."
+  },
+  {
+    "title": "Without an ideal customer profile (ICP), your growth is just guesswork",
+    "url": "https://alleged-peace.flywheelsites.com/ideal-customer-profile-icp/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-05-07",
+    "summary": "Defining an Ideal Customer Profile (ICP) forces you to focus, prioritize, and hone in on your specific target market. It seems obvious: focus brings team unity and compounds the impact of everyone’s..."
+  },
+  {
+    "title": "Stay consistent with sequences that drive results",
+    "url": "https://alleged-peace.flywheelsites.com/stay-consistent-with-sequences/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-04-29",
+    "summary": "Sales success comes down to timing and consistency. But in the day-to-day hustle of managing leads, it’s easy for follow-ups to fall through the cracks or become repetitive and manual. That’s why..."
+  },
+  {
+    "title": "How we use automations at ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/how-we-use-automations-at-chartmogul/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-02-25",
+    "summary": "A little reminder—your sales team has a lot on their plate. You want your reps focused on hunting new business, not manual tasks. The more you can do to make their lives easier, the more they can..."
+  },
+  {
+    "title": "Sales and marketing 101 for startups: driving growth together",
+    "url": "https://alleged-peace.flywheelsites.com/sales-and-marketing-101-for-startups/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-02-13",
+    "summary": "When and how to launch sales and marketing is a tough topic for most startup founders. It often means investing a lot of time and money without certainty that it will pay off. But sales and marketing..."
+  },
+  {
+    "title": "A guide to SaaS pricing models",
+    "url": "https://alleged-peace.flywheelsites.com/saas-pricing-models/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-01-30",
+    "summary": "Pricing a product is tough. You need to maintain healthy margins, stay competitive, and make sure it’s appealing to customers, all at once. And if the product isn’t selling, the first instinct is..."
+  },
+  {
+    "title": "Should discounts be included in MRR?",
+    "url": "https://alleged-peace.flywheelsites.com/should-discounts-be-included-in-mrr/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-01-20",
+    "summary": "78% of SaaS businesses offer discounts, according to a poll by SaaStr. Since discounts are a staple in SaaS, founders often ask, “How should MRR be calculated for discounted customers? Should MRR be..."
+  },
+  {
+    "title": "SaaS sales for startup leaders",
+    "url": "https://alleged-peace.flywheelsites.com/saas-sales-for-startup-leaders/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2025-01-09",
+    "summary": "You’ve built an amazing product—something you’re genuinely proud of. But now comes the part that can feel a little overwhelming: selling it. For many founders, it’s not just about convincing..."
+  },
+  {
+    "title": "ChartMogul 2024: Year in Review",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2024-year-in-review/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-12-18",
+    "summary": "Here are the highlights from the past 12 months."
+  },
+  {
+    "title": "25 predictions for SaaS in 2025",
+    "url": "https://alleged-peace.flywheelsites.com/25-predictions-for-saas-in-2025/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-12-12",
+    "summary": "2024 was a big year for SaaS with AI in the spotlight and new pricing models shaking things up. What will 2025 bring?"
+  },
+  {
+    "title": "How to use kanban for sales opportunity management",
+    "url": "https://alleged-peace.flywheelsites.com/kanban-for-sales-opportunity-management/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-12-05",
+    "summary": "Kanban boards are perfect for managing the sales funnel, but only work if your sales pipeline management and stages are clear and everyone understands them."
+  },
+  {
+    "title": "Our revamped approach to data cleaning",
+    "url": "https://alleged-peace.flywheelsites.com/our-revamped-approach-to-data-cleaning/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-11-25",
+    "summary": "To generate accurate metrics, you need clean data—here’s how our improved data cleaning features make that easier."
+  },
+  {
+    "title": "Getting started with marketing attribution",
+    "url": "https://alleged-peace.flywheelsites.com/getting-started-with-marketing-attribution/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-11-19",
+    "summary": "Marketing attribution is all about figuring out which marketing efforts are driving results. At ChartMogul, we used to struggle with answering key questions like “Where do our best leads come from?”..."
+  },
+  {
+    "title": "When should you recognize churn?",
+    "url": "https://alleged-peace.flywheelsites.com/when-should-you-recognize-churn/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-11-13",
+    "summary": "Tracking churn is crucial in SaaS, but deciding when to recognize customers as churned can be tricky."
+  },
+  {
+    "title": "Penetration pricing in SaaS: risks, challenges, and pro tips",
+    "url": "https://alleged-peace.flywheelsites.com/penetration-pricing-in-saas/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-11-11",
+    "summary": "Penetration pricing sounds like a no-brainer for new businesses: come in with the lowest price, attract customers, raise the price later, and watch your revenue grow. As simple as that. Or is it?..."
+  },
+  {
+    "title": "Mastering account management in B2B SaaS",
+    "url": "https://alleged-peace.flywheelsites.com/mastering-account-management-in-b2b-saas/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-10-30",
+    "summary": "Account Management is a delightfully intricate balance of art and science. When I joined ChartMogul, I was tasked with building a new Account Management function from the ground up. As we all know,..."
+  },
+  {
+    "title": "A guide to customer-led growth (CLG) for SaaS leaders",
+    "url": "https://alleged-peace.flywheelsites.com/a-guide-to-customer-led-growth/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-10-23",
+    "summary": "Businesses have been striving to deliver great customer experiences for ages. Now, suddenly, it’s being called a revolutionary growth strategy—customer-led growth. Is it just a buzzword, or is it..."
+  },
+  {
+    "title": "How Intruder gains perspective with ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/how-intruder-gains-perspective-with-chartmogul/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-10-17",
+    "summary": "\"Singular events can distort reality, but ChartMogul helps us see the bigger picture\", says Patrick Craston, Intruder's CTO. We sat down with Patrick to learn about how Intruder gains perspective on..."
+  },
+  {
+    "title": "Revenue Operations 101 for SaaS Companies",
+    "url": "https://alleged-peace.flywheelsites.com/saas-revenue-operations-101/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-09-26",
+    "summary": "Revenue operations isn’t a magic wand, even though many present it that way. It’s a set of deliberate, strategic actions designed to improve your internal processes and drive revenue growth—no magic,..."
+  },
+  {
+    "title": "How Slidebean tracks growth with ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/how-slidebean-tracks-growth-with-chartmogul/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-09-10",
+    "summary": "“If you see it you can act on it,” says Caya, CEO. With no easy way to calculate and analyze metrics in the early days of Slidebean the team was left trying to figure out how to combine data into a..."
+  },
+  {
+    "title": "Why we decided to rebuild our Sidekiq infrastructure to support greater scale",
+    "url": "https://alleged-peace.flywheelsites.com/autoscaling-sidekiq/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-08-13",
+    "summary": "Two years ago we were struggling with background processing which was a problem for our application."
+  },
+  {
+    "title": "SaaS growth remains slow throughout H1 2024",
+    "url": "https://alleged-peace.flywheelsites.com/saas-growth-remains-slow-throughout-h1-2024/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-07-10",
+    "summary": "ChartMogul‘s June SaaS growth data is here. The first half of 2024 is marked by a steady growth landscape for most SaaS companies. We continue to see glimmers of growth in certain ARPA segments after..."
+  },
+  {
+    "title": "Build custom dashboards for each team",
+    "url": "https://alleged-peace.flywheelsites.com/build-team-workspaces-with-dashboards-and-folders/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-07-08",
+    "summary": "Give your teams faster access to the metrics that matter most to them with team dashboards and folders."
+  },
+  {
+    "title": "New integrations with HubSpot, Segment and Intercom",
+    "url": "https://alleged-peace.flywheelsites.com/new-integrations-with-hubspot-segment-and-intercom/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-05-21",
+    "summary": "We’ve released three new integrations that enhance your ability to segment your customer base and provide visibility over lead and trial data."
+  },
+  {
+    "title": "Automate repetitive tasks in ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/automate-repetitive-tasks-in-chartmogul/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-05-21",
+    "summary": "Set up automations in your account to make repetitive tasks easier, cut down on mistakes and help your team work faster."
+  },
+  {
+    "title": "ChartMogul’s product roadmap through 2024",
+    "url": "https://alleged-peace.flywheelsites.com/chartmoguls-product-roadmap-through-2024/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-05-02",
+    "summary": "For the first time ever, we’re publishing ChartMogul’s product roadmap publicly, covering what we’re building through to the end of 2024."
+  },
+  {
+    "title": "Upgraded Braintree integration: greater visibility and control",
+    "url": "https://alleged-peace.flywheelsites.com/upgraded-braintree-integration-greater-visibility-and-control/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-04-02",
+    "summary": "We’ve upgraded the integration between ChartMogul and Braintree to give you more control and visibility into your subscription revenue data."
+  },
+  {
+    "title": "How to break into Silicon Valley",
+    "url": "https://andrewchen.com/how-to-break-into-silicon-valley/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-02-26",
+    "summary": "(Above: No, it doesn’t really look like this — and yes it’s mostly office parks and tech billboards. But I like to pretend) You’ll never regret spending time in SF If you work in tech, you’ll never..."
+  },
+  {
+    "title": "The “Dinner Party Jerk” test — why founders need to pitch themselves harder and more futuristically",
+    "url": "https://andrewchen.com/the-dinner-party-jerk-test/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-02-12",
+    "summary": "The “Dinner Party Jerk” test is a solution to a common problem: Startups often struggle at pitching their team, even though for the earliest stage companies, it’s incredibly important to do it well..."
+  },
+  {
+    "title": "Startups need dual theories on distribution and product/market fit. One is not enough",
+    "url": "https://andrewchen.com/startups-need-dual-theories-on-distribution-and-product-market-fit-one-is-not-enough/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-02-06",
+    "summary": "It’s hard to be a product without a strong theory of distribution Here’s a common startup situation. A team busts their ass for months building the first version of their product. It’s almost done...."
+  },
+  {
+    "title": "Every time you ask the user to click you lose half",
+    "url": "https://andrewchen.com/every-time-you-ask-the-user-click-you-lose-half/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-02-05",
+    "summary": "Every time you ask the user click you lose half of them. (And this why tutorials, splash screens, and lengthy signup flows are a bad idea) If you’ve been building apps for a long time and have seen..."
+  },
+  {
+    "title": "Upgraded Recurly integration: do more with your data",
+    "url": "https://alleged-peace.flywheelsites.com/upgraded-recurly-integration-do-more-with-your-data/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-02-02",
+    "summary": "Our new and improved Recurly integration gives you more transparency into your data, creates greater accuracy in reporting and lets you export more components."
+  },
+  {
+    "title": "Why the worst users come from referral programs, free trials, coupons, and gamification",
+    "url": "https://andrewchen.com/worst-users-referral-trials-coupons-gamification/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-31",
+    "summary": "Above: Many small business figured out the hard way why coupon sites generate worse users Incentive programs often don’t perform The people you attract with referral programs, free trials, coupons,..."
+  },
+  {
+    "title": "The most expensive game cost over $1B, and how AI will transform it",
+    "url": "https://andrewchen.com/the-most-expensive-video-game/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-23",
+    "summary": "Grand Theft Auto 6 and the future of AI If you happened to miss it, a few weeks back, here is the game trailer for Grand Theft Auto 6. It’s worth watching, and is amazing on multiple levels. But GTA..."
+  },
+  {
+    "title": "How to write more",
+    "url": "https://andrewchen.com/how-to-write-more/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-15",
+    "summary": "Dear readers, As we enter a new year, many of us are setting goals to write more and create more content. As someone who has been writing consistently for the past decade, I wanted to share some..."
+  },
+  {
+    "title": "How to write a business book — behind the scenes from THE COLD START PROBLEM",
+    "url": "https://andrewchen.com/how-to-write-a-business-book/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-15",
+    "summary": "(above: Me in Sep 2023, a happy author, finding the Japanese translated version of my book at the wonderful Daikanyama Tsutaya Books in Tokyo) Dear readers, As many of you know, 2 years ago I..."
+  },
+  {
+    "title": "Don’t Be a “Woe is Me” Founder. That’s Always a Recipe for Failure. Especially Now, In The Age of AI",
+    "url": "https://www.saastr.com/dont-be-a-woe-is-me-founder-thats-always-a-recipe-for-failure/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-01-13",
+    "summary": "The frenetic pace, competition ans cale in the Age of AI is leading to a lot of folks to say … Woe is Me: “It’s so hard.” “It’s not our fault.” “Well, we’ll try.” “No one wants our product.” “The..."
+  },
+  {
+    "title": "Compare your performance to the market with ChartMogul benchmarks",
+    "url": "https://alleged-peace.flywheelsites.com/compare-your-performance-to-the-market-with-chartmogul-benchmarks/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-01-11",
+    "summary": "Access the most current SaaS performance benchmarks available on the market."
+  },
+  {
+    "title": "Fun graph from Peter Attia’s book Outlive",
+    "url": "https://andrewchen.com/vo2max-outlive-book/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-10",
+    "summary": "Hey readers, This is a small deviation from my usual topics, but wanted to share. This is one of the most important graphs that I saw in 2023 that has led to behavioral change for me. This is in..."
+  },
+  {
+    "title": "Reforge Podcast: 2024 predictions, AI apps, the future of PM, what we can learn from gaming, and more",
+    "url": "https://andrewchen.com/2024-predictions-podcast/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-04",
+    "summary": "Dear readers, I was recently interviewed by the great Brian Balfour (CEO/cofounder of Reforge) and Fareed Mosavat (ex-Reforge/Slack/Zynga) which turned into a lively discussion — I think we could..."
+  },
+  {
+    "title": "Heading into 2024 – Life update, books, links, and more",
+    "url": "https://andrewchen.com/heading-into-2024/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2024-01-03",
+    "summary": "Hi readers, Doing a short round up on various links, books, a quick life update, and other stuff going on. First, I did not write much in 2023 (I was busy!!) but am proud of what I published… Blog..."
+  },
+  {
+    "title": "Using a columnar database to increase speed",
+    "url": "https://alleged-peace.flywheelsites.com/using-a-columnar-database-to-increase-speed/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2024-01-03",
+    "summary": "How our engineering team keep ChartMogul accurate, fast and scalable by enhancing our data model."
+  },
+  {
+    "title": "ChartMogul 2023: year in review",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2023-year-in-review/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-12-20",
+    "summary": "In January, venture capitalist Fred Wilson wrote “Surviving is thriving in 2023” and I think he couldn’t have been more right. This year has been tough, and the whole SaaS industry has experienced a..."
+  },
+  {
+    "title": "24 predictions for SaaS in 2024",
+    "url": "https://alleged-peace.flywheelsites.com/24-predictions-for-saas-in-2024/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-12-06",
+    "summary": "Before 2023, the term “generative AI” was met with blank faces. But over the past 12 months, Open AI’s ChatGPT has gone mainstream, Twitter has become X, Silicon Valley Bank collapsed, as did FTX,..."
+  },
+  {
+    "title": "Building a data engineering stack that boosts scalability",
+    "url": "https://alleged-peace.flywheelsites.com/building-a-data-engineering-stack-that-boosts-scalability/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-11-30",
+    "summary": "In 2021, ChartMogul experienced a transformative shift in data strategy when we introduced a dedicated data engineering team. Decision-makers still rely on ChartMogul charts and segments to analyze..."
+  },
+  {
+    "title": "Databox now integrates with ChartMogul for deeper analysis",
+    "url": "https://alleged-peace.flywheelsites.com/databox-now-integrates-with-chartmogul-for-deeper-analysis/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-11-17",
+    "summary": "How many tools do you use to collect data? These days, it’s common for SaaS companies to use an ever-growing list of tools and platforms to collect data. Often, this data ends up scattered across..."
+  },
+  {
+    "title": "Send normalized subscription data to your data warehouse",
+    "url": "https://alleged-peace.flywheelsites.com/send-normalized-subscription-data-to-your-data-warehouse/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-11-10",
+    "summary": "You spoke, we listened: instead of limiting how much data we served, we’re giving greater access, transparency, and control to data engineers. ChartMogul can now expose normalized data ready for use..."
+  },
+  {
+    "title": "What Growth Leaders are Prioritizing in 2024",
+    "url": "https://alleged-peace.flywheelsites.com/what-growth-leaders-are-prioritizing-in-2024/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-11-03",
+    "summary": "The public SaaS market more than doubled in five years, from 2015 to 2020. Revenue from new business boomed, companies had money to burn, and the name of the game was growth at all costs—full speed..."
+  },
+  {
+    "title": "Lessons Learned Scaling a SaaS Business to $10M",
+    "url": "https://alleged-peace.flywheelsites.com/lessons-learned-scaling-a-saas-business-to-10m/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-10-20",
+    "summary": "Hitting $1M in ARR is a huge milestone. Maybe it’s even time to start proclaiming product-market-fit, cautiously of course. Our data shows that average SaaS companies take almost three years to reach..."
+  },
+  {
+    "title": "It’s now easier to configure manual subscriptions",
+    "url": "https://alleged-peace.flywheelsites.com/its-now-easier-to-configure-manual-subscriptions/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-10-12",
+    "summary": "Most of the time you rely on your billing platform to run your subscriptions. However, from time to time, you may sell subscriptions that aren’t processed via your billing platform. These could be..."
+  },
+  {
+    "title": "When AI is too verbose, full of repetition and says sorry for being an AI…",
+    "url": "https://andrewchen.com/ai-verbose-repetition-sorry/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2023-09-30",
+    "summary": "Dear readers, I was triggered to write this post because ChatGPT apologies way too much, takes too long to get into the meat of an answer, and I wanted to fix that. This came up because like many of..."
+  },
+  {
+    "title": "The best SaaS blog posts and resources library",
+    "url": "https://alleged-peace.flywheelsites.com/best-saas-blogs/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-09-15",
+    "summary": "For years we have been reading and hand-picking the best SaaS blog posts to share with 24K+ SaaS Roundup subscribers. In the process, we’ve selected the creme de la creme of all the content we’ve..."
+  },
+  {
+    "title": "Unlocking Revenue Growth with Segmentation",
+    "url": "https://alleged-peace.flywheelsites.com/unlocking-revenue-growth-with-segmentation/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-09-06",
+    "summary": "You’re likely tracking all your global metrics to keep apprised of your business’ performance – ARR, churn, LTV, retention rates, etc. However, if high-level metrics are all you’re checking, you’re..."
+  },
+  {
+    "title": "How I use AI when blogging and writing",
+    "url": "https://andrewchen.com/ai-blogging/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2023-08-23",
+    "summary": "Hi readers, Over the years, I’ve shared lessons and tips from writing a professional blog — previously 10 years of professional blogging – what I’ve learned. Recently, I’ve had some major changes in..."
+  },
+  {
+    "title": "Creator Economy 2.0: What we’ve learned, why it’s hard, and what’s next",
+    "url": "https://andrewchen.com/creator-economy-20/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2023-08-21",
+    "summary": "There’s been a big wave of Creator Economy startups over the past few years, as the rise of social media platforms has empowered content creators to become a focal point for consumer engagement. This..."
+  },
+  {
+    "title": "The Next Next Job, a framework for making big career decisions",
+    "url": "https://andrewchen.com/the-next-next-job/",
+    "source": "andrew_chen",
+    "source_name": "Andrew Chen",
+    "date": "2023-08-14",
+    "summary": "A simple question The last few years have been crazy, and no wonder there’s a ton of folks thinking about making job changes right now. I know this since I’ve been getting the calls. Often the..."
+  },
+  {
+    "title": "Scaling the Sales Tech Stack",
+    "url": "https://alleged-peace.flywheelsites.com/scaling-the-sales-tech-stack/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-07-28",
+    "summary": "Four experts from the SaaS world sit down to discuss sales tech stacks, evolving your sales team, and some common mistakes organizations make building sales teams and purchasing software...."
+  },
+  {
+    "title": "How Migrating Our Database Eliminated Data Processing Incidents",
+    "url": "https://alleged-peace.flywheelsites.com/how-migrating-our-database-eliminated-data-processing-incidents/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-07-18",
+    "summary": "TL;DR We sharded one of the core ChartMogul databases and changed its tables’ partitioning scheme from LIST to HASH. This way we managed to: Context ChartMogul receives millions of webhooks from..."
+  },
+  {
+    "title": "Keep Deals Moving Forward with Tasks",
+    "url": "https://alleged-peace.flywheelsites.com/crm-tasks/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-07-11",
+    "summary": "With SaaS revenue growth at the slowest it’s been in years, every deal counts. With Tasks for ChartMogul CRM, you can track and prioritize all tasks associated with your leads, opportunities, and..."
+  },
+  {
+    "title": "Net negative churn in SaaS — definition, benchmarks & tips",
+    "url": "https://alleged-peace.flywheelsites.com/negative-churn/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-07-06",
+    "summary": "Churn, SaaS companies should avoid it like the plague. It’s a silent killer! But is the term churn always bad? Say hello to negative churn, churn’s much more friendly sister metric. You won’t avoid..."
+  },
+  {
+    "title": "The SaaS Event Strategy For In-Person Events",
+    "url": "https://alleged-peace.flywheelsites.com/the-saas-event-strategy-for-in-person-events/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-06-16",
+    "summary": "Sponsoring events like SaaStr or SaaStock is one of the cornerstones and highlights of our in-person event strategy each year. Why? Our ideal customer profiles (ICPs) are SaaS companies. We know that..."
+  },
+  {
+    "title": "SaaS Growth Trends in 2023",
+    "url": "https://alleged-peace.flywheelsites.com/saas-growth-trends-in-2023/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-06-09",
+    "summary": "What can be said about growth in the SaaS landscape in 2023? It’s unique. It’s challenging. Maybe best of all it’s hopeful. We can say decidedly: there’s a stark contrast between today and in 2020..."
+  },
+  {
+    "title": "A Guide To SaaS Customer Retention Metrics & Benchmarks in 2023",
+    "url": "https://alleged-peace.flywheelsites.com/customer-retention-guide-2023/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-06-01",
+    "summary": "Companies with best-in-class retention grew at least 1.8x faster than their peers in 2022. In an uncertain market, customer retention is key. So if you are keeping a close eye on your retention..."
+  },
+  {
+    "title": "Launching the ChartMogul SaaS Benchmarks Report 2023",
+    "url": "https://alleged-peace.flywheelsites.com/saas-benchmarks-report-2023/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-05-24",
+    "summary": "I couldn’t be more excited to launch the 2nd edition of the ChartMogul SaaS Benchmarks Report. In this report, we analyze anonymized and aggregated data from over 2,100 SaaS businesses to bring you..."
+  },
+  {
+    "title": "B2B SaaS Retention Trends in 2023",
+    "url": "https://alleged-peace.flywheelsites.com/b2b-saas-retention-trends/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-05-03",
+    "summary": "Retention is arguably the most critical metric in SaaS regardless of a company’s stage. We sit down with Daniel Bakh, CEO & Co-founder at Fullview, Parker Moore, Head of Customer Success at Vitally,..."
+  },
+  {
+    "title": "Convert More Leads with ChartMogul CRM",
+    "url": "https://alleged-peace.flywheelsites.com/convert-more-leads-with-chartmogul-crm/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-04-27",
+    "summary": "After years of using generic CRMs that are ill-suited for our product-led B2B SaaS model, we’re using ChartMogul CRM, the only CRM tailor-made for SaaS sales teams like us. We’re familiar with the..."
+  },
+  {
+    "title": "The New Chargebee Integration: Open Invoices, Support for Add-ons, and More Accurate Cash Flow Reporting",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-chargebee-integration/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-04-20",
+    "summary": "The new version of our Chargebee integration provides you with more accurate cash flow reporting, more detailed reporting for add-ons, improved handling of prorated charges, and support for open..."
+  },
+  {
+    "title": "Your Marketing Site Should Be Even Better Than Your Product",
+    "url": "https://www.saastr.com/your-marketing-site-really-should-be-even-better-than-your-product/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2023-04-09",
+    "summary": "When a new head of marketing joins a start-up and the first thing they want to do is “refresh the marketing site”, I always quietly groan a bit. Look, a marketing site is important. But don’t leads..."
+  },
+  {
+    "title": "Introducing ChartMogul CRM",
+    "url": "https://alleged-peace.flywheelsites.com/introducing-chartmogul-crm/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-04-04",
+    "summary": "Today is an exciting day for us at ChartMogul; we’re launching a CRM, tailor-made for B2B SaaS companies. And we’re excited for you to try it."
+  },
+  {
+    "title": "Gross vs net retention rates: a guide to revenue retention metrics",
+    "url": "https://alleged-peace.flywheelsites.com/gross-vs-net-retention/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-03-23",
+    "summary": "How good is your business at retaining customers? Are you effectively expanding revenue from your existing customer base? And, is your poor retention the reason for your slower growth? If you’re..."
+  },
+  {
+    "title": "Being “Product-Led” in 2023 Means Product-Led Sales",
+    "url": "https://alleged-peace.flywheelsites.com/product-led-sales/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-03-10",
+    "summary": "Product-led growth is often presented as a silver bullet to hypergrowth. But in reality, many PLG success stories leverage traditional inside sales motions alongside self-service to speed up customer..."
+  },
+  {
+    "title": "Retention Benchmarks and Insights From Studying Over 2,100 SaaS Businesses",
+    "url": "https://alleged-peace.flywheelsites.com/retention-benchmarks-and-insights/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-03-01",
+    "summary": "Retention isn’t a silver bullet, but in SaaS, it’s the closest thing to it. Why is retention so pivotal? What does good retention look like? And does higher retention mean higher growth? We analyzed..."
+  },
+  {
+    "title": "Pricing & Jobs to be Done with Matt Lerner",
+    "url": "https://alleged-peace.flywheelsites.com/pricing-and-jobs-to-be-done/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2023-01-27",
+    "summary": "In this episode of SaaS Open Mic, I speak with Matt Lerner, the founder and CEO of Startup Core Strengths. He shares his perspective on establishing and optimizing pricing using the Jobs to Be Done..."
+  },
+  {
+    "title": "Should You Fire an OK-but-Not-Great VP of Sales? Probably Not (Updated)",
+    "url": "https://www.saastr.com/should-you-fire-an-ok-but-not-great-vp-of-sales-probably-not/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2023-01-10",
+    "summary": "I wrote a version of this post some time ago, and I think it’s really one of the most important posts on SaaStr of all time, so I wanted to update it, especially in these times of more scrutiny and..."
+  },
+  {
+    "title": "Strategies For Sustainable Growth In 2023",
+    "url": "https://alleged-peace.flywheelsites.com/strategies-for-sustainable-growth-in-2023/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-12-22",
+    "summary": "For a long time, exponential growth was an expectation for successful SaaS companies. Now, in this economic environment, growing sustainably might just be the new “name of the game”. We spoke with..."
+  },
+  {
+    "title": "ChartMogul 2022: Year in Review",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2022-year-in-review/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-12-20",
+    "summary": "If you thought 2021 was a busy year for product development at ChartMogul, we shifted into hyperdrive for 2022. And if we had to give it a name, we’d call 2022 ‘The Year of the Destination.’ We..."
+  },
+  {
+    "title": "5 SaaS metrics that matter to investors with Jess Bartos of Salesforce Ventures",
+    "url": "https://alleged-peace.flywheelsites.com/5-saas-metrics-that-matter-to-investors/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-12-16",
+    "summary": "In this episode of SaaS Open Mic, I’m speaking with Jess Bartos, an investor with Salesforce Ventures. We discuss the SaaS metrics that investors like Jess use to evaluate the potential of a company,..."
+  },
+  {
+    "title": "Two Most Crucial Metrics in SaaS: Net and Gross Retention Rates — Now Available in ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/net-and-gross-retention-rates/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-12-14",
+    "summary": "Retention is one of the most crucial metrics in SaaS. It tells you exactly how well your business is doing, whether you are crushing it or you’ve got a problem on your hands. Without a high retention..."
+  },
+  {
+    "title": "The Best SaaS Reads of 2022",
+    "url": "https://alleged-peace.flywheelsites.com/best-saas-reads-2022/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-12-08",
+    "summary": "Every week, I scour the web to pick the top SaaS reads for our weekly newsletter, the SaaS Roundup. This year alone, I shared over 200 curated reads on leadership, growth, pricing, SaaS metrics,..."
+  },
+  {
+    "title": "Get Real-time MRR Movements in Slack",
+    "url": "https://alleged-peace.flywheelsites.com/get-real-time-mrr-movements-in-slack/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-11-30",
+    "summary": "Get real-time updates or weekly summaries of your new business, expansion, churn, and contraction directly in Slack. Keep your team pushing for new clients, celebrate in the wins, and respond to..."
+  },
+  {
+    "title": "This Downturn Is Different: How to Drive Retention and Mitigate Churn in 2023",
+    "url": "https://alleged-peace.flywheelsites.com/drive-retention-and-mitigate-churn-in-a-downturn/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-11-24",
+    "summary": "In a downturn, priorities shift. Buyers start getting cautious. They stop purchasing new software and reevaluate their current spending. Naturally, this puts extra pressure on customer success. After..."
+  },
+  {
+    "title": "Net MRR Movements Brings Clarity to MRR Movements",
+    "url": "https://alleged-peace.flywheelsites.com/net-movements-per-customer/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-11-17",
+    "summary": "The new Net MRR Movements chart makes it easy to see the total impact of the MRR movements for each of your customers and the individual customer count for each MRR movement. Selling seats is often..."
+  },
+  {
+    "title": "New User Roles Provide Greater Flexibility and Control",
+    "url": "https://alleged-peace.flywheelsites.com/new-user-roles/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-11-15",
+    "summary": "Our new and improved user roles and permissions will give you more flexibility and control over who has access to what data in your ChartMogul account. This allows you to expose more of your team to..."
+  },
+  {
+    "title": "SaaS investor reporting: lessons from 370 board meeting",
+    "url": "https://alleged-peace.flywheelsites.com/investor-reporting-best-practices/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-09-29",
+    "summary": "Delivering strong reporting to your investors builds the overall board’s confidence in your business. And in this market, the need for board confidence has never been more relevant. But investor..."
+  },
+  {
+    "title": "Revenue-Based Financing with Miguel Fernández of Capchase",
+    "url": "https://alleged-peace.flywheelsites.com/revenue-based-financing-capchase/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-09-06",
+    "summary": "How are experienced founders raising funds? What are the best options for financing based on the stage of the company? How did fundraising change in the last few years? In this episode of the SaaS..."
+  },
+  {
+    "title": "Schedule ChartMogul Data Downloads Directly to Your Inbox",
+    "url": "https://alleged-peace.flywheelsites.com/schedule-email-downloads/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-08-23",
+    "summary": "Now you can receive regular emails with exports of i) your MRR movements, ii) MRR movements broken down by customer, and iii) list of all your customers. Up until now it’s only been possible to..."
+  },
+  {
+    "title": "Dear SaaStr: How Long Does It Take the Average B2B Startup to “Exit”?",
+    "url": "https://www.saastr.com/dear-saastr-how-long-does-it-take-the-average-saas-startup-to-exit/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2022-08-08",
+    "summary": "Dear SaaStr: How Long Does It Take the Average B2B Startup to “Exit”? I took a look a little while back at how long it took the average SaaS company that was sold for $1B+ to get that acquisition...."
+  },
+  {
+    "title": "Segmenting Revenue Data To Set Regional Sales Goals With Callbell",
+    "url": "https://alleged-peace.flywheelsites.com/setting-goals-callbell/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-07-26",
+    "summary": "Who is Callbell? Callbell is a SaaS company that offers a multi-channel customer communication platform for sales and customer service through popular messaging applications (WhatsApp Business,..."
+  },
+  {
+    "title": "Add Your MRR Movements to the Stripe Dashboard",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-stripe-app/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-07-19",
+    "summary": "We’re teaming up with Stripe to launch the ChartMogul Stripe App. View your MRR, ARR, Subscribers, and MRR movements, whether you’re on your Stripe or ChartMogul dashboard."
+  },
+  {
+    "title": "B2B SaaS Revenue Attribution with Lars Grønnegaard of Dreamdata",
+    "url": "https://alleged-peace.flywheelsites.com/b2b-saas-revenue-attribution/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-07-15",
+    "summary": "Blog posts, case studies, ads, and conferences are fantastic ways of attracting leads and generating revenue. But, how do you know which of your top-of-the-funnel activities led to that revenue? With..."
+  },
+  {
+    "title": "Sync Your ChartMogul Data with Snowflake, Amazon Redshift, or Google BigQuery",
+    "url": "https://alleged-peace.flywheelsites.com/configure-snowflake-bigquery-redshift-as-destination/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-07-07",
+    "summary": "Configure Snowflake, Amazon Redshift, or Google BigQuery as a destination in ChartMogul and export your MRR movements, customers, custom attributes, and tags for further analysis."
+  },
+  {
+    "title": "A Recap of Our Offsite 2022 in Portugal",
+    "url": "https://alleged-peace.flywheelsites.com/offsite-2022/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-07-06",
+    "summary": "2017 in Germany, 2018 in Croatia, 2019 in Spain… We were asking ourselves, “when should we hold our next offsite?” right when the pandemic hit. After two years of staying safe, growing from 30 Moguls..."
+  },
+  {
+    "title": "See Future Changes to Your Recurring Revenue with CMRR",
+    "url": "https://alleged-peace.flywheelsites.com/see-future-changes-with-cmrr/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-06-30",
+    "summary": "Wouldn’t it be great to see how the deals your sales team has just closed will impact your MRR? Or see how scheduled cancellations will impact your end of quarter results? We have got good news. And..."
+  },
+  {
+    "title": "Choose How You Classify 100% Discounts; Downgrade and Churn",
+    "url": "https://alleged-peace.flywheelsites.com/choose-how-to-interpret-discounted-or-free-plan-customers-churn-or-downgrade/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-06-24",
+    "summary": "Update: This feature was previously only available for Stripe, Chargebee, Recurly, and Braintree. It’s now available for new customers with any billing source. We will enable this data setting for..."
+  },
+  {
+    "title": "Navigating Choppy SaaS Waters",
+    "url": "https://alleged-peace.flywheelsites.com/choppy-saas-waters/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-06-23",
+    "summary": "“May you live in interesting times” is a rough translation of a traditional Chinese proverb that is bearing more meaning today than ever in the history of SaaS. After a brilliant run up to 2022, SaaS..."
+  },
+  {
+    "title": "Enrich Intercom Customer Profiles With Metrics, Analytics, and Data From ChartMogul",
+    "url": "https://alleged-peace.flywheelsites.com/intercom-destination/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-06-16",
+    "summary": "Customer data is spread across multiple platforms: CRM, communication, billing, and subscription analytics. Now you can send revenue and subscription data associated with your customer in ChartMogul..."
+  },
+  {
+    "title": "Hiring Global Talent With Liina Laas of Deel",
+    "url": "https://alleged-peace.flywheelsites.com/hiring-global-talent/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-06-09",
+    "summary": "Deel, the payroll and compliance company, recently raised $425 million in series D at a valuation of $5.5 billion. Deel’s exponential growth comes as no surprise considering how remote work has..."
+  },
+  {
+    "title": "Yes, SaaS Startup Growth Is Slowing Down. Here’s the Data",
+    "url": "https://alleged-peace.flywheelsites.com/slowing-startup-growth/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-05-26",
+    "summary": "Have you recently experienced slowing growth at your SaaS startup? In all likelihood, you’re not alone. See the chart below. It shows the median monthly growth rate for SaaS startups in April 2022..."
+  },
+  {
+    "title": "When SaaS Companies Acquire Communities with James Mayes of Mind the Product",
+    "url": "https://alleged-peace.flywheelsites.com/when-saas-companies-acquire-communities/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-05-04",
+    "summary": "Mind the Product is the world’s largest community of product managers. It recently announced its acquisition by Pendo. In this episode of SaaS Open Mic, I speak with James Mayes, the co-founder and..."
+  },
+  {
+    "title": "What is Churn? How Can It Be Negative? And What’s a Good Monthly Churn Rate?",
+    "url": "https://alleged-peace.flywheelsites.com/churn-basics-and-benchmarks/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-04-27",
+    "summary": "Churn gets a lot of bad press. Yes, it is complex. Yes, it is confusing. But as a metric, it is helpful. In the early stages of building a company, churn gives you quick feedback which other metrics..."
+  },
+  {
+    "title": "9 Startup Lessons From Phil Knight, Creator of NIKE",
+    "url": "https://alleged-peace.flywheelsites.com/startup-lessons-from-nike/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-04-20",
+    "summary": "Nike is one of the best-known brands in the world today. It sells almost 1,500 shoes every minute. That is 780 million shoes every year. Most likely, at some point in your life, you might have worn a..."
+  },
+  {
+    "title": "Rapidly Scaling a Team With Gilles Bertaux of Livestorm",
+    "url": "https://alleged-peace.flywheelsites.com/rapidly-scaling-a-team/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-04-08",
+    "summary": "When faced with rapid growth, how does a company adjust, adapt, and evolve? In this week’s SaaS Open Mic podcast, we speak with Gilles Bertaux, CEO and Co-founder of Livestorm. He shares his lessons..."
+  },
+  {
+    "title": "ChartMogul vs. Baremetrics. Everything You Need to Know",
+    "url": "https://alleged-peace.flywheelsites.com/chartmogul-baremetrics-everything-you-need-to-know/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-04-07",
+    "summary": "TL;DR: What sets ChartMogul apart from Baremetrics If you’re evaluating Baremetrics versus ChartMogul there are a few things that you should consider. Grow your recurring revenue with ChartMogul..."
+  },
+  {
+    "title": "SaaS Metrics Every Startup Founder Should Know",
+    "url": "https://alleged-peace.flywheelsites.com/saas-metrics-for-founders/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2022-03-31",
+    "summary": "Every SaaS business wants to succeed. The SaaS industry is currently worth over $145 billion. There is a great opportunity out there to be part of it. Success doesn’t happen overnight, though. The..."
+  },
+  {
+    "title": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started?",
+    "url": "https://www.saastr.com/should-a-startup-founder-handle-sales-when-first-getting-started/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2021-07-26",
+    "summary": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started? The answer is yes – 95% of the time. The “best” sequence for building a repeatable sales engine is roughly: The..."
+  }
+]

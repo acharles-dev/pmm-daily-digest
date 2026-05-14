@@ -1,1 +1,46 @@
-{"last_updated": null, "total_articles": 0, "sources": {}}
+{
+  "last_updated": "2026-05-14T20:25:05Z",
+  "total_articles": 220,
+  "sources": {
+    "pma": {
+      "status": "ok",
+      "name": "Product Marketing Alliance",
+      "articles_found": 15
+    },
+    "andrew_chen": {
+      "status": "ok",
+      "name": "Andrew Chen",
+      "articles_found": 15
+    },
+    "intercom": {
+      "status": "ok",
+      "name": "Intercom Blog",
+      "articles_found": 10
+    },
+    "hubspot": {
+      "status": "ok",
+      "name": "HubSpot Marketing",
+      "articles_found": 50
+    },
+    "saastr": {
+      "status": "ok",
+      "name": "SaaStr",
+      "articles_found": 10
+    },
+    "lenny": {
+      "status": "ok",
+      "name": "Lenny's Newsletter",
+      "articles_found": 20
+    },
+    "growth_unhinged": {
+      "status": "error",
+      "name": "Growth Unhinged",
+      "error": "404 Not Found"
+    },
+    "chartmogul": {
+      "status": "ok",
+      "name": "ChartMogul",
+      "articles_found": 100
+    }
+  }
+}
