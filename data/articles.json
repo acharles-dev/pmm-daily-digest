@@ -1,5 +1,45 @@
 [
   {
+    "title": "Why AI is making your VOC program worse",
+    "url": "https://www.productmarketingalliance.com/why-ai-is-making-your-voc-program-worse/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-15",
+    "summary": "Customers are constantly sending you signals – are you set up to receive them?"
+  },
+  {
+    "title": "Operator: A look under the hood",
+    "url": "https://www.intercom.com/blog/operator-a-look-under-the-hood/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-15",
+    "summary": "Operator is a powerful Agent that helps you manage, optimize, and continuously improve your AI-first support organization. Here's more insight into how we built it."
+  },
+  {
+    "title": "Meet Operator: An Agent for your customer operations",
+    "url": "https://www.intercom.com/blog/introducing-operator/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-15",
+    "summary": "Learn how Operator can help you understand, manage, and improve your customer experience in a way that has never been possible before."
+  },
+  {
+    "title": "Figma Beats, Raises and Accelerates! Boom! Stock Rockets 12%! But … It Still Trades for Less than 10X ARR",
+    "url": "https://www.saastr.com/figma-beats-raises-and-accelerates-boom-stock-rockets-12-but-it-still-trades-for-less-than-10x-arr/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-15",
+    "summary": "Figma reported Q1, and the results were the cleanest “beat and raise and accelerate” you’ll see all earnings season in B2B + AI. Revenue accelerated for the second quarter in a row. NDR ripped to a..."
+  },
+  {
+    "title": "Yes, SaaStr AI Annual 2026 Crushed It. But We Had to Rebuild Our Entire Customer Base for AI.",
+    "url": "https://www.saastr.com/yes-saastr-ai-annual-2026-crushed-it-but-we-had-to-rebuild-our-entire-customer-base-for-ai/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-15",
+    "summary": "SaaStr AI Annual 2026 was our best at least since 2022, and in many ways, a refounding of the events as part of the refounding of SaaStr AI itself for the age of AI Agents in B2B. Everyone building..."
+  },
+  {
     "title": "We Haven’t Had a Great CS Experience in Years. But Our FDEs Have Been Incredible.",
     "url": "https://www.saastr.com/we-havent-had-a-great-cs-experience-in-years-but-our-fdes-have-been-incredible/",
     "source": "saastr",
@@ -1750,6 +1790,14 @@
     "source_name": "ChartMogul",
     "date": "2022-03-31",
     "summary": "Every SaaS business wants to succeed. The SaaS industry is currently worth over $145 billion. There is a great opportunity out there to be part of it. Success doesn’t happen overnight, though. The..."
+  },
+  {
+    "title": "The Pros and Cons of Working Directly for the CEO",
+    "url": "https://www.saastr.com/the-pros-and-cons-of-working-directly-for-the-ceo-2/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2021-11-13",
+    "summary": "Pros of working directly for CEO: – Turbocharges learnings– Accelerated decisions + impact– Lifetime relationship– More rewarding Cons of working directly for CEO: – Feedback can be too direct–..."
   },
   {
     "title": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started?",
