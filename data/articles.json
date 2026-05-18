@@ -1,5 +1,53 @@
 [
   {
+    "title": "The 3 gaps that are quietly sabotaging your product launches",
+    "url": "https://www.productmarketingalliance.com/3-gaps-quietly-sabotaging-your-product-launches/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-18",
+    "summary": "GTM execution fails due to three trust gaps: Clarity, Credibility, and Commitment. Learn the AAA Model (Awareness, Alignment, Action) to diagnose, fix, and launch successfully."
+  },
+  {
+    "title": "Agents can do the work",
+    "url": "https://www.intercom.com/blog/agents-can-do-the-work/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-18",
+    "summary": "Agents today are more capable than ever. When businesses struggle to deploy them, it's a reflection of organizational readiness."
+  },
+  {
+    "title": "Brand mentions: How to track and measure visibility",
+    "url": "https://blog.hubspot.com/marketing/brand-mentions",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-18",
+    "summary": "Brand mentions aren’t a new concept, but answer engine optimization (AEO) is giving them a different weight. Brand mentions are any online reference to your brand, product, spokesperson, or company..."
+  },
+  {
+    "title": "Tired vs. Wired: $4 Trillion in IPOs Coming, $100B in M&A, Vibing Isn’t Killing Salesforce After All, and Why the B2B Doomers Were Dead Wrong (Mostly)",
+    "url": "https://www.saastr.com/tired-vs-wired-4-trillion-in-ipos-coming-100b-in-ma-vibing-isnt-killing-salesforce-after-all-and-why-the-b2b-doomers-were-dead-wrong-mostly/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-18",
+    "summary": "I put this chart together for my SaaStr AI Annual opener last week. Of the 5 things we kept hearing through 2025 and through Q1 2026, and what we’re actually seeing now that the agents have shipped..."
+  },
+  {
+    "title": "AI Is On Fire. And So Every Single B2B Traffic Channel Is Up YoY for SaaStr AI. Even SEO is Up +42%",
+    "url": "https://www.saastr.com/ai-is-on-fire-and-so-every-single-b2b-traffic-channel-is-up-yoy-for-saastr-ai/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-18",
+    "summary": "We just pulled the last 28 days data from Google Analytics on SaaStr.com and SaaStr.ai and compared it to the same window in 2025. The story is pretty clear. AI is on fire, and it’s pulling..."
+  },
+  {
+    "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
+    "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-18",
+    "summary": "Watch now | 🎙️ Anthropic's Claude Code engineer on why HTML replaced markdown, building micro-apps for spec editing, living design systems, and becoming a \"compute allocator\""
+  },
+  {
     "title": "When Growth Slows, Is It Sales’ Fault or the Product’s Fault? The Answer Has Changed.",
     "url": "https://www.saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed/",
     "source": "saastr",
@@ -14,6 +62,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-17",
     "summary": "Listen now | Caitlin Kalinowski on supply chain vulnerabilities threaten the robotics revolution, why consumer VR failed, and what she learned building products at Apple, Meta, and OpenAI"
+  },
+  {
+    "title": "Schmoozing Is Dead, Agents Are Hitting 120% of Humans, and Growth Is the Only Thing That Matters: 10 Things From the Closing Q&A at SaaStr AI Annual 2026",
+    "url": "https://www.saastr.com/schmoozing-is-dead-agents-are-hitting-120-of-humans-and-growth-is-the-only-thing-that-matters-10-things-from-the-closing-qa-at-saastr-ai-annual-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-17",
+    "summary": "We just wrapped SaaStr AI Annual 2026, and the closing Q&A on Day 3 ended up being one of the most engaged of the whole gathering. No script, no prepared deck, just an hour-and-a-half of questions..."
   },
   {
     "title": "Our AI VP of Marketing Updates Our Revenue Forecasts in Real Time, Without Bias. That Alone is Magical.",
@@ -1230,6 +1286,14 @@
     "source_name": "ChartMogul",
     "date": "2024-04-02",
     "summary": "We’ve upgraded the integration between ChartMogul and Braintree to give you more control and visibility into your subscription revenue data."
+  },
+  {
+    "title": "The Investments Where I’m Going to Lose All My Money",
+    "url": "https://www.saastr.com/the-investments-where-im-going-to-lose-all-my-money/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-03-26",
+    "summary": "So when I started writing venture checks in 2013, I didn’t know what I was doing, but I had a strong start: First was Pipedrive co-leading seed, then acquired for $1.5B cash Second was Algolia..."
   },
   {
     "title": "How to break into Silicon Valley",
