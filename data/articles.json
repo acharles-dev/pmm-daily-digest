@@ -1,5 +1,13 @@
 [
   {
+    "title": "144 B2B APIs Graded. The Average Score is 71/100. The New AI Agent API Report Card Tells Us Where B2B Really Stands.",
+    "url": "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-19",
+    "summary": "Live now: saastr.ai/api-report-card When we shipped the AI Agent API Report Card a few weeks ago, we had 75 B2B APIs graded and a hunch this was a tool builders had been quietly waiting for. A few..."
+  },
+  {
     "title": "The 3 gaps that are quietly sabotaging your product launches",
     "url": "https://www.productmarketingalliance.com/3-gaps-quietly-sabotaging-your-product-launches/",
     "source": "pma",
@@ -46,6 +54,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-18",
     "summary": "Watch now | 🎙️ Anthropic's Claude Code engineer on why HTML replaced markdown, building micro-apps for spec editing, living design systems, and becoming a \"compute allocator\""
+  },
+  {
+    "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-18",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "When Growth Slows, Is It Sales’ Fault or the Product’s Fault? The Answer Has Changed.",
@@ -1926,5 +1942,13 @@
     "source_name": "SaaStr",
     "date": "2021-07-26",
     "summary": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started? The answer is yes – 95% of the time. The “best” sequence for building a repeatable sales engine is roughly: The..."
+  },
+  {
+    "title": "What to Do If Your Business Decelerates",
+    "url": "https://www.saastr.com/what-to-do-if-your-business-decelerates/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2021-02-13",
+    "summary": "A top B2B VC said to me back in the day: “Once a B2B business decelerates, it becomes almost hopeless. No one will buy you, fund you, or join you.” That quote was true then. It’s only gotten more..."
   }
 ]
