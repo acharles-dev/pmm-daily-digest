@@ -1,11 +1,83 @@
 [
   {
+    "title": "Member masterclass: How to evolve positioning and messaging in engineering-led orgs",
+    "url": "https://www.productmarketingalliance.com/member-masterclass/positioning-messaging-engineering/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-20",
+    "summary": "As a Pro and Pro+ member, you can get exclusive access to industry leaders through live sessions crafted around the challenges you’re experiencing. Think of it as having your very own PMM coach in..."
+  },
+  {
+    "title": "Claude Design for product marketing [Bonus article]",
+    "url": "https://www.productmarketingalliance.com/claude-design-for-product-marketing-bonus-article/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-20",
+    "summary": "Discover how Claude Design is changing what product marketers can build – from landing pages and pitch decks to animated explainer videos, without a designer."
+  },
+  {
+    "title": "Why your customer data doesn't predict what customers will do",
+    "url": "https://www.productmarketingalliance.com/why-your-customer-data-doesnt-predict-what-customers-will-do/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-20",
+    "summary": "Learn why PMMs must bridge the gap between declared intent and subconscious reality using a neuro-informed GTM framework to reduce product failure."
+  },
+  {
+    "title": "How we develop pricing and packaging at Fin",
+    "url": "https://www.intercom.com/blog/how-we-develop-pricing-and-packaging-at-fin/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-20",
+    "summary": "At Fin, pricing and packaging must balance the needs and wants of our customers and our broader vision. Here's how we do it."
+  },
+  {
+    "title": "Why 10K (Our AI VP Marketing) and QBee (Our AI VP Customer Success) Work So Well: The App and the Agent Are One System",
+    "url": "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-20",
+    "summary": "Most of the discussion about AI agents in B2B right now treats the agent as a feature you ship: a chat box, a copilot, a magical button inside your product. That framing has been throwing people off,..."
+  },
+  {
+    "title": "5 Interesting Learnings from HubSpot at $3.5B in ARR: 23% Reported Growth, $211M in Buybacks, and a 16% Stock Drop",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-20",
+    "summary": "On paper, this was a strong quarter for HubSpot. Maybe not epic, but strong. HubSpot reported Q1 ’26 with revenue of $881M, up 23% … as reported. Subscription revenue alone hit $862.3M, putting ARR..."
+  },
+  {
+    "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
+    "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-20",
+    "summary": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about"
+  },
+  {
     "title": "144 B2B APIs Graded. The Average Score is 71/100. The New AI Agent API Report Card Tells Us Where B2B Really Stands.",
     "url": "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-05-19",
     "summary": "Live now: saastr.ai/api-report-card When we shipped the AI Agent API Report Card a few weeks ago, we had 75 B2B APIs graded and a hunch this was a tool builders had been quietly waiting for. A few..."
+  },
+  {
+    "title": "Ready for your busiest day: How we scale",
+    "url": "https://www.intercom.com/blog/ready-for-your-busiest-day-how-we-scale/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-19",
+    "summary": "Every system has limits. Competence is knowing where they are, measuring them, and moving them before customers reach them. Here's how we do this at Fin."
+  },
+  {
+    "title": "The Lenny and Friends Summit is back!",
+    "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-19",
+    "summary": "September 10th in San Francisco. Applications are now open."
   },
   {
     "title": "The 3 gaps that are quietly sabotaging your product launches",
@@ -1918,6 +1990,14 @@
     "source_name": "ChartMogul",
     "date": "2022-04-07",
     "summary": "TL;DR: What sets ChartMogul apart from Baremetrics If you’re evaluating Baremetrics versus ChartMogul there are a few things that you should consider. Grow your recurring revenue with ChartMogul..."
+  },
+  {
+    "title": "Why It’s Year 3 When You Lose Your Larger Customers (And in The AI Age, It’s Becoming Year 2)",
+    "url": "https://www.saastr.com/low-engagements-3-year-death-spiral-in-saas/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2022-04-06",
+    "summary": "Recently I was catching up with a good friend who used to be CEO of an enterprise-y B2B social networking company. The usage and engagement numbers of his business were just awful. Customers bought..."
   },
   {
     "title": "SaaS Metrics Every Startup Founder Should Know",
