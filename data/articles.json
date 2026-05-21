@@ -1,5 +1,45 @@
 [
   {
+    "title": "State of Product Marketing Report 2026",
+    "url": "https://www.productmarketingalliance.com/state-of-product-marketing-report-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-21",
+    "summary": "The State of Product Marketing 2026: real data on AI adoption, KPIs, reporting structures, and where the PMM role is heading."
+  },
+  {
+    "title": "Best AI search analytics tools for marketing teams",
+    "url": "https://blog.hubspot.com/marketing/ai-search-analytics-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-21",
+    "summary": "I’ve spent the last year watching marketing teams scramble to understand why their organic traffic reports tell one story while their pipeline tells another. The missing link is almost always a need..."
+  },
+  {
+    "title": "AI citation tracking tools to monitor and increase visibility",
+    "url": "https://blog.hubspot.com/marketing/ai-citation-tracking-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-21",
+    "summary": "The brand tracking dashboard says awareness is up. Social listening tools show steady mention volume. The PR platform logged a dozen media hits last quarter. But, none of those tools show how a brand..."
+  },
+  {
+    "title": "How Anthropic Rebuilt Its Sales Org From Scratch When Demand Went Vertical: 54% of New Enterprise Logos Now Come Self-Serve",
+    "url": "https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-21",
+    "summary": "When Claude Opus 4.6 shipped in December 2025, Anthropic’s commercial team came back from winter break to find demand had gone vertical. They hadn’t hired for it. They hadn’t planned for it. As..."
+  },
+  {
+    "title": "The Modern GTM Org in 2026: 20-30% Leaner, 9x Flatter, ~2x More Net New Revenue Per Rep. The Latest from ICONIQ Growth.",
+    "url": "https://www.saastr.com/moderngtmleanerflatter/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-21",
+    "summary": "ICONIQ just released their latest 2026 GTM benchmark report, surveying 150+ B2B software companies in January. The findings line up with what we’re seeing in our portfolio, what we saw at SaaStr AI..."
+  },
+  {
     "title": "Member masterclass: How to evolve positioning and messaging in engineering-led orgs",
     "url": "https://www.productmarketingalliance.com/member-masterclass/positioning-messaging-engineering/",
     "source": "pma",
@@ -1942,6 +1982,14 @@
     "source_name": "ChartMogul",
     "date": "2022-06-09",
     "summary": "Deel, the payroll and compliance company, recently raised $425 million in series D at a valuation of $5.5 billion. Deel’s exponential growth comes as no surprise considering how remote work has..."
+  },
+  {
+    "title": "High NRR is Magic. It Can Also Hide a Lot of Problems.",
+    "url": "https://www.saastr.com/high-nrr-can-mask-a-lot-of-problems/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2022-05-30",
+    "summary": "Having high net revenue / dollar retention is the magic of B2B. If you have 120% NRR, you double in less than 5 years, even with no new customers. Above that, you really get into magical compounding..."
   },
   {
     "title": "Yes, SaaS Startup Growth Is Slowing Down. Here’s the Data",
