@@ -1,5 +1,21 @@
 [
   {
+    "title": "Even a Mediocre Prompt Can Build Pretty Good Software Today",
+    "url": "https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-23",
+    "summary": "Here’s the exact prompt I typed into Replit the other day “ok i have an idea where we built a new speaker card page, where if you upload a headshot, we build you a 1080×1080 card on a background you..."
+  },
+  {
+    "title": "SaaStr AI App of the Week: Helply. The Bootstrapped B2B Support Platform That’s Free Forever, Charges Only When AI Actually Resolves a Ticket, and Showed Up to SaaStr AI 2026 With Giant Pandas",
+    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-helply-the-bootstrapped-b2b-support-platform-thats-free-forever-charges-only-when-ai-actually-resolves-a-ticket-and-showed-up-to-saastr-ai-2026-with-giant-pandas/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-23",
+    "summary": "The Bottom Line: Alex Turnbull bootstrapped Groove from $0 to $5M ARR as a solo founder over a decade. Then he bet against his own playbook. Helply is the AI-native B2B support platform he’s building..."
+  },
+  {
     "title": "What really matters when evaluating AI Agents for customer service?",
     "url": "https://www.intercom.com/blog/what-matters-when-evaluating-ai-agents-for-customer-service/",
     "source": "intercom",
@@ -22,6 +38,22 @@
     "source_name": "SaaStr",
     "date": "2026-05-22",
     "summary": "With Harry Stebbings, Jason Lemkin, and Rory O’Driscoll Anthropic is in talks for $30 billion at a $900 billion valuation. That’s nearly triple the $380 billion price from February. Andre Karpathy..."
+  },
+  {
+    "title": "The emotional layer your enterprise messaging is missing",
+    "url": "https://www.productmarketingalliance.com/the-emotional-layer-your-enterprise-messaging-is-missing/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-22",
+    "summary": "Enterprise messaging that goes beyond the spec sheet."
+  },
+  {
+    "title": "Goodbye, Lenny's Reads!",
+    "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-22",
+    "summary": "After a year of bringing you these audio versions of my newsletter, I’ve decided it’s time to wind down this experiment."
   },
   {
     "title": "State of Product Marketing Report 2026",
@@ -1096,6 +1128,22 @@
     "summary": "Consistency is key to achieving any goal. Want to learn to play the piano? Practice consistently. Trying to get in shape for a sibling's wedding? Exercise and eat healthily consistently. Want your..."
   },
   {
+    "title": "AI content optimization: How to get found in Google and AI search in 2026",
+    "url": "https://blog.hubspot.com/marketing/ai-content-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-03-30",
+    "summary": "I've spent most of the last 10 years writing, managing, and improving content to reach internet audiences. But even for an ol' marketer like me, AI content optimization was hard at first. Thankfully,..."
+  },
+  {
+    "title": "Seed Keywords: The Starting Point for SEO Research",
+    "url": "https://blog.hubspot.com/marketing/seed-keywords",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-03-26",
+    "summary": "Every successful content strategy starts with a short list of simple words. Before I ever open a keyword research tool, I write down a handful of phrases that describe what my business does or what..."
+  },
+  {
     "title": "Dear SaaStr: Should Your Ask a Prospect What Competitors They Are Looking At?",
     "url": "https://www.saastr.com/in-a-serious-sales-cycle-should-a-client-tell-you-who-you-are-competing-with-and-when/",
     "source": "saastr",
@@ -1438,6 +1486,14 @@
     "source_name": "ChartMogul",
     "date": "2024-05-02",
     "summary": "For the first time ever, we’re publishing ChartMogul’s product roadmap publicly, covering what we’re building through to the end of 2024."
+  },
+  {
+    "title": "Dear SaaStr: A Big Tech Co Launched a Competitive Product. How Can I Tell How Serious They Are About It?",
+    "url": "https://www.saastr.com/best-way-assess-threat-competition-business-much-larger-corporations/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-04-15",
+    "summary": "Dear SaaStr: A Big Tech Co Launched a Competitive Product. How Can I Tell How Serious They Are About It? In B2B at least, I’ll give you a few metrics that are fairly reliable. The classic one still..."
   },
   {
     "title": "Upgraded Braintree integration: greater visibility and control",
