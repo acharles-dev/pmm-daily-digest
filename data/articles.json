@@ -1,5 +1,37 @@
 [
   {
+    "title": "Pressure-test your messaging template",
+    "url": "https://www.productmarketingalliance.com/pressure-test-your-messaging-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-26",
+    "summary": "Is your messaging clear to buyers, or just to you?"
+  },
+  {
+    "title": "The Claude product marketing decision framework [Series 6 of 6]",
+    "url": "https://www.productmarketingalliance.com/the-claude-product-marketing-decision-framework-series-6-of-6/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-26",
+    "summary": "A practical decision framework for product marketers: when to use Claude's Chat, Cowork, Code, and Design surfaces to route any task confidently."
+  },
+  {
+    "title": "What AI Overviews mean for SEO & website traffic",
+    "url": "https://blog.hubspot.com/marketing/what-ai-overviews-mean-for-seo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-26",
+    "summary": "If you’re worried about what AI Overviews mean for SEO, let me remind you of the panic over featured snippets circa 2017. Remember how that turned out? At first, bloggers and SEOs bristled over these..."
+  },
+  {
+    "title": "For Frack’s Sake, It’s Not Too Late to Ship an Epic AI Agent. And Get Back to Real Growth.",
+    "url": "https://www.saastr.com/for-fracks-sake-its-not-too-late-to-ship-an-epic-agent-and-get-back-to-growth/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-26",
+    "summary": "So I spent the other day writing a fairly dark post about how most traditional B2B leaders will slowly atrophy to nothingness. Maybe seven survivors, everyone else decays, Medallia as the cautionary..."
+  },
+  {
     "title": "The hidden operating system of great product marketers: Community",
     "url": "https://www.productmarketingalliance.com/the-hidden-operating-system-of-great-pmms/",
     "source": "pma",
@@ -46,6 +78,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-25",
     "summary": "Watch now | 🎙️ Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware “buddy”"
+  },
+  {
+    "title": "Dear SaaStr: How Do The Best Sales Leaders Retain Their High Performers?",
+    "url": "https://www.saastr.com/dear-saastr-how-do-the-best-sales-leaders-retain-their-high-performers/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-25",
+    "summary": "Dear SaaStr: How Do The Best Sales Leaders Retain Their High Performers? A few ways I’ve observed that the best sales leaders retain the best: They promote the best. You can’t promote everyone, but..."
   },
   {
     "title": "Why 95% of Customer Success Managers Can’t Be Turned into Forward Deployed Engineers. And What That Means.",
