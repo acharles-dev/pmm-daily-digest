@@ -1,5 +1,53 @@
 [
   {
+    "title": "4 ways PMMs can drive engagement post-sale",
+    "url": "https://www.productmarketingalliance.com/4-ways-pmms-can-drive-engagement-post-sale/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-05-27",
+    "summary": "Discover 4 crucial strategies to collaborate with customer marketing and drive sustained SaaS active use and engagement."
+  },
+  {
+    "title": "Introducing the HubSpot Agent CLI",
+    "url": "https://blog.hubspot.com/marketing/introducing-the-hubspot-agent-cli",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-27",
+    "summary": "A few weeks ago, I wrote about our vision for the agent era: agents should be able to run on HubSpot, and to run HubSpot. I want to go a level deeper on what “run HubSpot” actually means, and our..."
+  },
+  {
+    "title": "A master class in persuasion from an unlikely place",
+    "url": "https://blog.hubspot.com/marketing/social-proof-master-class",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-05-27",
+    "summary": "Walk down a suburban street, and you might stumble across a following sign. It’s probably messy with poor formatting and inconsistent font size. Here’s one that I saw in Houston."
+  },
+  {
+    "title": "Datadog Stock Is Up +66%. Here Are 5 Reasons Why, And Why It’s the Cleanest AI Beneficiary in B2B.",
+    "url": "https://www.saastr.com/datadogup/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-27",
+    "summary": "Guess Whose Stock Is Up +66% year-to-date? And trades at 20x ARR? In the midst of the most challenging run for software stocks … ever? Datadog. As of May 22, 2026: $222.32 per share, +66.20%..."
+  },
+  {
+    "title": "Dropbox Hit $1B Faster Than Any B2B Company Ever. But Now, It’s The End of an Era",
+    "url": "https://www.saastr.com/dropbox-hit-1b-faster-than-any-b2b-company-ever-but-now-its-theend-of-an-era/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-27",
+    "summary": "An end of an era Of my generation of SaaS CEOs, no star burned brighter than Dropbox It grew to $1B ARR faster than any before, and burning almost nothing, perfecting the PLG motion. The startup we..."
+  },
+  {
+    "title": "The Codex feature that works while you sleep",
+    "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-27",
+    "summary": "Watch now | 🎙️I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run"
+  },
+  {
     "title": "Pressure-test your messaging template",
     "url": "https://www.productmarketingalliance.com/pressure-test-your-messaging-template-framework/",
     "source": "pma",
@@ -30,6 +78,22 @@
     "source_name": "SaaStr",
     "date": "2026-05-26",
     "summary": "So I spent the other day writing a fairly dark post about how most traditional B2B leaders will slowly atrophy to nothingness. Maybe seven survivors, everyone else decays, Medallia as the cautionary..."
+  },
+  {
+    "title": "How Owner.com’s CRO Is Closing $2M+ in ARR Per Rep With AI: 5 Things You Can Steal",
+    "url": "https://www.saastr.com/how-owner-coms-cro-is-closing-2m-in-arr-per-rep-with-ai-5-things-you-can-steal-to-do-it-yourself/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-05-26",
+    "summary": "At SaaStr AI 2026, Kyle Norton, CRO of vertical AI leader for restaurants Owner.com, walked through how his team is generating outcomes that look almost impossible on paper for traditional B2B. Owner..."
+  },
+  {
+    "title": "Essential books for product builders—part 1",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-05-26",
+    "summary": "36 timeless books that’ll make you a better builder, leader, and person"
   },
   {
     "title": "The hidden operating system of great product marketers: Community",
@@ -86,6 +150,14 @@
     "source_name": "SaaStr",
     "date": "2026-05-25",
     "summary": "Dear SaaStr: How Do The Best Sales Leaders Retain Their High Performers? A few ways I’ve observed that the best sales leaders retain the best: They promote the best. You can’t promote everyone, but..."
+  },
+  {
+    "title": "Speed-to-lead is a solved problem",
+    "url": "https://www.intercom.com/blog/speed-to-lead-is-a-solved-problem/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-05-25",
+    "summary": "Speed-to-lead made sense when the lag was unavoidable. An AI Agent removes it. Here’s what that means for how you build, staff, and measure your sales org."
   },
   {
     "title": "Why 95% of Customer Success Managers Can’t Be Turned into Forward Deployed Engineers. And What That Means.",
@@ -1590,6 +1662,14 @@
     "source_name": "SaaStr",
     "date": "2024-07-03",
     "summary": "Dear SaaStr: How do I Convince My CEO that Marketing is Important? A lot of CEOs these days do seem to be late to truly invest in B2B marketing, and most especially, to hiring a true VP of Marketing...."
+  },
+  {
+    "title": "That First Magical Sales Rep. The AI Era Edition.",
+    "url": "https://www.saastr.com/that-first-magical-sales-rep/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-06-17",
+    "summary": "A while back on LinkedIn and Twitter we had over 200,000 views and engagements on a quick post on “The Magical Sales Rep”, and another 500+ likes on a follow-up. It’s worth a deeper dive. Especially..."
   },
   {
     "title": "New integrations with HubSpot, Segment and Intercom",
