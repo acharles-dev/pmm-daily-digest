@@ -1,5 +1,117 @@
 [
   {
+    "title": "We Vibe Coded Our AI VP of Marketing. Here’s What It Actually Does.",
+    "url": "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-06",
+    "summary": "We didn’t want to build it. We run 20+ AI agents at SaaStr. We’ve invested over $500K in AI infrastructure. We follow one rule religiously: buy 90% of what you need, only build the 10% where no..."
+  },
+  {
+    "title": "It Took Apple 42 Years to Reach $1 Trillion. Anthropic Will Do It in 5.",
+    "url": "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-06",
+    "summary": "AI has reset everything we knew about the pace, size and scale of company building. At least for the true outliers. The first: Anthropic raised $65 billion at a $965 billion valuation and filed..."
+  },
+  {
+    "title": "How Vercel Runs on AI Agents: 96% of Marketing, 93% of Support, and an SDR Team Reabsorbed. A Deep Dive With CPO Tom Occhino",
+    "url": "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-06",
+    "summary": "Tom Occhino has built foundational infrastructure at the kind of scale almost no one in B2B will ever touch. He spent over 12 years at Facebook, where he co-created React and React Native and shaped..."
+  },
+  {
+    "title": "Product x PMM: From hand-offs to true partnership",
+    "url": "https://www.productmarketingalliance.com/product-pmm-hand-offs-to-true-partnership/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-05",
+    "summary": "The best PMMs don't wait for launch day to show up."
+  },
+  {
+    "title": "$400M ARR With Under 200 People: What Lovable’s Head of Growth Elena Verna Says Actually Works in B2B Now",
+    "url": "https://www.saastr.com/400m-arr-with-under-200-people-what-lovables-head-of-growth-elena-verna-says-actually-works-in-b2b-now/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-05",
+    "summary": "When Elena Verna, Head of Growth at Lovable, took the stage at SaaStr AI, she’d just hit her one-year anniversary at the company. She walked through the question many B2B leaders are wrestling with:..."
+  },
+  {
+    "title": "Inside the AI Agent Stacks at SaaStr, Owner.com & Klaviyo | The Deep Dives From SaaStr AI 2026",
+    "url": "https://www.saastr.com/inside-the-ai-agent-stacks-at-saastr-owner-com-klaviyo-the-deep-dives-from-saastr-ai-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-05",
+    "summary": "Inside the AI Agent Stacks at SaaStr, Owner.com & Klaviyo | SaaStr AI Annual 2026 Final Day Three companies. Three different stages. Three different markets. But all three have done the same thing in..."
+  },
+  {
+    "title": "SaaStr AI App of the Week: Pylon. The AI-Native Support Platform Built for B2B, Not Reheated B2C",
+    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-pylon-the-ai-native-support-platform-built-for-b2b-not-reheated-b2c/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-05",
+    "summary": "The Bottom Line: Pylon is the support platform built from scratch for B2B, where the real conversations happen in Slack and Teams, accounts are worth six and seven figures, and “deflection” is the..."
+  },
+  {
+    "title": "PLG is getting more technical, more cross-functional, and more human",
+    "url": "https://alleged-peace.flywheelsites.com/plg-is-getting-more-technical-more-cross-functional-and-more-human/",
+    "source": "chartmogul",
+    "source_name": "ChartMogul",
+    "date": "2026-06-05",
+    "summary": "The vast majority of our customers are building ambitious SaaS businesses by way of smart, opinionated products. They don’t have massive amounts of capital, rooms full of Enterprise AEs, or..."
+  },
+  {
+    "title": "Product Marketing Summit | Amsterdam, 2026",
+    "url": "https://www.productmarketingalliance.com/product-marketing-summit-amsterdam-2026-2/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-04",
+    "summary": "Catch up on all sessions from Product Marketing Summit Amsterdam with insights from Royal Schiphol Group, Mastercard, Microsoft and more."
+  },
+  {
+    "title": "How PMA Pro+ changed my approach to experimentation",
+    "url": "https://www.productmarketingalliance.com/how-pma-pro-changed-my-approach-to-experimentation/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-04",
+    "summary": "Swati Tripathi thought a failed GTM experiment was behind her, until PMA Pro+ training gave her the confidence to try it again. Here's how the membership transformed her approach to product marketing."
+  },
+  {
+    "title": "Playing a different game",
+    "url": "https://www.intercom.com/blog/playing-a-different-game/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-06-04",
+    "summary": "Announcing Fin Voice 2, a major upgrade to Fin Voice with over 20 new features, and our first product built on Apex Flash."
+  },
+  {
+    "title": "20VC x SaaStr is Back!! Tokens Over Humans, the End of the SaaSpocalypse, and the Trillion-Dollar Land Grab",
+    "url": "https://www.saastr.com/20vc-x-saastr-is-back-tokens-over-humans-the-end-of-the-saaspocalypse-and-the-trillion-dollar-land-grab/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-04",
+    "summary": "The latest 20VC roundtable with Harry Stebbings, Rory and Jason ran through nine of the biggest stories in B2B and AI right now. Anthropic filing to go public the same week it closed a $65B round...."
+  },
+  {
+    "title": "What Lovable, Harvey & Assembly AI Are Doing in Customer Success. That You’re Not",
+    "url": "https://www.saastr.com/what-lovable-harvey-assembly-ai-are-doing-in-customer-success-that-youre-not/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-04",
+    "summary": "The fastest-growing companies in B2B + AI are not running the customer success playbook the rest of the market spent a decade building. At the FDE / CS Summit at SaaStr AI Annual 2026, leaders from..."
+  },
+  {
+    "title": "Announcing The New SaaStr AI University: Our Best Playbooks, And 4 Free Courses. We’ll Get You AI Fluent.",
+    "url": "https://www.saastr.com/saastraiuniversity/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-04",
+    "summary": "For 13 years, we’ve published 4,000+ posts, run hundreds of sessions, and shared just about everything we’ve learned about building B2B and now B2B + AI companies. But it’s mostly scattered. A post..."
+  },
+  {
     "title": "The 5 lens framework for launch readiness",
     "url": "https://www.productmarketingalliance.com/the-5-lens-framework-for-launch-readiness/",
     "source": "pma",
@@ -2726,6 +2838,14 @@
     "source_name": "SaaStr",
     "date": "2022-03-21",
     "summary": "When you see Founder Mode from a non-founder When you find a VP, an exec, that actually cares as much as a founder, or almost as much … Promote them fast. ASAP. Double their equity. And … never let..."
+  },
+  {
+    "title": "Your VP Sales Has a Sales Quota. Your VP Marketing Has To Have a Quota, Too.",
+    "url": "https://www.saastr.com/your-vp-sales-has-a-sales-quota-your-vp-marketing-needs-a-lead-quota-period/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2022-03-10",
+    "summary": "One of the first iconic SaaStr posts was Hire the Right Type of VP Marketing or You’ll Just End Up With a Bunch of Blue Pens with Your Logo On Them. The basic idea was to help folks who haven’t hired..."
   },
   {
     "title": "The Pros and Cons of Working Directly for the CEO",
