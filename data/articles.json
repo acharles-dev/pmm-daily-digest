@@ -1,5 +1,29 @@
 [
   {
+    "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
+    "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-07",
+    "summary": "On the latest episode of The Agents, we walked through the actual back ends of our top go-to-market agents: commit counts, API stacks, monthly costs, and live demos. We run SaaStr with 3 humans and..."
+  },
+  {
+    "title": "22 Tools. $3M in Fees. 11 Ops People. Aurasell CEO’s Case for Killing the GTM Stack",
+    "url": "https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-07",
+    "summary": "At SaaStr AI 2026, Aurasell co-founder and CEO Jason Eubanks skipped the AI futurism. He put the exact go-to-market stack he ran at his last company on screen, what it cost to run, and why he thinks..."
+  },
+  {
+    "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
+    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-07",
+    "summary": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens"
+  },
+  {
     "title": "We Vibe Coded Our AI VP of Marketing. Here’s What It Actually Does.",
     "url": "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/",
     "source": "saastr",
@@ -22,6 +46,14 @@
     "source_name": "SaaStr",
     "date": "2026-06-06",
     "summary": "Tom Occhino has built foundational infrastructure at the kind of scale almost no one in B2B will ever touch. He spent over 12 years at Facebook, where he co-created React and React Native and shaped..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-06",
+    "summary": "Community Wisdom 188"
   },
   {
     "title": "Product x PMM: From hand-offs to true partnership",
@@ -1862,6 +1894,14 @@
     "source_name": "ChartMogul",
     "date": "2025-07-24",
     "summary": "Startup branding isn’t just for later-stage companies with big budgets. It’s something early-stage startups can (and should) care about from day one. The reason is simple: you already have a brand...."
+  },
+  {
+    "title": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps?",
+    "url": "https://www.saastr.com/dear-saastr-what-quota-should-i-give-to-my-enterprise-sales-reps/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-07-04",
+    "summary": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps? For enterprise sales reps, quotas typically range from 3x to 5x their fully burdened on-target earnings (OTE). This means if your..."
   },
   {
     "title": "More control, 90% less CDP spend: why we moved from Segment to Jitsu",
