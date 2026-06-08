@@ -1,5 +1,77 @@
 [
   {
+    "title": "Stop trying to choose between generalist and specialist",
+    "url": "https://www.productmarketingalliance.com/generalist-and-specialist/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-08",
+    "summary": "Forget generalist vs. specialist. Learn the secret of the context-driven PMM: how to use AI to master both breadth and depth for maximum career impact."
+  },
+  {
+    "title": "Keyword research for AEO: A guide for winning answer engine traffic in 2026",
+    "url": "https://blog.hubspot.com/marketing/aeo-keyword-research",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-08",
+    "summary": "Keyword research for AEO can feel overwhelming because audiences are searching for almost everything in AI search, and queries are nuanced and personalized."
+  },
+  {
+    "title": "How to use your CRM for smarter email marketing campaigns",
+    "url": "https://blog.hubspot.com/marketing/crm-email-marketing",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-08",
+    "summary": "Customer relationship management (CRM) systems have become foundational to effective email marketing. For teams learning how to use a CRM for email marketing, the key is connecting contact data,..."
+  },
+  {
+    "title": "When the Agents Pick: The B2B Categories AI Agents Don’t Need",
+    "url": "https://www.saastr.com/when-the-agents-pick-the-b2b-categories-ai-agents-dont-need/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-08",
+    "summary": "When the Agents Pick: Why Marketo, Outreach, Salesloft and Atlassian Aren’t Built for AI Agents The other day we built an Agentic API grader. The setup was simple. I had Claude, OpenAI, and Gemini..."
+  },
+  {
+    "title": "Building AI Agents That Actually Work: Lessons from Jason Lemkin, Jeanne DeWitt Grosser (Vercel), Amelia Lerutte & Amjad Masad (Replit)",
+    "url": "https://www.saastr.com/building-ai-agents-that-actually-work-lessons-from-jason-lemkin-jeanne-dewitt-grosser-vercel-amelia-lerutte-amjad-masad-replit/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-08",
+    "summary": "The half-day that kicked off SaaStr AI Annual 2026 was the most concrete look we’ve put on a stage at what running a company on AI agents actually looks like. Not the hype version. The real version,..."
+  },
+  {
+    "title": "Dear SaaStr: What’s Really Changed in GTM in 2026?",
+    "url": "https://www.saastr.com/dear-saastr-whats-really-changed-in-gtm-in-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-08",
+    "summary": "Dear SaaStr: I run revenue at a B2B company doing about $40M ARR. My playbook is basically the one I built in 2021 and 2022, and it’s working worse every quarter. What’s actually changed in..."
+  },
+  {
+    "title": "Three Quotes in Seconds, Inside the Pricing Rules: How Nue Built Deterministic AI Into Salesforce-Native CPQ",
+    "url": "https://www.saastr.com/three-quotes-in-seconds-inside-the-pricing-rules-how-nue-built-deterministic-ai-into-salesforce-native-cpq/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-08",
+    "summary": "CPQ is the category every B2B operator has a horror story about. A rep needs three versions of a quote for a customer call, and it takes two hours. Pricing lives in a spreadsheet nobody trusts. The..."
+  },
+  {
+    "title": "🎙️ How I AI: Gemini Omni: Clone yourself with AI in under 15 minutes & Shopping with Claude",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gemini-omni-clone-yourself",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-08",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
+  },
+  {
+    "title": "Shopping with Claude: How to find quality brands, automate returns, and buy things that last 100 years | Nicole Ruiz",
+    "url": "https://www.lennysnewsletter.com/p/shopping-with-claude",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-08",
+    "summary": "Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids"
+  },
+  {
     "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
     "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
     "source": "saastr",
