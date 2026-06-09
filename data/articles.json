@@ -1,5 +1,53 @@
 [
   {
+    "title": "How PMM leaders get measured, and why most of them are tracking the wrong things",
+    "url": "https://www.productmarketingalliance.com/how-pmm-leaders-get-measured/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-09",
+    "summary": "Are you measuring the right PMM metrics? Learn why top product marketing leaders focus on influence rather than deliverables."
+  },
+  {
+    "title": "AI email marketing tools: Our top picks for 2026",
+    "url": "https://blog.hubspot.com/marketing/ai-email-marketing-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-09",
+    "summary": "Marketers are turning to AI-powered tools to scale relevance without increasing manual effort as inbox competition increases and performance expectations rise. AI email marketing tools are rapidly..."
+  },
+  {
+    "title": "Schema markup for AEO: How to implement it to boost answer engine visibility in 2026",
+    "url": "https://blog.hubspot.com/marketing/schema-markup-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-09",
+    "summary": "Schema markup for AEO helps answer engines understand a website. Schema is readable by AI crawlers because it’s added to a site’s HTML. It allows SEO professionals to add additional context and map..."
+  },
+  {
+    "title": "Sales Used to Be the Engine. For the AI Leaders, It’s Often More the Caboose.",
+    "url": "https://www.saastr.com/sales-used-to-be-the-engine-for-the-ai-leaders-its-often-more-the-caboose/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-09",
+    "summary": "There’s an argument going around right now that sales isn’t as important as it used to be. Still important. Just not as much as it once was. Bear with me here. It’s not an argument I agree with. But..."
+  },
+  {
+    "title": "Why It’s So Hard for Older B2B Leaders to Compete in AI: Your Customers Can Do A Lot in Claude for $20-$200/Month. And You’re Paying $1.00 Per API Call For the Good Stuff.",
+    "url": "https://www.saastr.com/why-its-so-hard-for-b2b-leaders-to-compete-in-ai-your-customers-can-do-it-in-claude-for-20-month-youre-paying-1-00-per-api-call/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-09",
+    "summary": "I was recently catching up with the CEO of a B2B leader who was proud their AI cost was now just pennies per customer. And look, I get the impulse — that’s real engineering discipline. But to me, it..."
+  },
+  {
+    "title": "Essential books for product builders—part 2",
+    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart-611",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-09",
+    "summary": "36 more timeless books that’ll make you a better builder, leader, and person"
+  },
+  {
     "title": "Stop trying to choose between generalist and specialist",
     "url": "https://www.productmarketingalliance.com/generalist-and-specialist/",
     "source": "pma",
@@ -70,6 +118,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-08",
     "summary": "Watch now | 🎙️She uses Claude to shop for high-quality items that last, automate returns when products fail, and spend less time on administrative tasks and more time with her kids"
+  },
+  {
+    "title": "Claude setup planner",
+    "url": "https://www.productmarketingalliance.com/claude-setup-planner-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-08",
+    "summary": "Build a Claude workflow that fits the way you work – from context files to skill stack to connected toolkit."
   },
   {
     "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
