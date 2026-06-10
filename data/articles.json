@@ -1,5 +1,37 @@
 [
   {
+    "title": "Why AI product economics is changing how digital subscriptions work",
+    "url": "https://www.productmarketingalliance.com/ai-product-economics-changing-digital-subscriptions/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-10",
+    "summary": "AI products are challenging fixed-price subscriptions with usage limits. This article explores the costly economics of AI inference, unit discipline, and elasticity testing driving the change"
+  },
+  {
+    "title": "FAQs for AEO: How to structure answers that rank in answer engines",
+    "url": "https://blog.hubspot.com/marketing/faqs-for-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-10",
+    "summary": "AI search interfaces are reshaping how content gets surfaced and cited. Pew Research data from 2025 found that around one in five Google searches produced an AI-generated summary, with 88% of those..."
+  },
+  {
+    "title": "Shopify Turns 20! 5 Interesting Learnings from Shopify at $13B+ in ARR. And Accelerating",
+    "url": "https://www.saastr.com/shopify-turns-20-5-interesting-learnings-from-shopify-at-13b-in-arr-and-accelerating/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-10",
+    "summary": "hopify just turned 20. The company Tobi Lütke spun out of a snowboard shop called Snowdevil in 2006 is now processing more than $100 billion of merchant sales in a single quarter and running at a..."
+  },
+  {
+    "title": "Lovable, Harvey & Assembly AI: How the Fastest AI Companies Rebuilt Customer Success. And Why NPS and Activity Scores Are Dead",
+    "url": "https://www.saastr.com/lovable-harvey-assembly-ai-how-the-fastest-ai-companies-rebuilt-customer-success/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-10",
+    "summary": "The Forward Deployed / Customer Success track at SaaStr AI 2026 turned into something closer to an autopsy and a rebirth at the same time. Leaders from the fastest-growing companies in B2B + AI got..."
+  },
+  {
     "title": "How PMM leaders get measured, and why most of them are tracking the wrong things",
     "url": "https://www.productmarketingalliance.com/how-pmm-leaders-get-measured/",
     "source": "pma",
@@ -46,6 +78,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-09",
     "summary": "36 more timeless books that’ll make you a better builder, leader, and person"
+  },
+  {
+    "title": "Extending Fin as the most open Agent platform",
+    "url": "https://www.intercom.com/blog/extending-fin-as-the-most-open-agent-platform/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-06-09",
+    "summary": "Fin can be used as a Service Agent on top of HubSpot and Freshworks, meaning you can use the world’s best Agent without migrating off your helpdesk."
+  },
+  {
+    "title": "Claude Fable 5 review: what the new Mythos model gets right (and very wrong)",
+    "url": "https://www.lennysnewsletter.com/p/claude-fable-5-review-what-the-new",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-09",
+    "summary": "Watch now | 🎙️Early access to Claude Fable 5: what Anthropic claims, what I tested, and my honest take"
   },
   {
     "title": "Stop trying to choose between generalist and specialist",
