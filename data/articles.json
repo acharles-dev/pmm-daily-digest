@@ -1,5 +1,53 @@
 [
   {
+    "title": "How to conduct a 5C analysis: Process, questions, examples",
+    "url": "https://www.productmarketingalliance.com/how-to-conduct-a-5c-analysis-2/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-11",
+    "summary": "A complete guide to 5C analysis covering all five components, key questions to ask, and real-world examples from Walmart and Netflix."
+  },
+  {
+    "title": "How to make the case for giving your AI Agent system access",
+    "url": "https://www.intercom.com/blog/giving-your-ai-agent-system-access/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-06-11",
+    "summary": "Without access to your backend systems, your AI Agent can answer questions, but it can’t take action. A customer asks to change their payment plan, they get a clear explanation, but a support rep..."
+  },
+  {
+    "title": "How to get your website indexed by ChatGPT [2026]",
+    "url": "https://blog.hubspot.com/marketing/how-to-get-indexed-by-chatgpt",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-11",
+    "summary": "If you want to know how to get your website indexed by ChatGPT, I’ll show you, but first, I want to clarify: Other articles on this topic conflate “getting indexed by” with “showing up in” ChatGPT —..."
+  },
+  {
+    "title": "Why “No” in M&A Usually Means “No Forever”",
+    "url": "https://www.saastr.com/why-no-in-ma-usually-means-no-forever/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-11",
+    "summary": "“Time kills deals.” Everyone says it. Few people internalize what it actually means. On 20VC x SaaStr a little ways back, we were discussing OpenAI’s acquisition of TBPN. The outreach happened in..."
+  },
+  {
+    "title": "The AI Became the Commodity. Here’s What 6 Verticals Agreed Was the Actual Moat at SaaStr AI 2026",
+    "url": "https://www.saastr.com/the-ai-became-the-commodity-heres-what-6-verticals-agreed-was-the-actual-moat-at-saastr-ai-annual-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-11",
+    "summary": "The six sessions that closed out SaaStr AI 2026: Shoplazza and Subotiz (commerce), Adam Modsley, CRO | The data is the moat, not the AI Nue (revenue operations), James MacArthur, VP of Product..."
+  },
+  {
+    "title": "Your Data Layer Used to Hide Behind Your Product. Now It Is the Product. With Firebolt’s CEO",
+    "url": "https://www.saastr.com/your-data-layer-used-to-hide-behind-your-product-now-it-is-the-product-with-firebolts-ceo/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-11",
+    "summary": "For most of B2B history, customers never knew or cared what database ran under your product. They consumed the UX, maybe an API, and the data layer sat invisibly in the back. Benjamin Wagner, CEO of..."
+  },
+  {
     "title": "Why AI product economics is changing how digital subscriptions work",
     "url": "https://www.productmarketingalliance.com/ai-product-economics-changing-digital-subscriptions/",
     "source": "pma",
