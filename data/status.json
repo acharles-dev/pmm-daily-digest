@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T14:41:54Z",
-  "total_articles": 399,
+  "last_updated": "2026-06-14T16:01:54Z",
+  "total_articles": 402,
   "sources": {
     "pma": {
       "status": "ok",
@@ -38,9 +38,9 @@
       "error": "404 Not Found"
     },
     "chartmogul": {
-      "status": "ok",
+      "status": "error",
       "name": "ChartMogul",
-      "articles_found": 100
+      "error": "The read operation timed out"
     }
   }
 }
