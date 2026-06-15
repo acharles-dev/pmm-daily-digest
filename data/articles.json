@@ -1,5 +1,45 @@
 [
   {
+    "title": "A Product Marketing Engineer’s guide to automated competitive intelligence",
+    "url": "https://www.productmarketingalliance.com/pmm-engineers-guide-to-automated-competitive-intel/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-15",
+    "summary": "Learn how to build automated competitive intelligence systems using no-code tools."
+  },
+  {
+    "title": "Salesforce signs definitive agreement to acquire Fin",
+    "url": "https://www.intercom.com/blog/salesforce-signs-definitive-agreement-to-acquire-fin/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-06-15",
+    "summary": "We’re excited to share that we just signed an agreement for Salesforce to acquire Fin for ~$3.6B."
+  },
+  {
+    "title": "Do You Treat Your 20-Year Customers Worse Than Your New Ones? You Probably Do",
+    "url": "https://www.saastr.com/do-you-treat-your-20-year-customers-worse-than-your-new-ones/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-15",
+    "summary": "You probably do treat most of your oldest, longest lived customers far worse than a new prospect. As crazy as that sounds at some level. We’ve talked enough about our really, really rough experience..."
+  },
+  {
+    "title": "Automate the Admin, Not the Relationship: How Reevo’s Agents Made Sellers 5x More Productive",
+    "url": "https://www.saastr.com/automate-the-admin-not-the-relationship-how-reevos-agents-made-sellers-5x-more-productive/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-15",
+    "summary": "A seller spends 70 to 80 percent of the day not selling. Research, meeting prep, note-taking, follow-ups, CRM updates. The job has looked the same for 25 years, and most of it is administrative work..."
+  },
+  {
+    "title": "How Braintrust uses AI agents, evals, and CI to ship better software | Ankur Goyal",
+    "url": "https://www.lennysnewsletter.com/p/how-braintrust-uses-ai-agents-evals",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-15",
+    "summary": "Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale"
+  },
+  {
     "title": "The Kindness Gap in VC Fundraising: Why a Little Grace Goes a Long Way",
     "url": "https://www.saastr.com/the-kindness-gap-in-vc-fundraising-why-a-little-grace-goes-a-long-way/",
     "source": "saastr",
@@ -14,6 +54,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-14",
     "summary": "Listen now | Mark Pincus on why your instincts are right but your ideas are wrong, the “Proven, Better, New” framework, and what he’s teaching his kids"
+  },
+  {
+    "title": "Hiring Risks vs. Hiring Flags. Make Sure You Get it Right.",
+    "url": "https://www.saastr.com/hiring-risks-vs-hiring-flags/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-14",
+    "summary": "My biggest hiring mistake I've made past 5 years that I never made before: I hired folks who didn't really, really, really want the job So far, none have worked out — Jason ✨👾SaaStr.Ai✨ Lemkin..."
   },
   {
     "title": "🧠 Community Wisdom: How AI is changing product operating models, tracking work stress with Whoop, whether you need a portfolio of AI side projects, marketing for tiny teams, and more",
