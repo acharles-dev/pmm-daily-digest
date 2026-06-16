@@ -1,5 +1,29 @@
 [
   {
+    "title": "PMM Powerhour KPI and metrics",
+    "url": "https://www.productmarketingalliance.com/pmm-powerhour/kpi-and-metrics/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-16",
+    "summary": ""
+  },
+  {
+    "title": "It Doesn’t Really Matter When Your Competitor Gets Acquired. (Except It Means You Weren’t.)",
+    "url": "https://www.saastr.com/it-doesnt-really-matter-when-your-competitor-gets-acquired-except-it-means-you-werent/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-16",
+    "summary": "There’s a common bit of advice we entrepreneurs and execs always get: worry less about the competition, and more about growing your own business. It’s good advice. But goodness — it’s hard to follow..."
+  },
+  {
+    "title": "Dear SaaStr: My Top Sales Rep Made $600,000 a Year — And Just Quit! What Happened?",
+    "url": "https://www.saastr.com/dear-saastr-my-top-sales-rep-made-600000-a-year-and-just-quit-what-happened/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-16",
+    "summary": "Dear SaaStr: My Top Sales Rep Made $600,000 a Year — And Just Quit! What Happened? Ok to some of you this will make no sense. But now I’ve seen this happen again and again, including just the other..."
+  },
+  {
     "title": "A Product Marketing Engineer’s guide to automated competitive intelligence",
     "url": "https://www.productmarketingalliance.com/pmm-engineers-guide-to-automated-competitive-intel/",
     "source": "pma",
@@ -38,6 +62,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-15",
     "summary": "Watch now | 🎙️ “Evals are the modern version of a PRD”: Ankur Goyal (Braintrust) on encoding taste into systems that scale"
+  },
+  {
+    "title": "🎙️ How I AI: Claude Fable 5 review & How Braintrust uses AI agents, evals, and CI to ship better software",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-fable-5-review-and",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-15",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
   },
   {
     "title": "The Kindness Gap in VC Fundraising: Why a Little Grace Goes a Long Way",
