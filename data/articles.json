@@ -1,5 +1,93 @@
 [
   {
+    "title": "Competitive Intelligence Summit, 2026",
+    "url": "https://www.productmarketingalliance.com/competitive-intelligence-summit-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-18",
+    "summary": "Catch up on the latest sessions on cutting edge competitive intelligence from the likes of LinkedIn, Salesforce, Lockheed Martin and more"
+  },
+  {
+    "title": "The AI-Native PMM: Redesigning your role for what's next | Product Marketing Labs",
+    "url": "https://www.productmarketingalliance.com/ai-powered-product-marketing-labs/the-ai-native-pmm-redesigning-your-role-for-whats-next-product-marketing-labs/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-18",
+    "summary": "Showcase your impact with metrics, link activities to outcomes, and build dashboards that make your work strategically vital."
+  },
+  {
+    "title": "How to rank in AI search results: Expert best practices",
+    "url": "https://blog.hubspot.com/marketing/ai-search-ranking",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-18",
+    "summary": "Knowing how to rank in search engines and how to rank in AI search results are two different games now."
+  },
+  {
+    "title": "10 of The Top Mistakes First Time Founders Make. Again and Again and Again.",
+    "url": "https://www.saastr.com/10-of-the-top-mistakes-first-time-founders-make/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-18",
+    "summary": "Dear SaaStr: What Are 10 of The Top Mistakes First Time Founders Make? Almost all entrepreneurs often fall into predictable traps. We make the same mistakes, again and again 🙂 Here are some critical..."
+  },
+  {
+    "title": "6 Key Signs a VP of Sales Can’t Scale Beyond $5m-$10m ARR",
+    "url": "https://www.saastr.com/signs-a-vp-cant-scale/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-18",
+    "summary": "The best VPs can recruit in ways I barely understand You need someone for a key role? They somehow have 2-3 strong candidates in a week or two This is so, so hard But the very best VPs make it..."
+  },
+  {
+    "title": "Artisan’s Ava 2.0: What a Fully Autonomous AI BDR Actually Looks Like in Production with CEO Jaspar Carmichael-Jack",
+    "url": "https://www.saastr.com/artisans-ava-2-0-what-a-fully-autonomous-ai-bdr-actually-looks-like-in-production-with-ceo-jaspar-carmichael-jack/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-18",
+    "summary": "Most of the AI SDR pitches you hear sound the same. A founder gets on stage, shows a slick demo, and promises the death of the BDR. Then you ask one hard question and the whole thing falls apart...."
+  },
+  {
+    "title": "Why product marketing is becoming a complexity management function",
+    "url": "https://www.productmarketingalliance.com/why-pmm-is-becoming-a-complexity-management-function/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-17",
+    "summary": "Discover why modern product marketing is shifting toward complexity management. Learn how to maintain narrative coherence and strategic clarity in an AI-driven, ecosystem-first landscape."
+  },
+  {
+    "title": "Monitor Your Agents. Both AI and Human.",
+    "url": "https://www.saastr.com/monitor-your-agents-both-ai-and-human/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-17",
+    "summary": "A few months ago, we got a rough email from a PR agency representing one of the hottest AI startups out there. The message was blunt: never reach out to their client again. Ever. One of their..."
+  },
+  {
+    "title": "How Stripe, Google, Canva, Cloudflare and Higgsfield Are Actually Selling in 2026",
+    "url": "https://www.saastr.com/how-stripe-google-canva-cloudflare-and-higgsfield-are-actually-selling-in-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-17",
+    "summary": "The GTM stage at SaaStr AI 2026 was the one where the abstract finally got concrete. Everyone talks about how AI changes go-to-market. These six sessions actually showed the data, the org charts, the..."
+  },
+  {
+    "title": "Dear SaaStr: What’s The #1 Mistake Founders Make When They Start to Do Marketing?",
+    "url": "https://www.saastr.com/dear-saastr-whats-the-1-mistake-founders-make-when-they-start-to-do-marketing/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-17",
+    "summary": "Dear SaaStr: What’s The #1 Mistake Founders Make When They Start to Do Marketing? In B2B, the biggest mistake most businesses make in marketing is underestimating how hard it is to get ROI. So they..."
+  },
+  {
+    "title": "How to design AI agent loops: schedules, goals, and subagents in Claude Code and Codex",
+    "url": "https://www.lennysnewsletter.com/p/how-to-design-ai-agent-loops-schedules",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-17",
+    "summary": "Watch now | 🎙️Every loop type explained: heartbeats, crons, goals, and subagents. Plus two live Claude Code and Codex builds that run autonomously so you never manually babysit a PR again"
+  },
+  {
     "title": "PMM Powerhour KPI and metrics",
     "url": "https://www.productmarketingalliance.com/pmm-powerhour/kpi-and-metrics/",
     "source": "pma",
