@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-19T15:20:54Z",
-  "total_articles": 427,
+  "last_updated": "2026-06-20T15:43:08Z",
+  "total_articles": 432,
   "sources": {
     "pma": {
       "status": "ok",
@@ -38,9 +38,9 @@
       "error": "404 Not Found"
     },
     "chartmogul": {
-      "status": "error",
+      "status": "ok",
       "name": "ChartMogul",
-      "error": "[Errno 54] Connection reset by peer"
+      "articles_found": 100
     }
   }
 }
