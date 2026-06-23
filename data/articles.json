@@ -1,5 +1,85 @@
 [
   {
+    "title": "Competitive intelligence charter template",
+    "url": "https://www.productmarketingalliance.com/competitive-intelligence-charter-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-23",
+    "summary": "Do CI the right way, with a charter your whole org can stand behind."
+  },
+  {
+    "title": "We Added Too Many Guardrails and Broke Our Own Agent, Our AI VP of Finance Found a Setting We’d Missed for 8 Years, and an Agent Is Now the One Renewing Your Software: The Agents #007",
+    "url": "https://www.saastr.com/we-added-too-many-guardrails-and-broke-our-own-agent-our-ai-vp-of-finance-found-a-setting-wed-missed-for-8-years-and-an-agent-is-now-the-one-renewing-your-software-the-agents-007/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-23",
+    "summary": "Amelia and I just shipped Episode #007 of The Agents. Same setup as always: three humans, 21+ agents, revenue went from -19% to +47% YoY, and every week we get into what’s actually working, what’s..."
+  },
+  {
+    "title": "The new inner game: Your unfair advantage in the age of AI",
+    "url": "https://www.lennysnewsletter.com/p/the-new-inner-game-your-unfair-advantage",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-23",
+    "summary": "A playbook for the biggest upheaval of work we’ll see in our lifetime"
+  },
+  {
+    "title": "Product Marketing Summit |Atlanta, 2026",
+    "url": "https://www.productmarketingalliance.com/product-marketing-summit-atlanta-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-22",
+    "summary": "Catch up on all sessions from Product Marketing Summit Atlanta with insights from Calendly, IBM, Salesforce, New Relic, and more."
+  },
+  {
+    "title": "The false choice between feature-led and outcome-led messaging",
+    "url": "https://www.productmarketingalliance.com/feature-led-and-outcome-led-messaging/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-22",
+    "summary": "Move beyond the false choice of feature-led vs. outcome-led messaging. Discover how to connect product capabilities to real customer outcomes to build trust and persuade B2B buyers."
+  },
+  {
+    "title": "What the PMM role looks like in 2026 and beyond",
+    "url": "https://www.productmarketingalliance.com/what-the-pmm-role-looks-like-in-2026-and-beyond/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-22",
+    "summary": "AI is changing product marketing. In 2026, top PMM leaders will trade volume for value and commercial impact. Read the full outlook here."
+  },
+  {
+    "title": "Salesforce at 2.8x ARR, HubSpot Down 56%, Adobe at 11x Earnings: Are They Just Too Oversold Now?",
+    "url": "https://www.saastr.com/salesforce-at-3-1x-arr-hubspot-down-56-adobe-at-11x-earnings-are-they-just-too-oversold-now/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-22",
+    "summary": "Four months ago the markets decided B2B software was dead. In a 48-hour stretch in February, roughly $285 billion in software market cap evaporated. The trigger was the fear that AI agents would make..."
+  },
+  {
+    "title": "Rippling’s AI Bet: The Data Graph Is the Moat",
+    "url": "https://www.saastr.com/ripplings-ai-bet-the-data-graph-is-the-moat/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-22",
+    "summary": "Rippling’s AI Bet: The Data Graph Is the Moat Rippling’s whole AI bet comes down to one thing: a single connected database under every product it sells. Luke Prokopiak, who leads Rippling’s AI..."
+  },
+  {
+    "title": "🎙️ How I AI: How to write AI agent loops in Claude Code and Codex + How Claude Mythos found a 15-year-old bug in Mozilla Firefox",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-to-write-ai-agent-loops",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-22",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
+  },
+  {
+    "title": "How Claude Mythos found a 15-year-old bug in Mozilla Firefox | Brian Grinstead",
+    "url": "https://www.lennysnewsletter.com/p/how-claude-mythos-found-a-15-year",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-22",
+    "summary": "Watch now | 🎙️423 security fixes in one month: Brian Grinstead (Mozilla) shows the goal-loop harness behind it, and why the model was only half the story"
+  },
+  {
     "title": "The PIK Fuse: How Private Equity Software Deals Like Medallia Actually Blow Up, and Exactly Who’s Next",
     "url": "https://www.saastr.com/the-pik-fuse-how-private-equity-software-deals-like-medallia-actually-blow-up-and-exactly-whos-next/",
     "source": "saastr",
@@ -2408,6 +2488,14 @@
     "summary": "So when I look back on my many failings as an entrepreneur, in the end, it’s all about the team. Almost all my failings as a CEO and founder came from failing to get that one extra great VP hired,..."
   },
   {
+    "title": "Dear SaaStr: Should I Visit My Customers More?",
+    "url": "https://www.saastr.com/dear-saastr-should-i-visit-my-customers-more-2/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-09-09",
+    "summary": "Dear SaaStr: Should I Visit My Customers More? Yes. Absolutely. Of course you should. You should visit your customers more. I can’t stress this enough—getting in front of your customers is one of the..."
+  },
+  {
     "title": "Dear SaaStr: What Can We Do To Make Our Customers Truly Happier?",
     "url": "https://www.saastr.com/dear-saastr-what-can-we-do-to-make-our-customers-truly-happier/",
     "source": "saastr",
@@ -2664,12 +2752,28 @@
     "summary": "“If you see it you can act on it,” says Caya, CEO. With no easy way to calculate and analyze metrics in the early days of Slidebean the team was left trying to figure out how to combine data into a..."
   },
   {
+    "title": "Hiring a Strong New VP? Let Them Pick Their Right Hand Person",
+    "url": "https://www.saastr.com/hiring-a-strong-new-vp-let-them-pick-their-right-hand-person/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-09-05",
+    "summary": "So there’s a mistake I see a lot of founders make again and again, especially when cash is tight. In fact, these days cash is tight for most, even if you’re at $20m, $50m, $100m ARR, since everyone’s..."
+  },
+  {
     "title": "Why we decided to rebuild our Sidekiq infrastructure to support greater scale",
     "url": "https://alleged-peace.flywheelsites.com/autoscaling-sidekiq/",
     "source": "chartmogul",
     "source_name": "ChartMogul",
     "date": "2024-08-13",
     "summary": "Two years ago we were struggling with background processing which was a problem for our application."
+  },
+  {
+    "title": "9 Signs a Startup Isn’t Going to Make It with SaaStr CEO Jason Lemkin",
+    "url": "https://www.saastr.com/9-signs-a-startup-isnt-going-to-make-it-with-saastr-ceo-jason-lemkin/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-07-24",
+    "summary": "In a recent Workshop Wednesday, SaaStr Founder and CEO, Jason Lemkin sat down to discuss 9 signs a startup isn't going to make it."
   },
   {
     "title": "SaaS growth remains slow throughout H1 2024",
@@ -2966,6 +3070,14 @@
     "source_name": "Andrew Chen",
     "date": "2023-09-30",
     "summary": "Dear readers, I was triggered to write this post because ChatGPT apologies way too much, takes too long to get into the meat of an answer, and I wanted to fix that. This came up because like many of..."
+  },
+  {
+    "title": "A Simple Guide To Being in the Top 25% of Sales Professionals",
+    "url": "https://www.saastr.com/what-is-the-best-sales-advice-you-can-give/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2023-09-29",
+    "summary": "Dear SaaStr: What is the best sales advice you can give to be a top sales rep? Sales execs can screw up so many things and still close a lot if they just get 1 thing right If they just are a true..."
   },
   {
     "title": "The best SaaS blog posts and resources library",
