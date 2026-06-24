@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-23T15:15:47Z",
-  "total_articles": 450,
+  "last_updated": "2026-06-24T14:58:48Z",
+  "total_articles": 456,
   "sources": {
     "pma": {
       "status": "ok",
@@ -38,9 +38,9 @@
       "error": "404 Not Found"
     },
     "chartmogul": {
-      "status": "error",
+      "status": "ok",
       "name": "ChartMogul",
-      "error": "422 Unknown"
+      "articles_found": 100
     }
   }
 }
