@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T16:51:58Z",
-  "total_articles": 470,
+  "last_updated": "2026-06-27T15:28:44Z",
+  "total_articles": 473,
   "sources": {
     "pma": {
       "status": "ok",
@@ -40,7 +40,7 @@
     "chartmogul": {
       "status": "error",
       "name": "ChartMogul",
-      "error": "[Errno 54] Connection reset by peer"
+      "error": "The read operation timed out"
     }
   }
 }
