@@ -1,5 +1,101 @@
 [
   {
+    "title": "How to track your brand’s presence in AI search",
+    "url": "https://blog.hubspot.com/marketing/ai-search-presence",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-30",
+    "summary": "As any marketer or SEO knows, there’s a special satisfaction in seeing your hard work pay off in the form of snagging a top result on the SERPs. But in the age of answer engine optimization (AEO) ,..."
+  },
+  {
+    "title": "Campaign optimization strategies that actually work in 2026",
+    "url": "https://blog.hubspot.com/marketing/campaign-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-30",
+    "summary": "Recent data shows that 88% of marketers now use AI every day to guide their biggest decisions, and for good reason. Marketing automation has been shown to generate 80% more leads and drive 77% higher..."
+  },
+  {
+    "title": "The Agent Playbooks from Salesforce, Snowflake, Databricks, Harvey, and Lovable: Inside SaaStr AI 2026",
+    "url": "https://www.saastr.com/the-agent-playbooks-from-salesforce-snowflake-databricks-harvey-lovable-and-monaco-inside-saastr-ai-annual-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-30",
+    "summary": "The main stage at SaaStr AI 2026 in San Mateo ran end to end on agents. Agents in production, carrying quota, writing to systems of record, and reshaping how companies are built. Below is a..."
+  },
+  {
+    "title": "The Monthly Brand Engine: How Monaco Manufactured a New Viral Moment Every 30 Days",
+    "url": "https://www.saastr.com/the-monthly-brand-engine-how-monaco-manufactured-a-new-viral-moment-every-30-days/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-30",
+    "summary": "Great Marketing is a Sequence. AI Means You Should Do Even More Of It. AI in GTM gives you back time. But what do you do what that time? Sam Blond CEO Monaco and ex-CRO of Brex came to SaaStr AI..."
+  },
+  {
+    "title": "How top PMs increase their leverage with AI",
+    "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-30",
+    "summary": "A framework for getting the most out of AI in your day-to-day-work"
+  },
+  {
+    "title": "How senior PMMs turn insight into irreversible strategic decisions",
+    "url": "https://www.productmarketingalliance.com/insight-into-irreversible-strategic-decisions/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-06-29",
+    "summary": "Discover how senior product marketing managers turn raw insights into strategic business decisions. Learn to distinguish true insights from market noise and apply AI to sharpen your research process."
+  },
+  {
+    "title": "What is AI search optimization? (& why marketers should care)",
+    "url": "https://blog.hubspot.com/marketing/what-is-ai-search-optimization",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-29",
+    "summary": "AI search optimization is the practice of improving brands’ odds of being cited and mentioned by answer engines like ChatGPT, Gemini, and AI Overviews. The traffic it earns is small but high-intent...."
+  },
+  {
+    "title": "Scrunch vs Semrush: AI visibility or traditional SEO?",
+    "url": "https://blog.hubspot.com/marketing/scrunch-vs-semrush",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-06-29",
+    "summary": "Scrunch vs Semrush comes down to one question: Do you need a dedicated AI visibility tool, or a full SEO suite that now tracks AI answers too? Scrunch is an AEO specialist built to monitor how your..."
+  },
+  {
+    "title": "Databricks’ Co-Founder Arsalan Tavakoli: Every Software Monopoly Falls in the Next 24 Months",
+    "url": "https://www.saastr.com/databricks-co-founder-arsalan-tavakoli-every-software-monopoly-falls-in-the-next-24-months/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-29",
+    "summary": "Databricks is now running at a stunning $6.9B revenue run-rate, growing 80%+ year over year, with AI products alone past a $1.7B run-rate and net retention above 140%. That gives co-founder Arsalan..."
+  },
+  {
+    "title": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs?",
+    "url": "https://www.saastr.com/dear-saastr-what-is-a-good-approach-for-price-increases-with-smbs/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-29",
+    "summary": "Dear SaaStr: What is a Good Approach For Price Increases with SMBs? Raising prices in SaaS serving SMBs is tricky but necessary as you scale. SMBs are price-sensitive, so you need to approach this..."
+  },
+  {
+    "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-29",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
+  },
+  {
+    "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+    "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-29",
+    "summary": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation"
+  },
+  {
     "title": "How To Build Your Own AI VP of Marketing: The Full Playbook From SaaStr AI 2026",
     "url": "https://www.saastr.com/how-to-build-your-own-ai-vp-of-marketing-the-full-10k-playbook-from-saastr-ai/",
     "source": "saastr",
@@ -22,6 +118,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-28",
     "summary": "Listen now | OpenAI’s Andrew Ambrosino on why software is getting cheaper to build, why taste matters more than ever, and what’s next for the Codex desktop app"
+  },
+  {
+    "title": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup?",
+    "url": "https://www.saastr.com/is-it-normal-to-feel-like-a-pest-when-prospecting-for-customers-for-a-startup/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-06-28",
+    "summary": "Dear SaaStr: Is It Normal to Feel Like a Pest When Prospecting for Customers For a Startup? Yes. Most of us will feel like a pest when we start doing outbound. So … get better at it, get over it, and..."
   },
   {
     "title": "We Booked 614 Meetings With One Inbound Agent. Your “Contact Us” Form Is Costing You Deals.",
@@ -3438,6 +3542,14 @@
     "source_name": "ChartMogul",
     "date": "2023-04-27",
     "summary": "After years of using generic CRMs that are ill-suited for our product-led B2B SaaS model, we’re using ChartMogul CRM, the only CRM tailor-made for SaaS sales teams like us. We’re familiar with the..."
+  },
+  {
+    "title": "How to Create Urgency in Sales. When There Really Isn’t Any.",
+    "url": "https://www.saastr.com/fundamental-sales-principals/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2023-04-27",
+    "summary": "Dear SaaStr: How Do I Create Urgency in Sales. When There Really Isn’t Any? The hardest part of sales is creating urgency The rest is hard too, don't get me wrong But really, 95 times out of 100, no..."
   },
   {
     "title": "The New Chargebee Integration: Open Invoices, Support for Add-ons, and More Accurate Cash Flow Reporting",
