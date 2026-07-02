@@ -1,5 +1,61 @@
 [
   {
+    "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year. With Vercel’s COO Jeanne DeWitt Grosser.",
+    "url": "https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-02",
+    "summary": "Vercel’s COO Jeanne DeWitt Grosser ran go-to-market at Google and Stripe for roughly a decade each before joining Vercel. Six weeks into the job, in June 2025, she stood up a go-to-market engineering..."
+  },
+  {
+    "title": "Product Marketing Festival London 2026 | OnDemand",
+    "url": "https://www.productmarketingalliance.com/product-marketing-festival-london-2026-ondemand-2/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-01",
+    "summary": "Catch up with every session from Product Marketing Festival London, featuring sessions from Amazon, Sitecore, King Games, Aston Martin and more."
+  },
+  {
+    "title": "Product Marketing Summit |Seattle, 2026",
+    "url": "https://www.productmarketingalliance.com/product-marketing-summit-seattle-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-01",
+    "summary": "Catch up on all sessions from Product Marketing Summit Seattle with insights from Google, Amazon, Microsoft & more"
+  },
+  {
+    "title": "How to measure the customer experience as AI scales",
+    "url": "https://www.intercom.com/blog/how-to-measure-customer-experience-as-ai-scales/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-07-01",
+    "summary": "Traditional support metrics weren't designed for AI handling most of your conversations. As your Agent takes on more, the gaps in what you can see get bigger. Here's how to measure the full customer..."
+  },
+  {
+    "title": "What are semantic keywords? Here's how to find & use them",
+    "url": "https://blog.hubspot.com/marketing/semantic-keywords",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-01",
+    "summary": "Every content marketer seems to be asking the same question: Do semantic keywords still matter in SEO in 2026, especially now that AI engines influence traffic and buying decisions?"
+  },
+  {
+    "title": "The Agents Is Back. Outbound Isn’t Dead. Our Agents Are Collapsing Into Each Other. And Collections Just Went on Autopilot.",
+    "url": "https://www.saastr.com/the-agents-is-back-outbound-isnt-dead-our-agents-are-collapsing-into-each-other-and-collections-just-went-on-autopilot/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-01",
+    "summary": "Everyone keeps telling you the future is 100 specialized agents. In our stack, the opposite is happening. On the latest episode of The Agents, Amelia and I walked through the newest addition to our..."
+  },
+  {
+    "title": "Figma Grows 46% and Trades at 6x. Everyone Else Growing 30%+ Trades at 15-36x.",
+    "url": "https://www.saastr.com/figma-grows-46-and-trades-at-6x-everyone-else-growing-30-trades-at-15-36x/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-01",
+    "summary": "Figma went public on July 31, 2025 at $33 a share, popped 250% on day one to close at $115.50, and got valued near $68 billion. It peaked at $142.92. This week it trades around $19, with a market cap..."
+  },
+  {
     "title": "How to track your brand’s presence in AI search",
     "url": "https://blog.hubspot.com/marketing/ai-search-presence",
     "source": "hubspot",
@@ -38,6 +94,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-06-30",
     "summary": "A framework for getting the most out of AI in your day-to-day-work"
+  },
+  {
+    "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+    "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-06-30",
+    "summary": "Watch now | 🎙 I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me"
   },
   {
     "title": "How senior PMMs turn insight into irreversible strategic decisions",
@@ -2864,6 +2928,14 @@
     "summary": "Startup branding isn’t just for later-stage companies with big budgets. It’s something early-stage startups can (and should) care about from day one. The reason is simple: you already have a brand...."
   },
   {
+    "title": "Dear SaaStr: What Are Your Top Tips to Building Your First Sales Team?",
+    "url": "https://www.saastr.com/dear-saastr-what-are-your-top-tips-to-building-your-first-sales-team/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-07-22",
+    "summary": "Dear SaaStr: What Are Your Top Tips to Building A First Sales Team? When it comes to sales hires, the key is to approach it methodically and avoid common pitfalls. Here’s how I’d break it down: Hire..."
+  },
+  {
     "title": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps?",
     "url": "https://www.saastr.com/dear-saastr-what-quota-should-i-give-to-my-enterprise-sales-reps/",
     "source": "saastr",
@@ -3086,6 +3158,14 @@
     "source_name": "SaaStr",
     "date": "2024-09-05",
     "summary": "So there’s a mistake I see a lot of founders make again and again, especially when cash is tight. In fact, these days cash is tight for most, even if you’re at $20m, $50m, $100m ARR, since everyone’s..."
+  },
+  {
+    "title": "Dear SaaStr: Does It Make Sense to Have Post-Sales Functions Report into Sales?",
+    "url": "https://www.saastr.com/large-company-activities-relating-post-sales-customer-support-fall-sales-operations/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-08-17",
+    "summary": "Dear SaaStr: Does It Make Sense to Have Post-Sales Functions Report into Sales? In many ways, this is the question of the day. So many SaaS companies, faced with slower growth, are moving CS in..."
   },
   {
     "title": "Why we decided to rebuild our Sidekiq infrastructure to support greater scale",
@@ -3616,6 +3696,14 @@
     "summary": "I wrote a version of this post some time ago, and I think it’s really one of the most important posts on SaaStr of all time, so I wanted to update it, especially in these times of more scrutiny and..."
   },
   {
+    "title": "The #1 Reason CMOs Fail",
+    "url": "https://www.saastr.com/when-you-need-a-cmo-and-the-1-reason-cmos-fail/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2022-12-28",
+    "summary": "\"Too many CMOs and CROs come into a new role and just run the playbook that worked at their last role. You have to start by improving the playbook that's currently working. Not running your prior..."
+  },
+  {
     "title": "Strategies For Sustainable Growth In 2023",
     "url": "https://alleged-peace.flywheelsites.com/strategies-for-sustainable-growth-in-2023/",
     "source": "chartmogul",
@@ -3910,29 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2021-07-26",
     "summary": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started? The answer is yes – 95% of the time. The “best” sequence for building a repeatable sales engine is roughly: The..."
-  },
-  {
-    "title": "What to Do If Your Business Decelerates",
-    "url": "https://www.saastr.com/what-to-do-if-your-business-decelerates/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2021-02-13",
-    "summary": "A top B2B VC said to me back in the day: “Once a B2B business decelerates, it becomes almost hopeless. No one will buy you, fund you, or join you.” That quote was true then. It’s only gotten more..."
-  },
-  {
-    "title": "The Best Sales Reps Get Customers to Buy. Even When They Don’t Need to Right Now.",
-    "url": "https://www.saastr.com/the-best-sales-reps-get-customers-to-buy-even-when-they-dont-need-to-right-now/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2020-11-05",
-    "summary": "Dear SaaStr: Can salespeople really get customers to buy a product they don’t need right now? Yes, at least up to a point. In many ways, getting folks to buy a product they don’t truly need today is..."
-  },
-  {
-    "title": "Dear SaaStr: As a Startup, What Are Some Effective Ways For an Underdog to Take Down Their Competition?",
-    "url": "https://www.saastr.com/startup-effective-ways-underdog-take-competition/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2017-08-31",
-    "summary": "Dear SaaStr: As a Startup, What Are Some Effective Ways For an Underdog to Take Down Their Competition? It depends on the gap. In B2B historically, I’d argue if your competitor is larger than you, at..."
   }
 ]

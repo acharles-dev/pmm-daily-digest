@@ -1,46 +1,46 @@
 {
-  "last_updated": "2026-07-01T14:32:21Z",
-  "total_articles": 492,
+  "last_updated": "2026-07-02T15:02:05Z",
+  "total_articles": 500,
   "sources": {
     "pma": {
-      "status": "error",
+      "status": "ok",
       "name": "Product Marketing Alliance",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 15
     },
     "andrew_chen": {
-      "status": "error",
+      "status": "ok",
       "name": "Andrew Chen",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 15
     },
     "intercom": {
-      "status": "error",
+      "status": "ok",
       "name": "Intercom Blog",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 10
     },
     "hubspot": {
-      "status": "error",
+      "status": "ok",
       "name": "HubSpot Marketing",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 50
     },
     "saastr": {
-      "status": "error",
+      "status": "ok",
       "name": "SaaStr",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 10
     },
     "lenny": {
-      "status": "error",
+      "status": "ok",
       "name": "Lenny's Newsletter",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 20
     },
     "growth_unhinged": {
       "status": "error",
       "name": "Growth Unhinged",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "error": "404 Not Found"
     },
     "chartmogul": {
-      "status": "error",
+      "status": "ok",
       "name": "ChartMogul",
-      "error": "[Errno 8] nodename nor servname provided, or not known"
+      "articles_found": 0
     }
   }
 }
