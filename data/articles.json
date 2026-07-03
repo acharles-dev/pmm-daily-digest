@@ -1,11 +1,27 @@
 [
   {
+    "title": "Message testing on a shoestring budget",
+    "url": "https://www.productmarketingalliance.com/message-testing-on-a-shoestring-budget/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-03",
+    "summary": "How to use AI and real signals to validate your messaging."
+  },
+  {
     "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year. With Vercel’s COO Jeanne DeWitt Grosser.",
     "url": "https://www.saastr.com/vercel-took-a-10-person-sdr-team-down-to-1-the-whole-thing-costs-5000-a-year-with-vercels-coo-jeanne-dewitt-grosser/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-07-02",
     "summary": "Vercel’s COO Jeanne DeWitt Grosser ran go-to-market at Google and Stripe for roughly a decade each before joining Vercel. Six weeks into the job, in June 2025, she stood up a go-to-market engineering..."
+  },
+  {
+    "title": "20VC x SaaStr: The Token ROI Crisis Comes for Everyone, Anthropic Wants Chinese Open Source Banned, and Microsoft Has Its Worst Month Since 2000",
+    "url": "https://www.saastr.com/20vc-x-saastr-the-token-roi-crisis-comes-for-everyone-anthropic-wants-chinese-open-source-banned-and-microsoft-has-its-worst-month-since-2000/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-02",
+    "summary": "With Harry Stebbings, Jason Lemkin, and Rory O’Driscoll We recorded this on the last day of June, and one theme ran through almost every story: Companies quintupled their token spend in the first..."
   },
   {
     "title": "Product Marketing Festival London 2026 | OnDemand",
@@ -3982,21 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2022-03-10",
     "summary": "One of the first iconic SaaStr posts was Hire the Right Type of VP Marketing or You’ll Just End Up With a Bunch of Blue Pens with Your Logo On Them. The basic idea was to help folks who haven’t hired..."
-  },
-  {
-    "title": "The Pros and Cons of Working Directly for the CEO",
-    "url": "https://www.saastr.com/the-pros-and-cons-of-working-directly-for-the-ceo-2/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2021-11-13",
-    "summary": "Pros of working directly for CEO: – Turbocharges learnings– Accelerated decisions + impact– Lifetime relationship– More rewarding Cons of working directly for CEO: – Feedback can be too direct–..."
-  },
-  {
-    "title": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started?",
-    "url": "https://www.saastr.com/should-a-startup-founder-handle-sales-when-first-getting-started/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2021-07-26",
-    "summary": "Dear SaaStr: Should a Startup Founder Handle Sales Themself When First Getting Started? The answer is yes – 95% of the time. The “best” sequence for building a repeatable sales engine is roughly: The..."
   }
 ]
