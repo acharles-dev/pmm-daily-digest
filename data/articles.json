@@ -1,11 +1,35 @@
 [
   {
+    "title": "Outbound Isn’t Dead. AI Just Radically Changed How It Works.",
+    "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-04",
+    "summary": "On the latest episode of The Agents, we brought on Sam Blond, founder and CEO of Monaco, the AI-native revenue platform, and one of the agents we actually run in production. Sam has run outbound at..."
+  },
+  {
+    "title": "If Nothing Else – Segment Churn. You’ll See Patterns and Learnings You Wouldn’t Otherwise",
+    "url": "https://www.saastr.com/nothing-else-segment-churn/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-04",
+    "summary": "Churn is not a GAAP metric. It doesn’t have a universal definition. Public companies and startups all seem to define churn differently. And even hide it in part, by doing so. I learned this myself..."
+  },
+  {
     "title": "Message testing on a shoestring budget",
     "url": "https://www.productmarketingalliance.com/message-testing-on-a-shoestring-budget/",
     "source": "pma",
     "source_name": "Product Marketing Alliance",
     "date": "2026-07-03",
     "summary": "How to use AI and real signals to validate your messaging."
+  },
+  {
+    "title": "5 Interesting Learnings from Toast at $6.5 Billion Run-Rate: 22%+ Growth, Profitable, No Deceleration. But AI Is Just Getting Started",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-toast-at-billion-in-arr/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-03",
+    "summary": "AI Vertical SaaS is hot now. Toast is … a dominant vertical SaaS leader becoming AI-first. Toast is running at a ~$6.5 billion revenue run-rate. At its core Toast is a payments business, with a..."
   },
   {
     "title": "Vercel Took a 10-Person SDR Team Down to 1. The Whole Thing Costs $5,000 a Year. With Vercel’s COO Jeanne DeWitt Grosser.",
@@ -3176,6 +3200,14 @@
     "summary": "So there’s a mistake I see a lot of founders make again and again, especially when cash is tight. In fact, these days cash is tight for most, even if you’re at $20m, $50m, $100m ARR, since everyone’s..."
   },
   {
+    "title": "Dear SaaStr: When Should I Pay Commission on B2B Sales that Close Themselves?",
+    "url": "https://www.saastr.com/when-should-i-pay-the-commission-for-saas-sales-all-of-our-trial-signups-will-get-an-automatic-email-from-an-account-executive-how-do-we-decide-if-the-ae-was-responsible-for-the-sale-versus-the-sale/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2024-08-25",
+    "summary": "Dear SaaStr: When should I pay the commission for SaaS sales? All of our trial signups will get an automatic email from an account executive. How do we decide if the AE was responsible for the sale..."
+  },
+  {
     "title": "Dear SaaStr: Does It Make Sense to Have Post-Sales Functions Report into Sales?",
     "url": "https://www.saastr.com/large-company-activities-relating-post-sales-customer-support-fall-sales-operations/",
     "source": "saastr",
@@ -3966,37 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2022-04-07",
     "summary": "TL;DR: What sets ChartMogul apart from Baremetrics If you’re evaluating Baremetrics versus ChartMogul there are a few things that you should consider. Grow your recurring revenue with ChartMogul..."
-  },
-  {
-    "title": "Why It’s Year 3 When You Lose Your Larger Customers (And in The AI Age, It’s Becoming Year 2)",
-    "url": "https://www.saastr.com/low-engagements-3-year-death-spiral-in-saas/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-04-06",
-    "summary": "Recently I was catching up with a good friend who used to be CEO of an enterprise-y B2B social networking company. The usage and engagement numbers of his business were just awful. Customers bought..."
-  },
-  {
-    "title": "SaaS Metrics Every Startup Founder Should Know",
-    "url": "https://alleged-peace.flywheelsites.com/saas-metrics-for-founders/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-03-31",
-    "summary": "Every SaaS business wants to succeed. The SaaS industry is currently worth over $145 billion. There is a great opportunity out there to be part of it. Success doesn’t happen overnight, though. The..."
-  },
-  {
-    "title": "Don’t Let Them (Your Best Employees) Go",
-    "url": "https://www.saastr.com/dont-let-them-your-best-employees-go/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-03-21",
-    "summary": "When you see Founder Mode from a non-founder When you find a VP, an exec, that actually cares as much as a founder, or almost as much … Promote them fast. ASAP. Double their equity. And … never let..."
-  },
-  {
-    "title": "Your VP Sales Has a Sales Quota. Your VP Marketing Has To Have a Quota, Too.",
-    "url": "https://www.saastr.com/your-vp-sales-has-a-sales-quota-your-vp-marketing-needs-a-lead-quota-period/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-03-10",
-    "summary": "One of the first iconic SaaStr posts was Hire the Right Type of VP Marketing or You’ll Just End Up With a Bunch of Blue Pens with Your Logo On Them. The basic idea was to help folks who haven’t hired..."
   }
 ]
