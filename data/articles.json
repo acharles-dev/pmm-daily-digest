@@ -1,5 +1,21 @@
 [
   {
+    "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
+    "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-05",
+    "summary": "Two things are true in B2B right now, and they look like they can’t both be true. Total software spend is growing 15% this year, the fastest in a decade, up from 12.8% last year. Gartner has it going..."
+  },
+  {
+    "title": "Google Cloud’s VP of Growth on Building an AI-Native Marketing Team: 8 Takeaways from SaaStr AI 2026",
+    "url": "https://www.saastr.com/google-clouds-vp-of-growth-on-building-an-ai-native-marketing-team-8-takeaways-from-saastr-ai-2026/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-05",
+    "summary": "Google Cloud’s VP of Global Demand & Growth, Sarah Kennedy Ellis, joined us for a day-three session at SaaStr AI 2026. She ran marketing at Marketo (sold to Adobe for $4.75B) and led marketing for..."
+  },
+  {
     "title": "Outbound Isn’t Dead. AI Just Radically Changed How It Works.",
     "url": "https://www.saastr.com/outbound-isnt-dead-ai-just-radically-changed-how-it-works/",
     "source": "saastr",
@@ -14,6 +30,14 @@
     "source_name": "SaaStr",
     "date": "2026-07-04",
     "summary": "Churn is not a GAAP metric. It doesn’t have a universal definition. Public companies and startups all seem to define churn differently. And even hide it in part, by doing so. I learned this myself..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-04",
+    "summary": "Community Wisdom 192"
   },
   {
     "title": "Message testing on a shoestring budget",
@@ -3974,29 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2022-04-27",
     "summary": "Churn gets a lot of bad press. Yes, it is complex. Yes, it is confusing. But as a metric, it is helpful. In the early stages of building a company, churn gives you quick feedback which other metrics..."
-  },
-  {
-    "title": "9 Startup Lessons From Phil Knight, Creator of NIKE",
-    "url": "https://alleged-peace.flywheelsites.com/startup-lessons-from-nike/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-04-20",
-    "summary": "Nike is one of the best-known brands in the world today. It sells almost 1,500 shoes every minute. That is 780 million shoes every year. Most likely, at some point in your life, you might have worn a..."
-  },
-  {
-    "title": "Rapidly Scaling a Team With Gilles Bertaux of Livestorm",
-    "url": "https://alleged-peace.flywheelsites.com/rapidly-scaling-a-team/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-04-08",
-    "summary": "When faced with rapid growth, how does a company adjust, adapt, and evolve? In this week’s SaaS Open Mic podcast, we speak with Gilles Bertaux, CEO and Co-founder of Livestorm. He shares his lessons..."
-  },
-  {
-    "title": "ChartMogul vs. Baremetrics. Everything You Need to Know",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-baremetrics-everything-you-need-to-know/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-04-07",
-    "summary": "TL;DR: What sets ChartMogul apart from Baremetrics If you’re evaluating Baremetrics versus ChartMogul there are a few things that you should consider. Grow your recurring revenue with ChartMogul..."
   }
 ]
