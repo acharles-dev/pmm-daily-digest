@@ -1,5 +1,37 @@
 [
   {
+    "title": "Positioning AI products: A step-by-step guide",
+    "url": "https://www.productmarketingalliance.com/positioning-ai-products-a-step-by-step-guide/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-06",
+    "summary": "Use this outcome inversion framework to move your AI product positioning from generic feature claims to buyer-focused value."
+  },
+  {
+    "title": "AI product positioning framework",
+    "url": "https://www.productmarketingalliance.com/ai-product-positioning-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-06",
+    "summary": "Turn generic AI claims into a position competitors can't copy."
+  },
+  {
+    "title": "By Year-End, Anthropic Will Out-Earn Every Public Software Company Except Microsoft",
+    "url": "https://www.saastr.com/by-year-end-anthropic-will-out-earn-every-public-software-company-except-microsoft/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-06",
+    "summary": "Our jaws drop at Anthropic’s growth rate, and its valuation. But sometimes we can lose sight of just how big it already is … versus everyone else in software. Anthropic exited 2025 at roughly $9..."
+  },
+  {
+    "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-06",
+    "summary": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time"
+  },
+  {
     "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
     "url": "https://www.saastr.com/tired-vs-wired-our-deep-dive-on-why-software-spend-is-up-15-yet-half-of-saas-is-still-dying/",
     "source": "saastr",
@@ -3960,43 +3992,11 @@
     "summary": "Deel, the payroll and compliance company, recently raised $425 million in series D at a valuation of $5.5 billion. Deel’s exponential growth comes as no surprise considering how remote work has..."
   },
   {
-    "title": "High NRR is Magic. It Can Also Hide a Lot of Problems.",
-    "url": "https://www.saastr.com/high-nrr-can-mask-a-lot-of-problems/",
+    "title": "Dear SaaStr: What’s The Best Way to Set Targets for the Sales Team?",
+    "url": "https://www.saastr.com/what-is-the-best-way-to-set-targets-for-saas-sales-people/",
     "source": "saastr",
     "source_name": "SaaStr",
-    "date": "2022-05-30",
-    "summary": "Having high net revenue / dollar retention is the magic of B2B. If you have 120% NRR, you double in less than 5 years, even with no new customers. Above that, you really get into magical compounding..."
-  },
-  {
-    "title": "Yes, SaaS Startup Growth Is Slowing Down. Here’s the Data",
-    "url": "https://alleged-peace.flywheelsites.com/slowing-startup-growth/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-05-26",
-    "summary": "Have you recently experienced slowing growth at your SaaS startup? In all likelihood, you’re not alone. See the chart below. It shows the median monthly growth rate for SaaS startups in April 2022..."
-  },
-  {
-    "title": "The #1 Mistake I See Founders Make When They Hire Their First VP of Sales",
-    "url": "https://www.saastr.com/the-1-mistake-i-see-founders-make-when-they-hire-their-first-vp-of-sales/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-05-12",
-    "summary": "I'd say about 66% of founders step back from sales when they hire a VP of Sales 95% of the time, it backfires You don't get that time back. You just use it in different parts of the sales process. —..."
-  },
-  {
-    "title": "When SaaS Companies Acquire Communities with James Mayes of Mind the Product",
-    "url": "https://alleged-peace.flywheelsites.com/when-saas-companies-acquire-communities/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-05-04",
-    "summary": "Mind the Product is the world’s largest community of product managers. It recently announced its acquisition by Pendo. In this episode of SaaS Open Mic, I speak with James Mayes, the co-founder and..."
-  },
-  {
-    "title": "What is Churn? How Can It Be Negative? And What’s a Good Monthly Churn Rate?",
-    "url": "https://alleged-peace.flywheelsites.com/churn-basics-and-benchmarks/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-04-27",
-    "summary": "Churn gets a lot of bad press. Yes, it is complex. Yes, it is confusing. But as a metric, it is helpful. In the early stages of building a company, churn gives you quick feedback which other metrics..."
+    "date": "2022-06-06",
+    "summary": "Dear SaaStr: What’s The Best Way to Set Targets for the Sales Team? First, I try to model 3 overall plans for the year: C-90, C-60, and C-10, not just for the sales team, but the whole company. The C..."
   }
 ]

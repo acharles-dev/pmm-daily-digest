@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-05T15:26:29Z",
+  "last_updated": "2026-07-06T14:38:24Z",
   "total_articles": 500,
   "sources": {
     "pma": {
@@ -35,7 +35,7 @@
     "growth_unhinged": {
       "status": "error",
       "name": "Growth Unhinged",
-      "error": "[Errno 54] Connection reset by peer"
+      "error": "404 Not Found"
     },
     "chartmogul": {
       "status": "ok",
