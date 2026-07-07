@@ -1,5 +1,21 @@
 [
   {
+    "title": "5 Simple Reasons We Won’t All Vibe Code Our Own HubSpot or Salesforce",
+    "url": "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-07",
+    "summary": "Someone on X this week made a claim that has truth in, but also radically overstates things: “I’ve built AI agents that do everything HubSpot would have done for me and more. And I’m not technically..."
+  },
+  {
+    "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-07",
+    "summary": "Results from our second annual tech worker sentiment survey"
+  },
+  {
     "title": "Positioning AI products: A step-by-step guide",
     "url": "https://www.productmarketingalliance.com/positioning-ai-products-a-step-by-step-guide/",
     "source": "pma",
@@ -30,6 +46,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-07-06",
     "summary": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time"
+  },
+  {
+    "title": "What Happens When You Hire the Wrong VP",
+    "url": "https://www.saastr.com/what-happens-when-you-hire-the-wrong-vp/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-06",
+    "summary": "A lot of classic SaaStr content has been how to spot the best potential VPs. When to hire them. How to interview them and qualify them. What they really do. Etc. etc. Some classics here: How My VP,..."
+  },
+  {
+    "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-06",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
   },
   {
     "title": "Tired vs. Wired: Our Deep Dive on Why Software Spend Is Up Record Amounts … Yet Half of SaaS Is Still Dying",
@@ -2968,6 +3000,14 @@
     "summary": "SaaS companies have long relied on free trials and freemium tiers to reduce adoption friction and grow faster. They are powerful strategies that allow users to experience value before making a..."
   },
   {
+    "title": "Dear SaaStr: From 0 to $10m ARR, At What Point Do We Start Hiring and Whom?",
+    "url": "https://www.saastr.com/dear-saastr-from-0-to-10m-arr-at-what-point-do-we-start-hiring-and-whom/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-10-07",
+    "summary": "Dear SaaStr: From 0 to $10m ARR, At What Point Do We Start Hiring and Whom? From $0 to $10M ARR, every hire has an outsized impact, and there’s little to no redundancy. So timing and prioritization..."
+  },
+  {
     "title": "Don’t Lose a Great CoFounder, Whatever It Takes",
     "url": "https://www.saastr.com/dont-lose-a-great-cofounder-whatever-it-takes/",
     "source": "saastr",
@@ -3958,45 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2022-06-30",
     "summary": "Wouldn’t it be great to see how the deals your sales team has just closed will impact your MRR? Or see how scheduled cancellations will impact your end of quarter results? We have got good news. And..."
-  },
-  {
-    "title": "Choose How You Classify 100% Discounts; Downgrade and Churn",
-    "url": "https://alleged-peace.flywheelsites.com/choose-how-to-interpret-discounted-or-free-plan-customers-churn-or-downgrade/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-06-24",
-    "summary": "Update: This feature was previously only available for Stripe, Chargebee, Recurly, and Braintree. It’s now available for new customers with any billing source. We will enable this data setting for..."
-  },
-  {
-    "title": "Navigating Choppy SaaS Waters",
-    "url": "https://alleged-peace.flywheelsites.com/choppy-saas-waters/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-06-23",
-    "summary": "“May you live in interesting times” is a rough translation of a traditional Chinese proverb that is bearing more meaning today than ever in the history of SaaS. After a brilliant run up to 2022, SaaS..."
-  },
-  {
-    "title": "Enrich Intercom Customer Profiles With Metrics, Analytics, and Data From ChartMogul",
-    "url": "https://alleged-peace.flywheelsites.com/intercom-destination/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-06-16",
-    "summary": "Customer data is spread across multiple platforms: CRM, communication, billing, and subscription analytics. Now you can send revenue and subscription data associated with your customer in ChartMogul..."
-  },
-  {
-    "title": "Hiring Global Talent With Liina Laas of Deel",
-    "url": "https://alleged-peace.flywheelsites.com/hiring-global-talent/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-06-09",
-    "summary": "Deel, the payroll and compliance company, recently raised $425 million in series D at a valuation of $5.5 billion. Deel’s exponential growth comes as no surprise considering how remote work has..."
-  },
-  {
-    "title": "Dear SaaStr: What’s The Best Way to Set Targets for the Sales Team?",
-    "url": "https://www.saastr.com/what-is-the-best-way-to-set-targets-for-saas-sales-people/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-06-06",
-    "summary": "Dear SaaStr: What’s The Best Way to Set Targets for the Sales Team? First, I try to model 3 overall plans for the year: C-90, C-60, and C-10, not just for the sales team, but the whole company. The C..."
   }
 ]
