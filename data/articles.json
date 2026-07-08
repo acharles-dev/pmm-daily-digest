@@ -1,5 +1,37 @@
 [
   {
+    "title": "AI in CI 2026 eBook",
+    "url": "https://www.productmarketingalliance.com/ai-in-ci-2026-ebook/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-08",
+    "summary": "const recordId = 'receCftcxtPjLBRFn'; A practical guide for product marketers and competitive intelligence professionals on getting real work out of AI tools. Make AI do the CI busywork, so you can..."
+  },
+  {
+    "title": "The limits of horizontal PMM playbooks in vertical markets",
+    "url": "https://www.productmarketingalliance.com/the-limits-of-horizontal-pmm-playbooks-in-vertical-markets/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-08",
+    "summary": "A validated playbook can still fail in the wrong market."
+  },
+  {
+    "title": "Should You Discount to Save a Renewal? The NRR Trap Says No. You Probably Should Anyway.",
+    "url": "https://www.saastr.com/should-you-discount-to-save-a-renewal-the-nrr-trap-says-no-you-probably-should-anyway/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-08",
+    "summary": "The Discount That Would’ve Kept Us So we’re going to churn off Adobe Marketo. The irony: I was one of the first 10 Marketo customers. Ever. I’ve been a customer (with a break) for goodness, the..."
+  },
+  {
+    "title": "What a harness is and how to build one with Claude Agent SDK",
+    "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-08",
+    "summary": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own"
+  },
+  {
     "title": "5 Simple Reasons We Won’t All Vibe Code Our Own HubSpot or Salesforce",
     "url": "https://www.saastr.com/simple-reasons-we-wont-all-vibe-code-our-own-hubspot-or-salesforce-even-though-at-saastr-ourselves-we-sort-of-have/",
     "source": "saastr",
@@ -3966,37 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2022-07-19",
     "summary": "We’re teaming up with Stripe to launch the ChartMogul Stripe App. View your MRR, ARR, Subscribers, and MRR movements, whether you’re on your Stripe or ChartMogul dashboard."
-  },
-  {
-    "title": "B2B SaaS Revenue Attribution with Lars Grønnegaard of Dreamdata",
-    "url": "https://alleged-peace.flywheelsites.com/b2b-saas-revenue-attribution/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-07-15",
-    "summary": "Blog posts, case studies, ads, and conferences are fantastic ways of attracting leads and generating revenue. But, how do you know which of your top-of-the-funnel activities led to that revenue? With..."
-  },
-  {
-    "title": "Sync Your ChartMogul Data with Snowflake, Amazon Redshift, or Google BigQuery",
-    "url": "https://alleged-peace.flywheelsites.com/configure-snowflake-bigquery-redshift-as-destination/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-07-07",
-    "summary": "Configure Snowflake, Amazon Redshift, or Google BigQuery as a destination in ChartMogul and export your MRR movements, customers, custom attributes, and tags for further analysis."
-  },
-  {
-    "title": "A Recap of Our Offsite 2022 in Portugal",
-    "url": "https://alleged-peace.flywheelsites.com/offsite-2022/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-07-06",
-    "summary": "2017 in Germany, 2018 in Croatia, 2019 in Spain… We were asking ourselves, “when should we hold our next offsite?” right when the pandemic hit. After two years of staying safe, growing from 30 Moguls..."
-  },
-  {
-    "title": "See Future Changes to Your Recurring Revenue with CMRR",
-    "url": "https://alleged-peace.flywheelsites.com/see-future-changes-with-cmrr/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-06-30",
-    "summary": "Wouldn’t it be great to see how the deals your sales team has just closed will impact your MRR? Or see how scheduled cancellations will impact your end of quarter results? We have got good news. And..."
   }
 ]
