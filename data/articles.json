@@ -1,5 +1,21 @@
 [
   {
+    "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent",
+    "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-11",
+    "summary": "You can buy an AI agent to get started. There are great ones out there, and that’s a perfectly fine place to begin. You can see our full AI Agent stack here, and just copy us. But if you want to..."
+  },
+  {
+    "title": "SaaStr AI App of the Week: Willingness to Pay. The Pricing Firm B2B + AI Companies Call When Per-Seat Stops Working",
+    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-willingness-to-pay-the-pricing-firm-b2b-ai-companies-call-when-per-seat-stops-working/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-11",
+    "summary": "Our AI App of the Week this week … isn’t quite an AI app. But it’s a service that solves one of the toughest problems in B2B + AI today: how to price. The Bottom Line: Willingness to Pay is Ulrik..."
+  },
+  {
     "title": "How to use market segmentation to drive strategic business decisions",
     "url": "https://www.productmarketingalliance.com/what-is-market-segmentation/",
     "source": "pma",
@@ -14,6 +30,30 @@
     "source_name": "SaaStr",
     "date": "2026-07-10",
     "summary": "ServiceTitan has somewhat quietly become one of the most important vertical software stories of the past decade. It sells an end-to-end operating system to the trades: HVAC, plumbing, electrical,..."
+  },
+  {
+    "title": "How we climbed the AI maturity mountain and proved ROI",
+    "url": "https://www.productmarketingalliance.com/how-we-climbed-the-ai-maturity-mountain-and-proved-roi/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-10",
+    "summary": "A five-step system for turning AI experimentation into real impact."
+  },
+  {
+    "title": "The Builder’s Economy: 10 Metrics from ICONIQ’s Newest 2026 State of AI Report",
+    "url": "https://www.saastr.com/the-builders-economy-10-metrics-from-iconiqs-newest-2026-state-of-ai-report/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-10",
+    "summary": "ICONIQ just released the third edition of its State of AI report, subtitled “The Builder’s Economy,” built on a Q2 2026 survey of roughly 305 executives at software companies building AI products...."
+  },
+  {
+    "title": "Dear SaaStr: How Do We Reduce Churn?",
+    "url": "https://www.saastr.com/dear-saastr-how-do-we-reduce-churn/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-10",
+    "summary": "Dear SaaStr: How Do We Reduce Churn? Churn is one of the most critical metrics in software. Maybe really the most critical in the end. With too much churn … in the end, it just doesn’t compound. It’s..."
   },
   {
     "title": "Growth experimentation: A guide for growing marketing teams",
@@ -3958,45 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2022-12-28",
     "summary": "\"Too many CMOs and CROs come into a new role and just run the playbook that worked at their last role. You have to start by improving the playbook that's currently working. Not running your prior..."
-  },
-  {
-    "title": "Strategies For Sustainable Growth In 2023",
-    "url": "https://alleged-peace.flywheelsites.com/strategies-for-sustainable-growth-in-2023/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-12-22",
-    "summary": "For a long time, exponential growth was an expectation for successful SaaS companies. Now, in this economic environment, growing sustainably might just be the new “name of the game”. We spoke with..."
-  },
-  {
-    "title": "ChartMogul 2022: Year in Review",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2022-year-in-review/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-12-20",
-    "summary": "If you thought 2021 was a busy year for product development at ChartMogul, we shifted into hyperdrive for 2022. And if we had to give it a name, we’d call 2022 ‘The Year of the Destination.’ We..."
-  },
-  {
-    "title": "5 SaaS metrics that matter to investors with Jess Bartos of Salesforce Ventures",
-    "url": "https://alleged-peace.flywheelsites.com/5-saas-metrics-that-matter-to-investors/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-12-16",
-    "summary": "In this episode of SaaS Open Mic, I’m speaking with Jess Bartos, an investor with Salesforce Ventures. We discuss the SaaS metrics that investors like Jess use to evaluate the potential of a company,..."
-  },
-  {
-    "title": "Two Most Crucial Metrics in SaaS: Net and Gross Retention Rates — Now Available in ChartMogul",
-    "url": "https://alleged-peace.flywheelsites.com/net-and-gross-retention-rates/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-12-14",
-    "summary": "Retention is one of the most crucial metrics in SaaS. It tells you exactly how well your business is doing, whether you are crushing it or you’ve got a problem on your hands. Without a high retention..."
-  },
-  {
-    "title": "The Best SaaS Reads of 2022",
-    "url": "https://alleged-peace.flywheelsites.com/best-saas-reads-2022/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2022-12-08",
-    "summary": "Every week, I scour the web to pick the top SaaS reads for our weekly newsletter, the SaaS Roundup. This year alone, I shared over 200 curated reads on leadership, growth, pricing, SaaS metrics,..."
   }
 ]
