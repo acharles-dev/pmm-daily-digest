@@ -1,5 +1,21 @@
 [
   {
+    "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
+    "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-12",
+    "summary": "Per the Wall Street this week, private equity will need about nine years to clear its backlog of unsold portfolio companies. And that’s the conservative version. Bain’s 2026 Global Private Equity..."
+  },
+  {
+    "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+    "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-12",
+    "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high"
+  },
+  {
     "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent",
     "url": "https://www.saastr.com/one-way-to-build-a-great-ai-agent-just-start-with-a-dashboard-then-add-the-agent/",
     "source": "saastr",
@@ -14,6 +30,14 @@
     "source_name": "SaaStr",
     "date": "2026-07-11",
     "summary": "Our AI App of the Week this week … isn’t quite an AI app. But it’s a service that solves one of the toughest problems in B2B + AI today: how to price. The Bottom Line: Willingness to Pay is Ulrik..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-11",
+    "summary": "Community Wisdom 193"
   },
   {
     "title": "How to use market segmentation to drive strategic business decisions",
@@ -3974,29 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2023-03-01",
     "summary": "Retention isn’t a silver bullet, but in SaaS, it’s the closest thing to it. Why is retention so pivotal? What does good retention look like? And does higher retention mean higher growth? We analyzed..."
-  },
-  {
-    "title": "Pricing & Jobs to be Done with Matt Lerner",
-    "url": "https://alleged-peace.flywheelsites.com/pricing-and-jobs-to-be-done/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-01-27",
-    "summary": "In this episode of SaaS Open Mic, I speak with Matt Lerner, the founder and CEO of Startup Core Strengths. He shares his perspective on establishing and optimizing pricing using the Jobs to Be Done..."
-  },
-  {
-    "title": "Should You Fire an OK-but-Not-Great VP of Sales? Probably Not (Updated)",
-    "url": "https://www.saastr.com/should-you-fire-an-ok-but-not-great-vp-of-sales-probably-not/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-01-10",
-    "summary": "I wrote a version of this post some time ago, and I think it’s really one of the most important posts on SaaStr of all time, so I wanted to update it, especially in these times of more scrutiny and..."
-  },
-  {
-    "title": "The #1 Reason CMOs Fail",
-    "url": "https://www.saastr.com/when-you-need-a-cmo-and-the-1-reason-cmos-fail/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2022-12-28",
-    "summary": "\"Too many CMOs and CROs come into a new role and just run the playbook that worked at their last role. You have to start by improving the playbook that's currently working. Not running your prior..."
   }
 ]
