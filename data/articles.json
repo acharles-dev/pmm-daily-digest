@@ -1,5 +1,29 @@
 [
   {
+    "title": "Documentation as GTM: The most underrated PMM asset",
+    "url": "https://www.productmarketingalliance.com/documentation-as-gtm/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-13",
+    "summary": "Learn how PMMs can move upstream by turning internal documentation into a shared source of truth, ensuring every team speaks the same language."
+  },
+  {
+    "title": "Don’t Put AI on Your Hot Leads. Put It on the Ones Your Reps Will Never Call. There’s Millions in Revenue There.",
+    "url": "https://www.saastr.com/dont-put-ai-on-your-hot-leads-put-it-on-the-ones-your-reps-will-never-call-theres-millions-in-revenue-there/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-13",
+    "summary": "From The Agents, our weekly podcast on how we deploy and run AI agents at SaaStr, and how to do it yourself. The other night I was talking with an AI CEO and their head of marketing, and they told me..."
+  },
+  {
+    "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+    "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-13",
+    "summary": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20..."
+  },
+  {
     "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
     "url": "https://www.saastr.com/the-pe-software-backlog-will-1000-unicorns-ever-get-sold/",
     "source": "saastr",
@@ -14,6 +38,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-07-12",
     "summary": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high"
+  },
+  {
+    "title": "SaaStr Takes on This Week’s 20VC: Why OpenAI Giving the Govt 5% Might Make Sense, the Death of Block Risk, and Why Frontier Models Are the Cheapest",
+    "url": "https://www.saastr.com/my-takes-on-this-weeks-20vc-why-openai-giving-the-govt-5-might-make-sense-the-death-of-block-risk-and-why-frontier-models-are-the-cheapest/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-12",
+    "summary": "A few days after every 20VC x SaaStr pod, I’m gong to write up the stuff going foward I went deep on, and wanted to go … even deeper on. We covered a lot this week with Harry Stebbings and Rory..."
   },
   {
     "title": "One Way to Build a Great AI Agent: Just Start With a Dashboard, Then Add the Agent",
@@ -3966,37 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2023-04-09",
     "summary": "When a new head of marketing joins a start-up and the first thing they want to do is “refresh the marketing site”, I always quietly groan a bit. Look, a marketing site is important. But don’t leads..."
-  },
-  {
-    "title": "Introducing ChartMogul CRM",
-    "url": "https://alleged-peace.flywheelsites.com/introducing-chartmogul-crm/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-04-04",
-    "summary": "Today is an exciting day for us at ChartMogul; we’re launching a CRM, tailor-made for B2B SaaS companies. And we’re excited for you to try it."
-  },
-  {
-    "title": "Gross vs net retention rates: a guide to revenue retention metrics",
-    "url": "https://alleged-peace.flywheelsites.com/gross-vs-net-retention/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-03-23",
-    "summary": "How good is your business at retaining customers? Are you effectively expanding revenue from your existing customer base? And, is your poor retention the reason for your slower growth? If you’re..."
-  },
-  {
-    "title": "Being “Product-Led” in 2023 Means Product-Led Sales",
-    "url": "https://alleged-peace.flywheelsites.com/product-led-sales/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-03-10",
-    "summary": "Product-led growth is often presented as a silver bullet to hypergrowth. But in reality, many PLG success stories leverage traditional inside sales motions alongside self-service to speed up customer..."
-  },
-  {
-    "title": "Retention Benchmarks and Insights From Studying Over 2,100 SaaS Businesses",
-    "url": "https://alleged-peace.flywheelsites.com/retention-benchmarks-and-insights/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-03-01",
-    "summary": "Retention isn’t a silver bullet, but in SaaS, it’s the closest thing to it. Why is retention so pivotal? What does good retention look like? And does higher retention mean higher growth? We analyzed..."
   }
 ]
