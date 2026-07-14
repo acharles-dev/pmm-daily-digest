@@ -1,5 +1,45 @@
 [
   {
+    "title": "Doing the right thing when things go wrong",
+    "url": "https://www.intercom.com/blog/doing-the-right-thing-when-things-go-wrong/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-07-14",
+    "summary": "When customers rely on you, minutes matter in an incident. Here's the process Fin's engineers follow to detect, mitigate, and learn from every one."
+  },
+  {
+    "title": "Best content optimization tools for ROI-focused teams",
+    "url": "https://blog.hubspot.com/marketing/content-optimization-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-14",
+    "summary": "Organic search still delivers some of the strongest returns in marketing, and the right content optimization tools make it easier to capture."
+  },
+  {
+    "title": "6 best CRMs for wholesalers in 2026",
+    "url": "https://blog.hubspot.com/marketing/best-crm-for-wholesalers",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-14",
+    "summary": "Wholesale businesses require more than a generic customer relationship management (CRM) system. A CRM for wholesalers must support account-specific pricing, large product catalogs, repeat orders, and..."
+  },
+  {
+    "title": "$500M ARR, 60 Engineers, Cash-Flow Positive: How Higgsfield Actually Runs, With CEO Alex Mashrabov",
+    "url": "https://www.saastr.com/500m-arr-60-engineers-cash-flow-positive-how-higgsfield-actually-runs-with-ceo-alex-mashrabov/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-14",
+    "summary": "We use Higgsfield almost every day at SaaStr AI. If you’ve watched any of our short videos, the intro to The Agents with me and Amelia, the event promos, the sponsorship teasers, all of it is built..."
+  },
+  {
+    "title": "Do You Have a “Pricing Gap” Holding Back Sales? Many Do",
+    "url": "https://www.saastr.com/do-you-have-a-pricing-gap-holding-back-sales-many-do/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-14",
+    "summary": "So recently we had a B2B buying experience that led to a No that is very common but many don’t realize is there, or at least is there that much: A B2B Pricing Gap We went to buy Riverside, a..."
+  },
+  {
     "title": "Documentation as GTM: The most underrated PMM asset",
     "url": "https://www.productmarketingalliance.com/documentation-as-gtm/",
     "source": "pma",
@@ -22,6 +62,30 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-07-13",
     "summary": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20..."
+  },
+  {
+    "title": "Should You Visit More Of Your Prospects In Person? Almost Certainly",
+    "url": "https://www.saastr.com/should-you-visit-more-of-your-prospects-in-person-almost-certainly/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-13",
+    "summary": "I remember the first customer I lost due to not showing up in person. They were a Fortune 50 customer. We did a CSAT survey, and every user loved us. The implementation was flawless. There were zero..."
+  },
+  {
+    "title": "Dear SaaStr: Should Both Founders Come to VC Pitches?",
+    "url": "https://www.saastr.com/should-both-founders-come-to-vc-pitches/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-13",
+    "summary": "Dear SaaStr: Should both founders be at investor pitches, or just one is one? Both own 50% BTW. The CEO should always be at every VC pitch. The other founder? It is nice to have them there,..."
+  },
+  {
+    "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-13",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "The PE Software Backlog: Will 1,000+ Unicorns Ever Get Sold or Go Public?",
@@ -3934,69 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2023-06-16",
     "summary": "Sponsoring events like SaaStr or SaaStock is one of the cornerstones and highlights of our in-person event strategy each year. Why? Our ideal customer profiles (ICPs) are SaaS companies. We know that..."
-  },
-  {
-    "title": "SaaS Growth Trends in 2023",
-    "url": "https://alleged-peace.flywheelsites.com/saas-growth-trends-in-2023/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-06-09",
-    "summary": "What can be said about growth in the SaaS landscape in 2023? It’s unique. It’s challenging. Maybe best of all it’s hopeful. We can say decidedly: there’s a stark contrast between today and in 2020..."
-  },
-  {
-    "title": "A Guide To SaaS Customer Retention Metrics & Benchmarks in 2023",
-    "url": "https://alleged-peace.flywheelsites.com/customer-retention-guide-2023/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-06-01",
-    "summary": "Companies with best-in-class retention grew at least 1.8x faster than their peers in 2022. In an uncertain market, customer retention is key. So if you are keeping a close eye on your retention..."
-  },
-  {
-    "title": "Launching the ChartMogul SaaS Benchmarks Report 2023",
-    "url": "https://alleged-peace.flywheelsites.com/saas-benchmarks-report-2023/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-05-24",
-    "summary": "I couldn’t be more excited to launch the 2nd edition of the ChartMogul SaaS Benchmarks Report. In this report, we analyze anonymized and aggregated data from over 2,100 SaaS businesses to bring you..."
-  },
-  {
-    "title": "B2B SaaS Retention Trends in 2023",
-    "url": "https://alleged-peace.flywheelsites.com/b2b-saas-retention-trends/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-05-03",
-    "summary": "Retention is arguably the most critical metric in SaaS regardless of a company’s stage. We sit down with Daniel Bakh, CEO & Co-founder at Fullview, Parker Moore, Head of Customer Success at Vitally,..."
-  },
-  {
-    "title": "Convert More Leads with ChartMogul CRM",
-    "url": "https://alleged-peace.flywheelsites.com/convert-more-leads-with-chartmogul-crm/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-04-27",
-    "summary": "After years of using generic CRMs that are ill-suited for our product-led B2B SaaS model, we’re using ChartMogul CRM, the only CRM tailor-made for SaaS sales teams like us. We’re familiar with the..."
-  },
-  {
-    "title": "How to Create Urgency in Sales. When There Really Isn’t Any.",
-    "url": "https://www.saastr.com/fundamental-sales-principals/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-04-27",
-    "summary": "Dear SaaStr: How Do I Create Urgency in Sales. When There Really Isn’t Any? The hardest part of sales is creating urgency The rest is hard too, don't get me wrong But really, 95 times out of 100, no..."
-  },
-  {
-    "title": "The New Chargebee Integration: Open Invoices, Support for Add-ons, and More Accurate Cash Flow Reporting",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-chargebee-integration/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-04-20",
-    "summary": "The new version of our Chargebee integration provides you with more accurate cash flow reporting, more detailed reporting for add-ons, improved handling of prorated charges, and support for open..."
-  },
-  {
-    "title": "Your Marketing Site Should Be Even Better Than Your Product",
-    "url": "https://www.saastr.com/your-marketing-site-really-should-be-even-better-than-your-product/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-04-09",
-    "summary": "When a new head of marketing joins a start-up and the first thing they want to do is “refresh the marketing site”, I always quietly groan a bit. Look, a marketing site is important. But don’t leads..."
   }
 ]
