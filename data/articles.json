@@ -1,5 +1,45 @@
 [
   {
+    "title": "Assistant vs. Delegate: How autonomous agents and AI loops are changing Product Marketing | GTM Labs",
+    "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/assistant-vs-delegate-how-autonomous-agents-and-ai-loops-are-changing-product-marketing-gtm-labs/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-15",
+    "summary": ""
+  },
+  {
+    "title": "What I'd do in my first 90 days as a PMM at a new company",
+    "url": "https://www.productmarketingalliance.com/what-id-do-in-my-first-90-days/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-15",
+    "summary": "Starting a new PMM role? Master your first 90 days with the CORE framework: Cohesion, Observation, Results, and Elevation."
+  },
+  {
+    "title": "Profound vs. Peec AI: Which AEO tool supports your growth strategy?",
+    "url": "https://blog.hubspot.com/marketing/profound-vs-peec",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-15",
+    "summary": "According to McKinsey, 50% of consumers now use AI-powered search, and more than 70% rely on it to ask questions and gather information. This shift in search behavior means SEO leaders must evolve...."
+  },
+  {
+    "title": "An Hour With Our Top AI Agent Cost $13.42. You Can’t Hire Anyone For That.",
+    "url": "https://www.saastr.com/an-hour-with-our-top-ai-agent-cost-13-42-you-cant-hire-anyone-for-that/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-15",
+    "summary": "Amelia our Chief AI Officer pinged me this morning with a screenshot and three words: “10K making less than … minimum wage.” This is what she was looking at. 10K, our AI VP of Marketing, had just..."
+  },
+  {
+    "title": "Dear SaaStr.ai: At What Point Should We Hire an Internal Recruiter?",
+    "url": "https://www.saastr.com/dear-saastr-at-what-point-should-we-hire-an-internal-recruiter/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-15",
+    "summary": "Dear SaaStr.ai: At what point has a start up do you hire a recruiter internally versus paying recruiters 20% fees? Hire a full-time internal recruiter once you’re hiring 5+ people per quarter..."
+  },
+  {
     "title": "Doing the right thing when things go wrong",
     "url": "https://www.intercom.com/blog/doing-the-right-thing-when-things-go-wrong/",
     "source": "intercom",
@@ -3958,45 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2023-07-18",
     "summary": "TL;DR We sharded one of the core ChartMogul databases and changed its tables’ partitioning scheme from LIST to HASH. This way we managed to: Context ChartMogul receives millions of webhooks from..."
-  },
-  {
-    "title": "Keep Deals Moving Forward with Tasks",
-    "url": "https://alleged-peace.flywheelsites.com/crm-tasks/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-07-11",
-    "summary": "With SaaS revenue growth at the slowest it’s been in years, every deal counts. With Tasks for ChartMogul CRM, you can track and prioritize all tasks associated with your leads, opportunities, and..."
-  },
-  {
-    "title": "Net negative churn in SaaS — definition, benchmarks & tips",
-    "url": "https://alleged-peace.flywheelsites.com/negative-churn/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-07-06",
-    "summary": "Churn, SaaS companies should avoid it like the plague. It’s a silent killer! But is the term churn always bad? Say hello to negative churn, churn’s much more friendly sister metric. You won’t avoid..."
-  },
-  {
-    "title": "The One Secret Tip To Hiring a Great Sales Rep (In The Early Days)",
-    "url": "https://www.saastr.com/the-one-secret-tip-to-hiring-a-great-sales-rep/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-07-04",
-    "summary": "We’ve written this point before, embedded in other posts. We’ve talked about it in many presentations. But it’s time to call out One Simple Hack to getting sales going in your B2B start-up, in the..."
-  },
-  {
-    "title": "The Worst End-of-Quarter Sales Rep Behavior I’ve Ever Seen … Yet",
-    "url": "https://www.saastr.com/the-worst-end-of-quarter-sales-rep-behavior-ive-seen-yet/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-06-20",
-    "summary": "So the other night, as the quarter was ending, a leading SaaS company sent us 4 threatening emails in the span of less than two hours to upgrade to annual and pay for 46 seats for a 48-month term or..."
-  },
-  {
-    "title": "The SaaS Event Strategy For In-Person Events",
-    "url": "https://alleged-peace.flywheelsites.com/the-saas-event-strategy-for-in-person-events/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-06-16",
-    "summary": "Sponsoring events like SaaStr or SaaStock is one of the cornerstones and highlights of our in-person event strategy each year. Why? Our ideal customer profiles (ICPs) are SaaS companies. We know that..."
   }
 ]
