@@ -1,5 +1,21 @@
 [
   {
+    "title": "Three $3B B2B Acquisitions in 30 Days: Intercom/Fin, Cognite, and MaintainX. They All Bought the Same Thing: Data for AI",
+    "url": "https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-16",
+    "summary": "Three $3B B2B Acquisitions in 30 Days: Intercom/Fin, Cognite, and MaintainX In about a month, three B2B companies recently were acquired for right around $3 billion each. On the surface they have..."
+  },
+  {
+    "title": "The Bay Area Now Takes 51% of Every AI Venture Dollar. And 53% of Every B2B Dollar.",
+    "url": "https://www.saastr.com/the-bay-area-now-takes-51-of-every-ai-venture-dollar-and-53-of-every-b2b-dollar/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-16",
+    "summary": "We all know SF is back, and the center of AI and AI+B2B. Carta’s latest data reinforces it. Carta just released its Startup Ecosystem Leaderboard covering the $124 billion invested into startups on..."
+  },
+  {
     "title": "Assistant vs. Delegate: How autonomous agents and AI loops are changing Product Marketing | GTM Labs",
     "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/assistant-vs-delegate-how-autonomous-agents-and-ai-loops-are-changing-product-marketing-gtm-labs/",
     "source": "pma",
@@ -38,6 +54,22 @@
     "source_name": "SaaStr",
     "date": "2026-07-15",
     "summary": "Dear SaaStr.ai: At what point has a start up do you hire a recruiter internally versus paying recruiters 20% fees? Hire a full-time internal recruiter once you’re hiring 5+ people per quarter..."
+  },
+  {
+    "title": "How to use Claude Fable 5 as a product marketer",
+    "url": "https://www.productmarketingalliance.com/how-to-use-claude-fable-5/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-15",
+    "summary": "How PMMs can use Claude Fable 5's massive context window to turn weeks of research into an afternoon. Plus a free skills pack to do it."
+  },
+  {
+    "title": "Is Software Dead? No. It Just Got a Lot Harder to Win. The SaaStr AI Deep Dive with Rory O’Driscoll",
+    "url": "https://www.saastr.com/is-software-dead-no-it-just-got-a-lot-harder-to-win-the-saastr-ai-deep-dive-with-rory-odriscoll/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-15",
+    "summary": "You already know Rory O’Driscoll from our weekly 20VC x SaaStr podcast, where he, Harry, and I go back and forth on exactly this stuff. He’s also been investing in software for 30+ years. Long..."
   },
   {
     "title": "Doing the right thing when things go wrong",
@@ -3966,37 +3998,5 @@
     "source_name": "Andrew Chen",
     "date": "2023-08-23",
     "summary": "Hi readers, Over the years, I’ve shared lessons and tips from writing a professional blog — previously 10 years of professional blogging – what I’ve learned. Recently, I’ve had some major changes in..."
-  },
-  {
-    "title": "Creator Economy 2.0: What we’ve learned, why it’s hard, and what’s next",
-    "url": "https://andrewchen.com/creator-economy-20/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2023-08-21",
-    "summary": "There’s been a big wave of Creator Economy startups over the past few years, as the rise of social media platforms has empowered content creators to become a focal point for consumer engagement. This..."
-  },
-  {
-    "title": "The Next Next Job, a framework for making big career decisions",
-    "url": "https://andrewchen.com/the-next-next-job/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2023-08-14",
-    "summary": "A simple question The last few years have been crazy, and no wonder there’s a ton of folks thinking about making job changes right now. I know this since I’ve been getting the calls. Often the..."
-  },
-  {
-    "title": "Scaling the Sales Tech Stack",
-    "url": "https://alleged-peace.flywheelsites.com/scaling-the-sales-tech-stack/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-07-28",
-    "summary": "Four experts from the SaaS world sit down to discuss sales tech stacks, evolving your sales team, and some common mistakes organizations make building sales teams and purchasing software...."
-  },
-  {
-    "title": "How Migrating Our Database Eliminated Data Processing Incidents",
-    "url": "https://alleged-peace.flywheelsites.com/how-migrating-our-database-eliminated-data-processing-incidents/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-07-18",
-    "summary": "TL;DR We sharded one of the core ChartMogul databases and changed its tables’ partitioning scheme from LIST to HASH. This way we managed to: Context ChartMogul receives millions of webhooks from..."
   }
 ]
