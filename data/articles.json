@@ -1,5 +1,13 @@
 [
   {
+    "title": "5 Interesting Learnings from Zoom at ~$5 Billion in ARR: Modestly Re-Accelerating Growth, Real AI Monetization, a $27B Market Cap, and a 25x Anthropic Windfall",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-zoom-at-5-billion-in-arr-re-accelerating-growth-real-ai-monetization-and-a-25x-anthropic-windfall/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-17",
+    "summary": "Almost everyone wrote Zoom off a few years back. The story was tidy: the app everyone loved before 2022, but then almost a COVID one-hit-wonder that peaked in 2021 after going from $1B to $4B in ARR..."
+  },
+  {
     "title": "Three $3B B2B Acquisitions in 30 Days: Intercom/Fin, Cognite, and MaintainX. They All Bought the Same Thing: Data for AI",
     "url": "https://www.saastr.com/three-3b-b2b-acquisitions-in-30-days-intercom-fin-cognite-and-maintainx-they-all-bought-the-same-thing-data-for-ai/",
     "source": "saastr",
@@ -14,6 +22,30 @@
     "source_name": "SaaStr",
     "date": "2026-07-16",
     "summary": "We all know SF is back, and the center of AI and AI+B2B. Carta’s latest data reinforces it. Carta just released its Startup Ecosystem Leaderboard covering the $124 billion invested into startups on..."
+  },
+  {
+    "title": "CRM data migration: A practical process overview",
+    "url": "https://blog.hubspot.com/marketing/crm-data-migration",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-16",
+    "summary": "CRM data migration is the process of moving data, workflows, and assets from one CRM to another. It matters because your CRM is the operational backbone of your revenue team, and when the data inside..."
+  },
+  {
+    "title": "Best enterprise rank tracking software for high-traffic websites",
+    "url": "https://blog.hubspot.com/marketing/enterprise-rank-tracker",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-16",
+    "summary": "The best enterprise rank-tracking software goes far beyond checking positions for a handful of keywords. At scale, it means monitoring millions of data points across devices, locations, and search..."
+  },
+  {
+    "title": "20VC x SaaStr This Week : Apple Sues OpenAI, the Token-Maxing Era Begins, and the TAM Question Hanging Over AI Coding",
+    "url": "https://www.saastr.com/20vc-x-saastr-this-week-apple-sues-openai-the-token-maxing-era-begins-and-the-tam-question-hanging-over-ai-coding/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-16",
+    "summary": "With Harry Stebbings, Jason Lemkin, and Rory O’Driscoll Apple sued OpenAI for trade secret theft this week, and the details are ugly: a six-year Apple employee allegedly walked physical prototypes..."
   },
   {
     "title": "Assistant vs. Delegate: How autonomous agents and AI loops are changing Product Marketing | GTM Labs",
@@ -3966,37 +3998,5 @@
     "source_name": "Andrew Chen",
     "date": "2023-09-30",
     "summary": "Dear readers, I was triggered to write this post because ChatGPT apologies way too much, takes too long to get into the meat of an answer, and I wanted to fix that. This came up because like many of..."
-  },
-  {
-    "title": "A Simple Guide To Being in the Top 25% of Sales Professionals",
-    "url": "https://www.saastr.com/what-is-the-best-sales-advice-you-can-give/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-09-29",
-    "summary": "Dear SaaStr: What is the best sales advice you can give to be a top sales rep? Sales execs can screw up so many things and still close a lot if they just get 1 thing right If they just are a true..."
-  },
-  {
-    "title": "The best SaaS blog posts and resources library",
-    "url": "https://alleged-peace.flywheelsites.com/best-saas-blogs/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-09-15",
-    "summary": "For years we have been reading and hand-picking the best SaaS blog posts to share with 24K+ SaaS Roundup subscribers. In the process, we’ve selected the creme de la creme of all the content we’ve..."
-  },
-  {
-    "title": "Unlocking Revenue Growth with Segmentation",
-    "url": "https://alleged-peace.flywheelsites.com/unlocking-revenue-growth-with-segmentation/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-09-06",
-    "summary": "You’re likely tracking all your global metrics to keep apprised of your business’ performance – ARR, churn, LTV, retention rates, etc. However, if high-level metrics are all you’re checking, you’re..."
-  },
-  {
-    "title": "How I use AI when blogging and writing",
-    "url": "https://andrewchen.com/ai-blogging/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2023-08-23",
-    "summary": "Hi readers, Over the years, I’ve shared lessons and tips from writing a professional blog — previously 10 years of professional blogging – what I’ve learned. Recently, I’ve had some major changes in..."
   }
 ]
