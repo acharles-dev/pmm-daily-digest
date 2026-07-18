@@ -1,11 +1,51 @@
 [
   {
+    "title": "Sales Rep Annual Quotas in 2026: What High Performers Are Actually Carrying: $750k for SMB, $1.35m for Mid-Market, $2.25m for Enterprise",
+    "url": "https://www.saastr.com/sales-rep-annual-quotas-what-high-performers-are-actually-carrying/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-18",
+    "summary": "ICONIQ recently released their 2026 GTM benchmark report, and it shows that overall sales quotas and processes are similar to the pre-AI era. Just … ramped up. Top-quartile enterprise AEs are now..."
+  },
+  {
+    "title": "SaaStr AI App of the Week: Nue. The Revenue Platform Built for How B2B + AI Actually Prices Now",
+    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-nue-the-revenue-platform-built-for-how-b2b-ai-actually-prices-now/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-18",
+    "summary": "The hardest problem in B2B + AI right now is not building the product. It’s pricing it. Every AI company is walking away from pure per-seat and toward usage, consumption, credits, and outcome-based..."
+  },
+  {
     "title": "5 Interesting Learnings from Zoom at ~$5 Billion in ARR: Modestly Re-Accelerating Growth, Real AI Monetization, a $27B Market Cap, and a 25x Anthropic Windfall",
     "url": "https://www.saastr.com/5-interesting-learnings-from-zoom-at-5-billion-in-arr-re-accelerating-growth-real-ai-monetization-and-a-25x-anthropic-windfall/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-07-17",
     "summary": "Almost everyone wrote Zoom off a few years back. The story was tidy: the app everyone loved before 2022, but then almost a COVID one-hit-wonder that peaked in 2021 after going from $1B to $4B in ARR..."
+  },
+  {
+    "title": "A PMM leader's first 100 days, done right",
+    "url": "https://www.productmarketingalliance.com/a-pmm-leaders-first-100-days-done-right/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-17",
+    "summary": "Don't just inherit the role, define it."
+  },
+  {
+    "title": "Claude Became Our AI VP of Product. We Moved 10 Years Off Marketo for $14. Our Agent Killed a $10K App in an Hour: The Agents #010",
+    "url": "https://www.saastr.com/claude-became-our-ai-vp-of-product-we-moved-10-years-off-marketo-for-14-our-agent-killed-a-10k-app-in-an-hour-the-agents-010/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-17",
+    "summary": "Amelia and I just published Episode #010 of The Agents. Same setup as always: three humans, 21+ agents in production, an 8-figure B2B + AI business and $200m of investments at SaaStr AI Fund, revenue..."
+  },
+  {
+    "title": "Dear SaaStr: Do Any Top B2B Events Give You “The List”?",
+    "url": "https://www.saastr.com/dear-saastr-do-any-top-b2b-events-give-you-the-list/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-17",
+    "summary": "Dear SaaStr: Do Any Top B2B Events Give You “The List”? No, no good ones do, and for good reason. Top tier B2B events, especially ones focused on quality over volume, deliberately don’t hand over..."
   },
   {
     "title": "Three $3B B2B Acquisitions in 30 Days: Intercom/Fin, Cognite, and MaintainX. They All Bought the Same Thing: Data for AI",
@@ -3958,45 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2023-11-17",
     "summary": "How many tools do you use to collect data? These days, it’s common for SaaS companies to use an ever-growing list of tools and platforms to collect data. Often, this data ends up scattered across..."
-  },
-  {
-    "title": "Send normalized subscription data to your data warehouse",
-    "url": "https://alleged-peace.flywheelsites.com/send-normalized-subscription-data-to-your-data-warehouse/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-11-10",
-    "summary": "You spoke, we listened: instead of limiting how much data we served, we’re giving greater access, transparency, and control to data engineers. ChartMogul can now expose normalized data ready for use..."
-  },
-  {
-    "title": "What Growth Leaders are Prioritizing in 2024",
-    "url": "https://alleged-peace.flywheelsites.com/what-growth-leaders-are-prioritizing-in-2024/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-11-03",
-    "summary": "The public SaaS market more than doubled in five years, from 2015 to 2020. Revenue from new business boomed, companies had money to burn, and the name of the game was growth at all costs—full speed..."
-  },
-  {
-    "title": "Lessons Learned Scaling a SaaS Business to $10M",
-    "url": "https://alleged-peace.flywheelsites.com/lessons-learned-scaling-a-saas-business-to-10m/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-10-20",
-    "summary": "Hitting $1M in ARR is a huge milestone. Maybe it’s even time to start proclaiming product-market-fit, cautiously of course. Our data shows that average SaaS companies take almost three years to reach..."
-  },
-  {
-    "title": "It’s now easier to configure manual subscriptions",
-    "url": "https://alleged-peace.flywheelsites.com/its-now-easier-to-configure-manual-subscriptions/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-10-12",
-    "summary": "Most of the time you rely on your billing platform to run your subscriptions. However, from time to time, you may sell subscriptions that aren’t processed via your billing platform. These could be..."
-  },
-  {
-    "title": "When AI is too verbose, full of repetition and says sorry for being an AI…",
-    "url": "https://andrewchen.com/ai-verbose-repetition-sorry/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2023-09-30",
-    "summary": "Dear readers, I was triggered to write this post because ChatGPT apologies way too much, takes too long to get into the meat of an answer, and I wanted to fix that. This came up because like many of..."
   }
 ]
