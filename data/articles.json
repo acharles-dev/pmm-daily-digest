@@ -1,5 +1,21 @@
 [
   {
+    "title": "What a Great VP Sales Does In Their First Week. Watch For It.",
+    "url": "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-19",
+    "summary": "One of the most controversial things I’ve said over the years on SaaStr is: You know within 30 days if you hired a VP right. Especially a VP of Sales. Not at 90 days. Not at 6 months. By day 30, the..."
+  },
+  {
+    "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+    "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-19",
+    "summary": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system"
+  },
+  {
     "title": "Sales Rep Annual Quotas in 2026: What High Performers Are Actually Carrying: $750k for SMB, $1.35m for Mid-Market, $2.25m for Enterprise",
     "url": "https://www.saastr.com/sales-rep-annual-quotas-what-high-performers-are-actually-carrying/",
     "source": "saastr",
@@ -14,6 +30,14 @@
     "source_name": "SaaStr",
     "date": "2026-07-18",
     "summary": "The hardest problem in B2B + AI right now is not building the product. It’s pricing it. Every AI company is walking away from pure per-seat and toward usage, consumption, credits, and outcome-based..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-18",
+    "summary": "Community Wisdom 194"
   },
   {
     "title": "5 Interesting Learnings from Zoom at ~$5 Billion in ARR: Modestly Re-Accelerating Growth, Real AI Monetization, a $27B Market Cap, and a 25x Anthropic Windfall",
@@ -3974,29 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2023-12-09",
     "summary": "Dear SaaStr: What’s the #1 Mistake New Sales Leaders Make? Let me just summarize my #1 observation here: the top mistake first-time sales managers make is recruiting. In that — they can’t do it. They..."
-  },
-  {
-    "title": "24 predictions for SaaS in 2024",
-    "url": "https://alleged-peace.flywheelsites.com/24-predictions-for-saas-in-2024/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-12-06",
-    "summary": "Before 2023, the term “generative AI” was met with blank faces. But over the past 12 months, Open AI’s ChatGPT has gone mainstream, Twitter has become X, Silicon Valley Bank collapsed, as did FTX,..."
-  },
-  {
-    "title": "Building a data engineering stack that boosts scalability",
-    "url": "https://alleged-peace.flywheelsites.com/building-a-data-engineering-stack-that-boosts-scalability/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-11-30",
-    "summary": "In 2021, ChartMogul experienced a transformative shift in data strategy when we introduced a dedicated data engineering team. Decision-makers still rely on ChartMogul charts and segments to analyze..."
-  },
-  {
-    "title": "Databox now integrates with ChartMogul for deeper analysis",
-    "url": "https://alleged-peace.flywheelsites.com/databox-now-integrates-with-chartmogul-for-deeper-analysis/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-11-17",
-    "summary": "How many tools do you use to collect data? These days, it’s common for SaaS companies to use an ever-growing list of tools and platforms to collect data. Often, this data ends up scattered across..."
   }
 ]
