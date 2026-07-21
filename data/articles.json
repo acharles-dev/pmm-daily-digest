@@ -1,5 +1,165 @@
 [
   {
+    "title": "Adapting GTM strategies in dynamic markets | GTM Labs",
+    "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/gtm-labs-november/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": ""
+  },
+  {
+    "title": "Building a resilient GTM engine: Future-proofing for sustainable scale | GTM Labs",
+    "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/gtm-labs-december/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": ""
+  },
+  {
+    "title": "Orchestrating cross-functional GTM: Breaking down silos for unified growth| GTM Labs",
+    "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/gtm-labs-october/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": ""
+  },
+  {
+    "title": "Going global with AI for localization and market expansion | AI powered Labs",
+    "url": "https://www.productmarketingalliance.com/ai-powered-product-marketing-labs/going-global-with-ai-for-localization-and-market-expansion-ai-powered-labs/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": "Showcase your impact with metrics, link activities to outcomes, and build dashboards that make your work strategically vital."
+  },
+  {
+    "title": "The AI-powered PMM playbook: Mastering strategic foresight & competitive advantage | AI powered Labs",
+    "url": "https://www.productmarketingalliance.com/ai-powered-product-marketing-labs/ai-powered-labs-december/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": "Showcase your impact with metrics, link activities to outcomes, and build dashboards that make your work strategically vital."
+  },
+  {
+    "title": "AI for hyper-personalized product journeys: from onboarding to advocacy | AI powered Labs",
+    "url": "https://www.productmarketingalliance.com/ai-powered-product-marketing-labs/ai-powered-labs-september/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": "Showcase your impact with metrics, link activities to outcomes, and build dashboards that make your work strategically vital."
+  },
+  {
+    "title": "Positioning & messaging learning path",
+    "url": "https://www.productmarketingalliance.com/positioning-and-messaging-learning-path-program/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-21",
+    "summary": ""
+  },
+  {
+    "title": "SEO tools for SaaS: 13 best options to scale your content ops",
+    "url": "https://blog.hubspot.com/marketing/saas-seo-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-21",
+    "summary": "B2B SaaS businesses achieve an average ROI of 702% from SEO , yet most teams are still using a SaaS SEO tool stack built for a different era of search."
+  },
+  {
+    "title": "We Have 20+ AI Agents and Just 3 Humans. But Even So, We Still Need “Real” B2B Software.",
+    "url": "https://www.saastr.com/3-humans-20-ai-agents-and-yes-we-still-need-real-b2b-software/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-21",
+    "summary": "There’s a take floating around right now that goes something like: “Once you have AI agents doing the work, you don’t need CRM. Just give them a Postgres database and let them rip.” It sounds clean...."
+  },
+  {
+    "title": "The 20 Minute Test in VP Hiring. Maybe All Hiring.",
+    "url": "https://www.saastr.com/the-20-minute-test-in-vp-hiring-maybe-all-hiring/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-21",
+    "summary": "Investments rarely work out if you don't believe within the first 20 minutes I think I'm there on hiring, too now If you don't believe at least by minute 20 of the first Zoom that they're the VP for..."
+  },
+  {
+    "title": "Why a sabbatical can change everything",
+    "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-21",
+    "summary": "How to take Big Time Off"
+  },
+  {
+    "title": "Product feature kick-off meeting template",
+    "url": "https://www.productmarketingalliance.com/product-feature-kick-off-meeting-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-20",
+    "summary": "Cover every angle before development begins with this kick-off meeting template."
+  },
+  {
+    "title": "Why great companies disagree less about the market",
+    "url": "https://www.productmarketingalliance.com/why-great-companies-disagree-less-about-the-market/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-20",
+    "summary": "Discover how clear positioning, consistent customer listening, and data-backed strategies can align your team and drive better business outcomes."
+  },
+  {
+    "title": "Are you explaining features or actually crafting messaging?",
+    "url": "https://www.productmarketingalliance.com/explaining-features-or-crafting-messaging/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-20",
+    "summary": "Discover why the messaging that made your product stand out six months ago won't work today, and what to say instead."
+  },
+  {
+    "title": "HubSpot AEO vs SE Ranking: Features, pricing, and fit",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-se-ranking",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-20",
+    "summary": "You’ve probably noticed it yourself: buyers aren’t just Googling anymore. They’re asking ChatGPT, Gemini, and Perplexity questions and trusting whatever answers they get. If your brand isn’t named in..."
+  },
+  {
+    "title": "The top content formats & types that earn AI search citations",
+    "url": "https://blog.hubspot.com/marketing/content-structuring-themes-ai-search",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-20",
+    "summary": "There’s no denying it: Search behaviors have changed . As more queries are answered directly by AI Overviews, ChatGPT, and Perplexity, the shifts reshaping search are forcing marketers to rethink..."
+  },
+  {
+    "title": "5.4M Impressions Driving 11,749 to Their Signup Form: What Advertising on SaaStr.AI Media Actually Delivers",
+    "url": "https://www.saastr.com/5-4m-impressions-driving-11749-to-their-signup-form-what-advertising-on-saastr-ai-media-actually-delivers/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-20",
+    "summary": "Most B2B media buys are … a black box. You sign up, wire the money, the ad “runs,” and 60 days later you get a PDF with an impressions number and no way to check any of it. You have no idea if a..."
+  },
+  {
+    "title": "The Sub-5% Club: The Terminal State of Software",
+    "url": "https://www.saastr.com/the-sub-5-club-the-terminal-state-of-software/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-20",
+    "summary": "For twenty years, the slow lane in B2B wasn’t great. But it was an OK place to be. Growth faded, but the annuity was forever. High NRR, high margins, sticky contracts, structured data that was stuck..."
+  },
+  {
+    "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-20",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
+  },
+  {
+    "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+    "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-20",
+    "summary": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting"
+  },
+  {
     "title": "What a Great VP Sales Does In Their First Week. Watch For It.",
     "url": "https://www.saastr.com/what-a-great-vp-sales-does-in-their-first-week-watch-for-it/",
     "source": "saastr",
@@ -14,6 +174,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-07-19",
     "summary": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system"
+  },
+  {
+    "title": "Jason’s Takes on This Week’s 20VC: The Token Governor, the Net-New-Logo Test, and Why Renewal Stopped Being Safe",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-token-governor-the-net-new-logo-test-and-why-renewal-stopped-being-safe/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-19",
+    "summary": "Going a level deeper on the points Harry, Rory and I hit this week, and what they actually mean if you’re building a B2B company right now. Here were the top SaaStr learnings I wanted to share from..."
   },
   {
     "title": "Sales Rep Annual Quotas in 2026: What High Performers Are Actually Carrying: $750k for SMB, $1.35m for Mid-Market, $2.25m for Enterprise",
@@ -3830,173 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2024-04-15",
     "summary": "Dear SaaStr: A Big Tech Co Launched a Competitive Product. How Can I Tell How Serious They Are About It? In B2B at least, I’ll give you a few metrics that are fairly reliable. The classic one still..."
-  },
-  {
-    "title": "Upgraded Braintree integration: greater visibility and control",
-    "url": "https://alleged-peace.flywheelsites.com/upgraded-braintree-integration-greater-visibility-and-control/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-04-02",
-    "summary": "We’ve upgraded the integration between ChartMogul and Braintree to give you more control and visibility into your subscription revenue data."
-  },
-  {
-    "title": "The Investments Where I’m Going to Lose All My Money",
-    "url": "https://www.saastr.com/the-investments-where-im-going-to-lose-all-my-money/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-03-26",
-    "summary": "So when I started writing venture checks in 2013, I didn’t know what I was doing, but I had a strong start: First was Pipedrive co-leading seed, then acquired for $1.5B cash Second was Algolia..."
-  },
-  {
-    "title": "Only 23% of You Would Pick The Same VCs Again",
-    "url": "https://www.saastr.com/only-23-of-you-would-pick-the-same-vcs-again/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-03-12",
-    "summary": "So we recently did a SaaStr survey on if folks would pick the same VCs if they have to do it all over again. The learnings aren’t surprising, but they are interesting: only 23% would pick the same..."
-  },
-  {
-    "title": "The Best Sales Execs Are Great at The Interview Process, Too",
-    "url": "https://www.saastr.com/the-best-sales-execs-are-great-at-the-interview-too/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-02-29",
-    "summary": "If a sales exec makes it anything but effortless to schedule a job interview with them, Basically it won't work out — Jason ✨👾SaaStr.Ai✨ Lemkin (@jasonlk) February 13, 2024 So I remember years ago I..."
-  },
-  {
-    "title": "How to break into Silicon Valley",
-    "url": "https://andrewchen.com/how-to-break-into-silicon-valley/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-02-26",
-    "summary": "(Above: No, it doesn’t really look like this — and yes it’s mostly office parks and tech billboards. But I like to pretend) You’ll never regret spending time in SF If you work in tech, you’ll never..."
-  },
-  {
-    "title": "The “Dinner Party Jerk” test — why founders need to pitch themselves harder and more futuristically",
-    "url": "https://andrewchen.com/the-dinner-party-jerk-test/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-02-12",
-    "summary": "The “Dinner Party Jerk” test is a solution to a common problem: Startups often struggle at pitching their team, even though for the earliest stage companies, it’s incredibly important to do it well..."
-  },
-  {
-    "title": "Startups need dual theories on distribution and product/market fit. One is not enough",
-    "url": "https://andrewchen.com/startups-need-dual-theories-on-distribution-and-product-market-fit-one-is-not-enough/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-02-06",
-    "summary": "It’s hard to be a product without a strong theory of distribution Here’s a common startup situation. A team busts their ass for months building the first version of their product. It’s almost done...."
-  },
-  {
-    "title": "Every time you ask the user to click you lose half",
-    "url": "https://andrewchen.com/every-time-you-ask-the-user-click-you-lose-half/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-02-05",
-    "summary": "Every time you ask the user click you lose half of them. (And this why tutorials, splash screens, and lengthy signup flows are a bad idea) If you’ve been building apps for a long time and have seen..."
-  },
-  {
-    "title": "Upgraded Recurly integration: do more with your data",
-    "url": "https://alleged-peace.flywheelsites.com/upgraded-recurly-integration-do-more-with-your-data/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-02-02",
-    "summary": "Our new and improved Recurly integration gives you more transparency into your data, creates greater accuracy in reporting and lets you export more components."
-  },
-  {
-    "title": "Why the worst users come from referral programs, free trials, coupons, and gamification",
-    "url": "https://andrewchen.com/worst-users-referral-trials-coupons-gamification/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-31",
-    "summary": "Above: Many small business figured out the hard way why coupon sites generate worse users Incentive programs often don’t perform The people you attract with referral programs, free trials, coupons,..."
-  },
-  {
-    "title": "The most expensive game cost over $1B, and how AI will transform it",
-    "url": "https://andrewchen.com/the-most-expensive-video-game/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-23",
-    "summary": "Grand Theft Auto 6 and the future of AI If you happened to miss it, a few weeks back, here is the game trailer for Grand Theft Auto 6. It’s worth watching, and is amazing on multiple levels. But GTA..."
-  },
-  {
-    "title": "How to write more",
-    "url": "https://andrewchen.com/how-to-write-more/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-15",
-    "summary": "Dear readers, As we enter a new year, many of us are setting goals to write more and create more content. As someone who has been writing consistently for the past decade, I wanted to share some..."
-  },
-  {
-    "title": "How to write a business book — behind the scenes from THE COLD START PROBLEM",
-    "url": "https://andrewchen.com/how-to-write-a-business-book/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-15",
-    "summary": "(above: Me in Sep 2023, a happy author, finding the Japanese translated version of my book at the wonderful Daikanyama Tsutaya Books in Tokyo) Dear readers, As many of you know, 2 years ago I..."
-  },
-  {
-    "title": "Don’t Be a “Woe is Me” Founder. That’s Always a Recipe for Failure. Especially Now, In The Age of AI",
-    "url": "https://www.saastr.com/dont-be-a-woe-is-me-founder-thats-always-a-recipe-for-failure/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-01-13",
-    "summary": "The frenetic pace, competition ans cale in the Age of AI is leading to a lot of folks to say … Woe is Me: “It’s so hard.” “It’s not our fault.” “Well, we’ll try.” “No one wants our product.” “The..."
-  },
-  {
-    "title": "Compare your performance to the market with ChartMogul benchmarks",
-    "url": "https://alleged-peace.flywheelsites.com/compare-your-performance-to-the-market-with-chartmogul-benchmarks/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-01-11",
-    "summary": "Access the most current SaaS performance benchmarks available on the market."
-  },
-  {
-    "title": "Fun graph from Peter Attia’s book Outlive",
-    "url": "https://andrewchen.com/vo2max-outlive-book/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-10",
-    "summary": "Hey readers, This is a small deviation from my usual topics, but wanted to share. This is one of the most important graphs that I saw in 2023 that has led to behavioral change for me. This is in..."
-  },
-  {
-    "title": "Reforge Podcast: 2024 predictions, AI apps, the future of PM, what we can learn from gaming, and more",
-    "url": "https://andrewchen.com/2024-predictions-podcast/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-04",
-    "summary": "Dear readers, I was recently interviewed by the great Brian Balfour (CEO/cofounder of Reforge) and Fareed Mosavat (ex-Reforge/Slack/Zynga) which turned into a lively discussion — I think we could..."
-  },
-  {
-    "title": "Heading into 2024 – Life update, books, links, and more",
-    "url": "https://andrewchen.com/heading-into-2024/",
-    "source": "andrew_chen",
-    "source_name": "Andrew Chen",
-    "date": "2024-01-03",
-    "summary": "Hi readers, Doing a short round up on various links, books, a quick life update, and other stuff going on. First, I did not write much in 2023 (I was busy!!) but am proud of what I published… Blog..."
-  },
-  {
-    "title": "Using a columnar database to increase speed",
-    "url": "https://alleged-peace.flywheelsites.com/using-a-columnar-database-to-increase-speed/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-01-03",
-    "summary": "How our engineering team keep ChartMogul accurate, fast and scalable by enhancing our data model."
-  },
-  {
-    "title": "ChartMogul 2023: year in review",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2023-year-in-review/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2023-12-20",
-    "summary": "In January, venture capitalist Fred Wilson wrote “Surviving is thriving in 2023” and I think he couldn’t have been more right. This year has been tough, and the whole SaaS industry has experienced a..."
-  },
-  {
-    "title": "Dear SaaStr: What’s the #1 Mistake New Sales Leaders Make?",
-    "url": "https://www.saastr.com/sales-common-mistakes-sales-managers-making-managing-sales-force/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2023-12-09",
-    "summary": "Dear SaaStr: What’s the #1 Mistake New Sales Leaders Make? Let me just summarize my #1 observation here: the top mistake first-time sales managers make is recruiting. In that — they can’t do it. They..."
   }
 ]
