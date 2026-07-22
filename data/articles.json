@@ -1,5 +1,53 @@
 [
   {
+    "title": "How companies misread signals of category saturation",
+    "url": "https://www.productmarketingalliance.com/signals-of-category-saturation/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-22",
+    "summary": "Mistaking category saturation for a product gap? Here's how product marketing drives positioning, segmentation, and TAM expansion instead."
+  },
+  {
+    "title": "How to price a product: Your complete guide",
+    "url": "https://www.productmarketingalliance.com/how-to-calculate-the-perfect-product-selling-price/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-22",
+    "summary": "2026 step-by-step pricing calculation techniques for product marketers – includes cost formulas, competitor pricing guidance, and real examples."
+  },
+  {
+    "title": "AI SEO tools small businesses actually use",
+    "url": "https://blog.hubspot.com/marketing/ai-seo-tools-for-small-business",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-22",
+    "summary": "AI SEO tools for small businesses are essential to keep up with marketing trends and stay competitive. Yet most small businesses are trying to figure out which AI tools are actually worth their time..."
+  },
+  {
+    "title": "Do backlinks matter for AEO (answer engine optimization)?",
+    "url": "https://blog.hubspot.com/marketing/backlinks-and-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-22",
+    "summary": "Roughly 58% of consumers now use AI answer engines in their product research each week — and that number is rising fast. As AI-powered answer engines like ChatGPT, Perplexity, and Google AI Overviews..."
+  },
+  {
+    "title": "How a Mediocre Sales Team Loses You Deals. Ones You Could Have Won",
+    "url": "https://www.saastr.com/how-a-mediocre-sales-team-loses-you-deals-ones-you-could-have-won/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-22",
+    "summary": "A vendor reached out to me last week for fund administration for SaaStr Fund. We are genuinely in the market for a vendor and it’s a $100k+ a year potential client. This should have been a real shot..."
+  },
+  {
+    "title": "Computer and browser use in Codex (5 real examples)",
+    "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-22",
+    "summary": "Watch now | 🎙️ I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models..."
+  },
+  {
     "title": "Adapting GTM strategies in dynamic markets | GTM Labs",
     "url": "https://www.productmarketingalliance.com/go-to-market-labs-workshops/gtm-labs-november/",
     "source": "pma",
@@ -3950,53 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2024-07-08",
     "summary": "Give your teams faster access to the metrics that matter most to them with team dashboards and folders."
-  },
-  {
-    "title": "Dear SaaStr: How Do I Convince My CEO that Marketing is Important?",
-    "url": "https://www.saastr.com/convince-b2b-tech-company-ceo-marketing-important/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-07-03",
-    "summary": "Dear SaaStr: How do I Convince My CEO that Marketing is Important? A lot of CEOs these days do seem to be late to truly invest in B2B marketing, and most especially, to hiring a true VP of Marketing...."
-  },
-  {
-    "title": "That First Magical Sales Rep. The AI Era Edition.",
-    "url": "https://www.saastr.com/that-first-magical-sales-rep/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-06-17",
-    "summary": "A while back on LinkedIn and Twitter we had over 200,000 views and engagements on a quick post on “The Magical Sales Rep”, and another 500+ likes on a follow-up. It’s worth a deeper dive. Especially..."
-  },
-  {
-    "title": "New integrations with HubSpot, Segment and Intercom",
-    "url": "https://alleged-peace.flywheelsites.com/new-integrations-with-hubspot-segment-and-intercom/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-05-21",
-    "summary": "We’ve released three new integrations that enhance your ability to segment your customer base and provide visibility over lead and trial data."
-  },
-  {
-    "title": "Automate repetitive tasks in ChartMogul",
-    "url": "https://alleged-peace.flywheelsites.com/automate-repetitive-tasks-in-chartmogul/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-05-21",
-    "summary": "Set up automations in your account to make repetitive tasks easier, cut down on mistakes and help your team work faster."
-  },
-  {
-    "title": "ChartMogul’s product roadmap through 2024",
-    "url": "https://alleged-peace.flywheelsites.com/chartmoguls-product-roadmap-through-2024/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-05-02",
-    "summary": "For the first time ever, we’re publishing ChartMogul’s product roadmap publicly, covering what we’re building through to the end of 2024."
-  },
-  {
-    "title": "Dear SaaStr: A Big Tech Co Launched a Competitive Product. How Can I Tell How Serious They Are About It?",
-    "url": "https://www.saastr.com/best-way-assess-threat-competition-business-much-larger-corporations/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-04-15",
-    "summary": "Dear SaaStr: A Big Tech Co Launched a Competitive Product. How Can I Tell How Serious They Are About It? In B2B at least, I’ll give you a few metrics that are fairly reliable. The classic one still..."
   }
 ]
