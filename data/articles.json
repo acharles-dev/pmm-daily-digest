@@ -1,5 +1,21 @@
 [
   {
+    "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
+    "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-26",
+    "summary": "Our finance team went on vacation during SaaStr AI Annual. Our busiest time of the year. That’s the whole origin story. Collections started slipping, sponsors and vendors weren’t getting billed, and..."
+  },
+  {
+    "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+    "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-26",
+    "summary": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved"
+  },
+  {
     "title": "Build on the Stack You Have: How Anthropic’s Head of Industries, Atlassian’s Head of AI, and Scale’s Rory O’Driscoll Landed on the Same AI Playbook",
     "url": "https://www.saastr.com/build-on-the-stack-you-have-how-anthropics-head-of-industries-atlassians-head-of-ai-and-scales-rory-odriscoll-landed-on-the-same-ai-playbook/",
     "source": "saastr",
@@ -14,6 +30,14 @@
     "source_name": "SaaStr",
     "date": "2026-07-25",
     "summary": "Dear SaaStr: When Should We Start Pushing For Multi-Year Contracts? For most of us: stop pushing for them in the Age of AI. The market has shifted, and fighting it costs you more than it gains...."
+  },
+  {
+    "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-25",
+    "summary": "Community Wisdom 194"
   },
   {
     "title": "Why engineers don't trust PMMs (and how to fix it)",
@@ -3888,6 +3912,14 @@
     "summary": "Sales success comes down to timing and consistency. But in the day-to-day hustle of managing leads, it’s easy for follow-ups to fall through the cracks or become repetitive and manual. That’s why..."
   },
   {
+    "title": "Dear SaaStr: How Do I Learn to Close Big Enterprise Deals … Better?",
+    "url": "https://www.saastr.com/dear-saastr-how-do-i-learn-to-close-big-enterprise-deals-better/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-04-14",
+    "summary": "Dear SaaStr: How Do I Learn to Close Big Enterprise Deals Better? Closing high-ticket enterprise deals is a different beast compared to SMB or mid-market sales. It requires patience, strategy, and a..."
+  },
+  {
     "title": "How we use automations at ChartMogul",
     "url": "https://alleged-peace.flywheelsites.com/how-we-use-automations-at-chartmogul/",
     "source": "chartmogul",
@@ -3966,37 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2024-11-19",
     "summary": "Marketing attribution is all about figuring out which marketing efforts are driving results. At ChartMogul, we used to struggle with answering key questions like “Where do our best leads come from?”..."
-  },
-  {
-    "title": "When should you recognize churn?",
-    "url": "https://alleged-peace.flywheelsites.com/when-should-you-recognize-churn/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-11-13",
-    "summary": "Tracking churn is crucial in SaaS, but deciding when to recognize customers as churned can be tricky."
-  },
-  {
-    "title": "Penetration pricing in SaaS: risks, challenges, and pro tips",
-    "url": "https://alleged-peace.flywheelsites.com/penetration-pricing-in-saas/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-11-11",
-    "summary": "Penetration pricing sounds like a no-brainer for new businesses: come in with the lowest price, attract customers, raise the price later, and watch your revenue grow. As simple as that. Or is it?..."
-  },
-  {
-    "title": "Mastering account management in B2B SaaS",
-    "url": "https://alleged-peace.flywheelsites.com/mastering-account-management-in-b2b-saas/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-10-30",
-    "summary": "Account Management is a delightfully intricate balance of art and science. When I joined ChartMogul, I was tasked with building a new Account Management function from the ground up. As we all know,..."
-  },
-  {
-    "title": "5 Simple Tips to Quickly Improve Sales Performance",
-    "url": "https://www.saastr.com/5-simple-tips-to-quickly-improve-sales-performance/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2024-10-26",
-    "summary": "Dear SaaStr: What are the best 5 tips to improve poor sales performance? If you've never listened to your sales reps' calls, Especially the ones that are mediocre performers, You'll often be shocked..."
   }
 ]
