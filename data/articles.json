@@ -1,5 +1,21 @@
 [
   {
+    "title": "Why product marketers should rethink networking",
+    "url": "https://www.productmarketingalliance.com/why-product-marketers-should-rethink-networking/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-27",
+    "summary": "Discover why internal relationship building is a critical stakeholder management strategy for successful product marketers."
+  },
+  {
+    "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+    "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-27",
+    "summary": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical"
+  },
+  {
     "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
     "url": "https://www.saastr.com/our-new-ai-vp-of-finance-closes-the-deal-sends-the-invoice-and-chases-the-cash-it-took-4-deals-to-train-it/",
     "source": "saastr",
@@ -3982,21 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2024-12-05",
     "summary": "Kanban boards are perfect for managing the sales funnel, but only work if your sales pipeline management and stages are clear and everyone understands them."
-  },
-  {
-    "title": "Our revamped approach to data cleaning",
-    "url": "https://alleged-peace.flywheelsites.com/our-revamped-approach-to-data-cleaning/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-11-25",
-    "summary": "To generate accurate metrics, you need clean data—here’s how our improved data cleaning features make that easier."
-  },
-  {
-    "title": "Getting started with marketing attribution",
-    "url": "https://alleged-peace.flywheelsites.com/getting-started-with-marketing-attribution/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-11-19",
-    "summary": "Marketing attribution is all about figuring out which marketing efforts are driving results. At ChartMogul, we used to struggle with answering key questions like “Where do our best leads come from?”..."
   }
 ]
