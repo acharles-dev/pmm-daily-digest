@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI skills worth putting on a PMM resume or job specification",
+    "url": "https://www.productmarketingalliance.com/ai-skills-worth-putting-on-a-resume/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-28",
+    "summary": "Which AI skills belong on a PMM resume or job spec, what to leave off, and how to prove them in the interview. Plus checklists for both sides."
+  },
+  {
+    "title": "Your Agents Are About to Start Firing Your Vendors. Ours Fired Marketo.",
+    "url": "https://www.saastr.com/your-agents-are-about-to-start-firing-your-vendors-ours-fired-marketo/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-28",
+    "summary": "We just moved 10+ years of data off Marketo into Salesforce Marketing Cloud. I want to be clear that this wasn’t a decision we set out to make. A renewal came up, it became obvious they didn’t want..."
+  },
+  {
     "title": "Why product marketers should rethink networking",
     "url": "https://www.productmarketingalliance.com/why-product-marketers-should-rethink-networking/",
     "source": "pma",
@@ -14,6 +30,38 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-07-27",
     "summary": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical"
+  },
+  {
+    "title": "HubSpot AEO vs. Semrush AI Visibility: Which is right for your team?",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-semrush-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-27",
+    "summary": "If you’re comparing HubSpot AEO vs Semrush AI Visibility Toolkit, I tested both for you as a marketing and AEO practitioner myself and will share my detailed review."
+  },
+  {
+    "title": "AI SEO tools that fit your growth stack",
+    "url": "https://blog.hubspot.com/marketing/ai-seo-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-27",
+    "summary": "AI SEO tools have matured quickly. What started as a novelty layer atop existing keyword tools has become a full-fledged category, helping improve everything from research to AI search visibility."
+  },
+  {
+    "title": "The Top 12 Sales Lessons From SaaStr AI 2026: Anthropic, Gamma, Owner, Stripe, Salesforce, Vercel, Replit and Monaco",
+    "url": "https://www.saastr.com/the-top-sales-lessons-from-saastr-ai-2026-gamma-owner-stripe-salesforce-cloudflare-and-monaco/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-27",
+    "summary": "The sales and GTM sessions at SaaStr AI 2026 in San Mateo was all about where to take agents next. No one was still debating whether to put agents in the revenue org. They had already done it, and..."
+  },
+  {
+    "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-27",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "Our New AI VP of Finance Closes the Deal, Sends the Invoice, and Chases the Cash. It Took 4 Deals to Train It.",
@@ -3792,6 +3840,14 @@
     "summary": "Dear SaaStr: From 0 to $10m ARR, At What Point Do We Start Hiring and Whom? From $0 to $10M ARR, every hire has an outsized impact, and there’s little to no redundancy. So timing and prioritization..."
   },
   {
+    "title": "Dear SaaStr: We Have a Sales-Led Motion and SMB Customers And The Economics Aren’t Working",
+    "url": "https://www.saastr.com/dear-saastr-we-have-a-sales-led-motion-and-smb-customers-and-the-economics-arent-working/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-10-02",
+    "summary": "Dear SaaStr: We Have a Sales-Led Motion and SMB Customers And The Economics Aren’t Working. What Do You Suggest? You have to be ruthlessly efficient with a sales-led SMB motion. It can be done: Toast..."
+  },
+  {
     "title": "Don’t Lose a Great CoFounder, Whatever It Takes",
     "url": "https://www.saastr.com/dont-lose-a-great-cofounder-whatever-it-takes/",
     "source": "saastr",
@@ -3912,6 +3968,14 @@
     "summary": "Snowflake is a powerful data platform known for its scalability and ease of use, but its consumption-based pricing requires careful cost management. Without active monitoring and optimization, usage..."
   },
   {
+    "title": "Dear SaaStr: How Should I Specialize My Sales Team?",
+    "url": "https://www.saastr.com/dear-saastr-how-should-i-specialize-my-sales-team/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2025-05-18",
+    "summary": "Dear SaaStr: How Should I Specialize My Sales Team? If you’re asking the question, then the answer is probably yes 😉 One thing is clear: most founders and VPs of Sales and CROs look back and wish..."
+  },
+  {
     "title": "Without an ideal customer profile (ICP), your growth is just guesswork",
     "url": "https://alleged-peace.flywheelsites.com/ideal-customer-profile-icp/",
     "source": "chartmogul",
@@ -3934,69 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2025-04-14",
     "summary": "Dear SaaStr: How Do I Learn to Close Big Enterprise Deals Better? Closing high-ticket enterprise deals is a different beast compared to SMB or mid-market sales. It requires patience, strategy, and a..."
-  },
-  {
-    "title": "How we use automations at ChartMogul",
-    "url": "https://alleged-peace.flywheelsites.com/how-we-use-automations-at-chartmogul/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-02-25",
-    "summary": "A little reminder—your sales team has a lot on their plate. You want your reps focused on hunting new business, not manual tasks. The more you can do to make their lives easier, the more they can..."
-  },
-  {
-    "title": "Sales and marketing 101 for startups: driving growth together",
-    "url": "https://alleged-peace.flywheelsites.com/sales-and-marketing-101-for-startups/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-02-13",
-    "summary": "When and how to launch sales and marketing is a tough topic for most startup founders. It often means investing a lot of time and money without certainty that it will pay off. But sales and marketing..."
-  },
-  {
-    "title": "A guide to SaaS pricing models",
-    "url": "https://alleged-peace.flywheelsites.com/saas-pricing-models/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-01-30",
-    "summary": "Pricing a product is tough. You need to maintain healthy margins, stay competitive, and make sure it’s appealing to customers, all at once. And if the product isn’t selling, the first instinct is..."
-  },
-  {
-    "title": "Should discounts be included in MRR?",
-    "url": "https://alleged-peace.flywheelsites.com/should-discounts-be-included-in-mrr/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-01-20",
-    "summary": "78% of SaaS businesses offer discounts, according to a poll by SaaStr. Since discounts are a staple in SaaS, founders often ask, “How should MRR be calculated for discounted customers? Should MRR be..."
-  },
-  {
-    "title": "SaaS sales for startup leaders",
-    "url": "https://alleged-peace.flywheelsites.com/saas-sales-for-startup-leaders/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-01-09",
-    "summary": "You’ve built an amazing product—something you’re genuinely proud of. But now comes the part that can feel a little overwhelming: selling it. For many founders, it’s not just about convincing..."
-  },
-  {
-    "title": "ChartMogul 2024: Year in Review",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-2024-year-in-review/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-12-18",
-    "summary": "Here are the highlights from the past 12 months."
-  },
-  {
-    "title": "25 predictions for SaaS in 2025",
-    "url": "https://alleged-peace.flywheelsites.com/25-predictions-for-saas-in-2025/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-12-12",
-    "summary": "2024 was a big year for SaaS with AI in the spotlight and new pricing models shaking things up. What will 2025 bring?"
-  },
-  {
-    "title": "How to use kanban for sales opportunity management",
-    "url": "https://alleged-peace.flywheelsites.com/kanban-for-sales-opportunity-management/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2024-12-05",
-    "summary": "Kanban boards are perfect for managing the sales funnel, but only work if your sales pipeline management and stages are clear and everyone understands them."
   }
 ]
