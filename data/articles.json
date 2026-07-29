@@ -1,5 +1,21 @@
 [
   {
+    "title": "Product marketing in performance-obsessed orgs",
+    "url": "https://www.productmarketingalliance.com/product-marketing-in-performance-obsessed-orgs/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-07-29",
+    "summary": "Learn how to move away from paid performance ads to reduce your cost per acquisition and increase MRR."
+  },
+  {
+    "title": "AI Isn’t Killing SaaS. SaaS Is Killing Itself.",
+    "url": "https://www.saastr.com/ai-isnt-killing-saas-saas-is-killing-itself/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-29",
+    "summary": "Everyone wants the story to be about AI. AI is replacing seats. AI is collapsing pricing. AI is eating the workflow. There’s truth in all of it, and we write about it here every week. But after the..."
+  },
+  {
     "title": "AI skills worth putting on a PMM resume or job specification",
     "url": "https://www.productmarketingalliance.com/ai-skills-worth-putting-on-a-resume/",
     "source": "pma",
@@ -14,6 +30,38 @@
     "source_name": "SaaStr",
     "date": "2026-07-28",
     "summary": "We just moved 10+ years of data off Marketo into Salesforce Marketing Cloud. I want to be clear that this wasn’t a decision we set out to make. A renewal came up, it became obvious they didn’t want..."
+  },
+  {
+    "title": "HubSpot AEO vs. Rank Prompt: Which AI visibility tool should you choose?",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-rank-prompt",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-28",
+    "summary": "AI search is no longer a niche experiment. According to HubSpot’s own research , 42% of buyers now use AI search as part of their evaluation process — and it’s the top predictor of purchase intent...."
+  },
+  {
+    "title": "What is a CRM data model? Objects and relationships",
+    "url": "https://blog.hubspot.com/marketing/crm-data-model",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-28",
+    "summary": "At some point after a CRM goes live, someone pulls a pipeline report and the numbers don’t add up. Marketing and sales end up using different definitions for the same term. A new integration breaks..."
+  },
+  {
+    "title": "How AEO drives higher-intent site visitors than other channels",
+    "url": "https://blog.hubspot.com/marketing/aeo-drives-higher-intent-visitors",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-28",
+    "summary": "Answer engine optimization (AEO) is the practice of creating content for AI like ChatGPT, Claude, and Gemini to reference in their outputs. AI-referred traffic is small but growing fast and has an..."
+  },
+  {
+    "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+    "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-07-28",
+    "summary": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships"
   },
   {
     "title": "Why product marketers should rethink networking",
@@ -3950,53 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2025-05-30",
     "summary": "This spring, we packed our bags and hit the road. ChartMogul’s goals for the start of the 2025 event season were simple. Spend time with customers. Listen more than we talk. Learn what’s shaping SaaS..."
-  },
-  {
-    "title": "Transform customer data with AI-powered enrichment",
-    "url": "https://alleged-peace.flywheelsites.com/transform-customer-data-with-ai-powered-enrichment/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-05-29",
-    "summary": "We’re excited to bring AI-based enrichment to every ChartMogul customer, across both CRM and Subscription Analytics. Late last year, we quietly rolled out an AI-powered enrichment feature to a small..."
-  },
-  {
-    "title": "How we reduced Snowflake costs by 70%: a practical optimization guide",
-    "url": "https://alleged-peace.flywheelsites.com/how-we-reduced-snowflake-costs-by-70-a-practical-optimization-guide/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-05-22",
-    "summary": "Snowflake is a powerful data platform known for its scalability and ease of use, but its consumption-based pricing requires careful cost management. Without active monitoring and optimization, usage..."
-  },
-  {
-    "title": "Dear SaaStr: How Should I Specialize My Sales Team?",
-    "url": "https://www.saastr.com/dear-saastr-how-should-i-specialize-my-sales-team/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2025-05-18",
-    "summary": "Dear SaaStr: How Should I Specialize My Sales Team? If you’re asking the question, then the answer is probably yes 😉 One thing is clear: most founders and VPs of Sales and CROs look back and wish..."
-  },
-  {
-    "title": "Without an ideal customer profile (ICP), your growth is just guesswork",
-    "url": "https://alleged-peace.flywheelsites.com/ideal-customer-profile-icp/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-05-07",
-    "summary": "Defining an Ideal Customer Profile (ICP) forces you to focus, prioritize, and hone in on your specific target market. It seems obvious: focus brings team unity and compounds the impact of everyone’s..."
-  },
-  {
-    "title": "Stay consistent with sequences that drive results",
-    "url": "https://alleged-peace.flywheelsites.com/stay-consistent-with-sequences/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-04-29",
-    "summary": "Sales success comes down to timing and consistency. But in the day-to-day hustle of managing leads, it’s easy for follow-ups to fall through the cracks or become repetitive and manual. That’s why..."
-  },
-  {
-    "title": "Dear SaaStr: How Do I Learn to Close Big Enterprise Deals … Better?",
-    "url": "https://www.saastr.com/dear-saastr-how-do-i-learn-to-close-big-enterprise-deals-better/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2025-04-14",
-    "summary": "Dear SaaStr: How Do I Learn to Close Big Enterprise Deals Better? Closing high-ticket enterprise deals is a different beast compared to SMB or mid-market sales. It requires patience, strategy, and a..."
   }
 ]
