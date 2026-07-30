@@ -1,5 +1,45 @@
 [
   {
+    "title": "HubSpot AEO vs. Otterly: Platform or standalone tool?",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-otterly",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-30",
+    "summary": "Here’s the question most teams are actually trying to answer: do you need a standalone tool to monitor how your brand shows up in AI search, or do you need something that connects that monitoring to..."
+  },
+  {
+    "title": "Profound vs. Semrush AEO: What each tool actually does",
+    "url": "https://blog.hubspot.com/marketing/profound-vs-semrush",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-30",
+    "summary": "Profound and Semrush have both staked out positions in the answer engine optimization space, but they’re built for different teams with different goals. This post breaks down what each tool actually..."
+  },
+  {
+    "title": "20VC x SaaStr: Jensen’s First Tweet Ever, The Agent That Rewrote My Code Without Telling Me, and Why The PE Turnaround Playbook Is Out Of Road",
+    "url": "https://www.saastr.com/20vc-x-saastr-jensens-first-tweet-ever-the-agent-that-rewrote-my-code-without-telling-me-and-why-the-pe-turnaround-playbook-is-out-of-road/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-30",
+    "summary": "This week on 20VC with Harry Stebbings and Rory O’Driscoll: the open-weights letter that Anthropic didn’t sign, the OpenAI agent that broke out of its sandbox and went hunting for test answers on..."
+  },
+  {
+    "title": "The One Hire You [Probably] Just Can’t Make: Chief Product & Technology Officer",
+    "url": "https://www.saastr.com/the-one-hire-you-just-cant-make-chief-product-technology-officer/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-30",
+    "summary": "I see them everywhere now. Chief Product & Technology Officers. CPTOs. Whatever you want to call them. They’re popping up at B2B companies north of $100M ARR. Especially ones in transition, trying to..."
+  },
+  {
+    "title": "Dear SaaStr: How Do You Steal Customers From the Leader in the Space?",
+    "url": "https://www.saastr.com/how-do-you-pull-your-saas-competitors-customers-to-your-saas-instead/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-30",
+    "summary": "Dear SaaStr: How Do You Steal Customers From the Leader in the Space? There are so many products I would buy if the vendor just said \"I'll do all the work for you\" Instead, they all just want to tell..."
+  },
+  {
     "title": "Product marketing in performance-obsessed orgs",
     "url": "https://www.productmarketingalliance.com/product-marketing-in-performance-obsessed-orgs/",
     "source": "pma",
@@ -14,6 +54,22 @@
     "source_name": "SaaStr",
     "date": "2026-07-29",
     "summary": "Everyone wants the story to be about AI. AI is replacing seats. AI is collapsing pricing. AI is eating the workflow. There’s truth in all of it, and we write about it here every week. But after the..."
+  },
+  {
+    "title": "SEO tools marketers rely on (free & paid options)",
+    "url": "https://blog.hubspot.com/marketing/seo-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-29",
+    "summary": "SEO might feel like it’s under threat with the rise of AI. But the data tells a different story — SEO tools are still a must-have for marketers. In a HubSpot survey , 27% of marketers agreed that the..."
+  },
+  {
+    "title": "Dear SaaStr: What’s the Best Advice Founders Never Hear?",
+    "url": "https://www.saastr.com/dear-saastr-whats-the-best-advice-founders-never-hear/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-29",
+    "summary": "Dear SaaStr: What’s the Best Advice That Entrepreneurs Never Hear? My list of top advice founders never hear: Slow it down if you don’t have a great co-founder. We all get excited to “get going” with..."
   },
   {
     "title": "AI skills worth putting on a PMM resume or job specification",
@@ -3942,61 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2025-08-06",
     "summary": "You can now automatically sync key subscription data from ChartMogul including MRR, customer status, billing cycles, and more, directly to Company records in HubSpot. That means your sales,..."
-  },
-  {
-    "title": "Should founders care about startup branding?",
-    "url": "https://alleged-peace.flywheelsites.com/startup-branding/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-07-24",
-    "summary": "Startup branding isn’t just for later-stage companies with big budgets. It’s something early-stage startups can (and should) care about from day one. The reason is simple: you already have a brand...."
-  },
-  {
-    "title": "Dear SaaStr: What Are Your Top Tips to Building Your First Sales Team?",
-    "url": "https://www.saastr.com/dear-saastr-what-are-your-top-tips-to-building-your-first-sales-team/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2025-07-22",
-    "summary": "Dear SaaStr: What Are Your Top Tips to Building A First Sales Team? When it comes to sales hires, the key is to approach it methodically and avoid common pitfalls. Here’s how I’d break it down: Hire..."
-  },
-  {
-    "title": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps?",
-    "url": "https://www.saastr.com/dear-saastr-what-quota-should-i-give-to-my-enterprise-sales-reps/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2025-07-04",
-    "summary": "Dear SaaStr: What Quota Should I Give to my Enterprise Sales Reps? For enterprise sales reps, quotas typically range from 3x to 5x their fully burdened on-target earnings (OTE). This means if your..."
-  },
-  {
-    "title": "More control, 90% less CDP spend: why we moved from Segment to Jitsu",
-    "url": "https://alleged-peace.flywheelsites.com/more-control-less-spend-cdp/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-06-30",
-    "summary": "A few months ago, I was reviewing our RevOps budget when one line item jumped out: our Customer Data Platform (CDP) spend. It hadn’t changed in over a year, but our use of the platform had. That..."
-  },
-  {
-    "title": "Chat with your revenue data: ChartMogul’s experimental MCP server",
-    "url": "https://alleged-peace.flywheelsites.com/chat-with-your-revenue-data/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-06-16",
-    "summary": "AI is quickly becoming the new interface of the internet, not just for finding information, but for getting things done. So what if you could also chat with your SaaS metrics? Today, we’re releasing..."
-  },
-  {
-    "title": "How we run customer onboarding at ChartMogul + a SaaS customer onboarding template",
-    "url": "https://alleged-peace.flywheelsites.com/how-we-run-customer-onboarding/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-06-05",
-    "summary": "When you think about SaaS onboarding, what comes to mind? Scores of help docs and maybe a few automated emails? In reality, onboarding requires significantly more human effort than most people..."
-  },
-  {
-    "title": "5 stops, 5 lessons: what we learned from a season of SaaS events",
-    "url": "https://alleged-peace.flywheelsites.com/5-stops-5-lessons-what-we-learned-from-a-season-of-saas-events/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-05-30",
-    "summary": "This spring, we packed our bags and hit the road. ChartMogul’s goals for the start of the 2025 event season were simple. Spend time with customers. Listen more than we talk. Learn what’s shaping SaaS..."
   }
 ]
