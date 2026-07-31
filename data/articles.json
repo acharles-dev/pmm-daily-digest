@@ -1,5 +1,13 @@
 [
   {
+    "title": "When a 3.8x “Exit” Becomes 1.6x: The Gap Between Markups and Returns",
+    "url": "https://www.saastr.com/dilutionalwaysmore/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-07-31",
+    "summary": "One of our older SaaStr Fund companies was recently acquired. It is selling for 3.8x what we paid to get in years ago. On paper that reads like a clean triple. We won’t make 1.6x. That gap, 3.8x on..."
+  },
+  {
     "title": "HubSpot AEO vs. Otterly: Platform or standalone tool?",
     "url": "https://blog.hubspot.com/marketing/hubspot-vs-otterly",
     "source": "hubspot",
@@ -3990,13 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2025-08-07",
     "summary": "Dear SaaStr: How Do I Know If My New VP of Marketing Is Going To Make It? Dear SaaStr: How Do I Know If My New VP of Marketing Is Going To Make It? You’ll know pretty quickly if a new VP of Marketing..."
-  },
-  {
-    "title": "Sync SaaS metrics to HubSpot Companies",
-    "url": "https://alleged-peace.flywheelsites.com/sync-saas-metrics-to-hubspot-companies/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-08-06",
-    "summary": "You can now automatically sync key subscription data from ChartMogul including MRR, customer status, billing cycles, and more, directly to Company records in HubSpot. That means your sales,..."
   }
 ]
