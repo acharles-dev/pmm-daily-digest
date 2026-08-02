@@ -1,5 +1,29 @@
 [
   {
+    "title": "The AI Board Member: Should Yours Should “Chair” the Next Meeting? At Least Conceptually",
+    "url": "https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-02",
+    "summary": "I just got out of a 3 hour board meeting where the first 2 hours were an almost total waste of time. 5 busy executives reviewed 30 slides that no one really had read ahead of time. And then a bunch..."
+  },
+  {
+    "title": "Jason’s Takes on This Week’s 20VC: The Toggle Is a Permission Grant, The Blame Test Decides the Deal, and Why Five Years of Price Increases Is a Countdown",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-toggle-is-a-permission-grant-the-blame-test-decides-the-deal-and-why-five-years-of-price-increases-is-a-countdown/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-02",
+    "summary": "The version of this week’s episode I’d give a founder over coffee, including the part where an agent rewrote my core algorithm and I found out from a merge conflict. Harry, Rory and I covered..."
+  },
+  {
+    "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+    "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-02",
+    "summary": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure"
+  },
+  {
     "title": "The #1 Most Important Thing to Understand About AI SDRs: They Can’t Figure It Out For You. That’s Still Your Job. For Now, At Least.",
     "url": "https://www.saastr.com/the-1-most-important-thing-to-understand-about-ai-sdrs/",
     "source": "saastr",
@@ -14,6 +38,14 @@
     "source_name": "SaaStr",
     "date": "2026-08-01",
     "summary": "Dear SaaStr: I Fired My VP of Sales. What Now? It’s tough and there may be some bumps. But honestly things probably will be better in just a week or two. What you do need to do is have a plan. You..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-01",
+    "summary": "Community Wisdom 195"
   },
   {
     "title": "When a 3.8x “Exit” Becomes 1.6x: The Gap Between Markups and Returns",
@@ -3966,37 +3998,5 @@
     "source_name": "ChartMogul",
     "date": "2026-01-16",
     "summary": "We’re excited to share that ChartMogul is now available as a native integration in n8n, giving you a faster, easier, and more flexible way to build automated workflows around your customer data. If..."
-  },
-  {
-    "title": "AI in SaaS: What the Law Currently Says",
-    "url": "https://alleged-peace.flywheelsites.com/ai-in-saas-what-the-law-currently-says/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2026-01-07",
-    "summary": "AI has moved from a side project to a core capability in SaaS products. Teams are integrating LLMs into customer support workflows, analytics pipelines, internal tools, and even core product..."
-  },
-  {
-    "title": "Why it has never been easier or cheaper to build a high-accuracy SaaS attribution model",
-    "url": "https://alleged-peace.flywheelsites.com/why-it-has-never-been-easier-or-cheaper-to-build-a-high-accuracy-saas-attribution-model/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-11-19",
-    "summary": "Marketing attribution in SaaS has a reputation for being complex, unreliable, and expensive. Over the last fifteen years, the industry has focused heavily on pipeline performance marketing. Many..."
-  },
-  {
-    "title": "Fast forever: how to keep shipping at speed as your SaaS company grows",
-    "url": "https://alleged-peace.flywheelsites.com/fast-forever-how-to-keep-shipping-at-speed-as-your-saas-company-grows/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-10-30",
-    "summary": "We’ve been building ChartMogul for more than a decade. I’m a product-focused generalist and a solo founder with a deep love for design and detail. Over the years, I’ve come to believe that a..."
-  },
-  {
-    "title": "Enhanced support for tracking free trials and freemium subscriptions in ChartMogul",
-    "url": "https://alleged-peace.flywheelsites.com/enhanced-support-for-tracking-free-trials-and-freemium-subscriptions-in-chartmogul/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2025-10-16",
-    "summary": "SaaS companies have long relied on free trials and freemium tiers to reduce adoption friction and grow faster. They are powerful strategies that allow users to experience value before making a..."
   }
 ]
