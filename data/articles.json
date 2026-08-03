@@ -1,5 +1,53 @@
 [
   {
+    "title": "The skills every PMM needs after a promotion",
+    "url": "https://www.productmarketingalliance.com/the-skills-every-pmm-needs-after-a-promotion/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-03",
+    "summary": "Recently promoted to PMM? Discover essential skills for creating focus, building alignment, and influencing decisions in your new role."
+  },
+  {
+    "title": "What happened when 6.8m people were told real Monet art was AI",
+    "url": "https://blog.hubspot.com/marketing/real-monet",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-03",
+    "summary": "AI content is polarizing. When users spot that AI was used in art, backlash often follows. So, let’s run a quick experiment."
+  },
+  {
+    "title": "I Was Wrong About Marketing ROI. Here’s What $100,000,000+ in Sponsorship Sales Taught Me.",
+    "url": "https://www.saastr.com/i-was-wrong-about-marketing-roi-heres-what-100000000-in-sponsorships-taught-me/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-03",
+    "summary": "We’ve closed over $120,000,000+ in sponsorships at SaaStr over the years. And I’m still learning about real marketing ROI from them. For a long time, I thought most marketers were doing it backwards...."
+  },
+  {
+    "title": "2026 Is The Biggest IPO Year In History. But Take Out SpaceX And Right Now It’s One of the Worst.",
+    "url": "https://www.saastr.com/2026-is-the-biggest-ipo-year-in-history-but-take-out-one-company-and-its-one-of-the-worst/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-03",
+    "summary": "A good year for IPOs. A bit less so for their performance. And not a year at all for SaaS. Per PitchBook there has been $1,786.8 billion in US VC-backed IPO value through July 28. That’s not a..."
+  },
+  {
+    "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-03",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
+  },
+  {
+    "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+    "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-03",
+    "summary": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live"
+  },
+  {
     "title": "The AI Board Member: Should Yours Should “Chair” the Next Meeting? At Least Conceptually",
     "url": "https://www.saastr.com/the-ai-board-member-why-yours-should-chair-the-next-meeting-for-real/",
     "source": "saastr",
@@ -3950,53 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-03-31",
     "summary": "When I first started working in content and weaving SEO into my strategy, I treated Page Authority like a report card: the higher the score, the better I was doing. It took a few humbling ranking..."
-  },
-  {
-    "title": "Brand optimization: What it is and why your AI visibility depends on it",
-    "url": "https://blog.hubspot.com/marketing/brand-optimization",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-03-30",
-    "summary": "Consistency is key to achieving any goal. Want to learn to play the piano? Practice consistently. Trying to get in shape for a sibling's wedding? Exercise and eat healthily consistently. Want your..."
-  },
-  {
-    "title": "AI content optimization: How to get found in Google and AI search in 2026",
-    "url": "https://blog.hubspot.com/marketing/ai-content-optimization",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-03-30",
-    "summary": "I've spent most of the last 10 years writing, managing, and improving content to reach internet audiences. But even for an ol' marketer like me, AI content optimization was hard at first. Thankfully,..."
-  },
-  {
-    "title": "Seed Keywords: The Starting Point for SEO Research",
-    "url": "https://blog.hubspot.com/marketing/seed-keywords",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-03-26",
-    "summary": "Every successful content strategy starts with a short list of simple words. Before I ever open a keyword research tool, I write down a handful of phrases that describe what my business does or what..."
-  },
-  {
-    "title": "Dear SaaStr: Should Your Ask a Prospect What Competitors They Are Looking At?",
-    "url": "https://www.saastr.com/in-a-serious-sales-cycle-should-a-client-tell-you-who-you-are-competing-with-and-when/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-03-16",
-    "summary": "Dear SaaStr: Should Your Ask a Prospect What Competitors They Are Looking At? Yes. And in 2026, more than ever. You’ll find 90% of the time you’ll want to not just tell a prospect who you are..."
-  },
-  {
-    "title": "ChartMogul + Crono: bringing outbound workflow to ChartMogul CRM",
-    "url": "https://alleged-peace.flywheelsites.com/chartmogul-crono-bringing-outbound-leads-into-chartmogul-crm/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2026-02-09",
-    "summary": "Outbound sales is really about one thing: starting the conversation. When it’s done well, it isn’t about pressure or persuasion tricks. It’s about showing up with something genuinely worth offering...."
-  },
-  {
-    "title": "Introducing the native ChartMogul integration for n8n",
-    "url": "https://alleged-peace.flywheelsites.com/introducing-the-native-chartmogul-integration-for-n8n/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2026-01-16",
-    "summary": "We’re excited to share that ChartMogul is now available as a native integration in n8n, giving you a faster, easier, and more flexible way to build automated workflows around your customer data. If..."
   }
 ]
