@@ -1,5 +1,61 @@
 [
   {
+    "title": "Two things analyst relations is supposed to do – and why most programs only do one",
+    "url": "https://www.productmarketingalliance.com/two-things-analyst-relations-is-supposed-to-do/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-05",
+    "summary": "Analyst relations (AR) programs often focus solely on influencing perception, but are they missing half the job?"
+  },
+  {
+    "title": "Brand tracking tools for scaling companies",
+    "url": "https://blog.hubspot.com/marketing/brand-tracking-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-05",
+    "summary": "Brand tracking tools help growth marketers gauge what people say about the brand, whether it’s good or bad, and why they choose competitors, all at scale. Brand monitoring also reveals AI share of..."
+  },
+  {
+    "title": "Scrunch vs. Peec AI: Which tool fits your AEO strategy? [2026]",
+    "url": "https://blog.hubspot.com/marketing/scrunch-vs-peec-ai",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-05",
+    "summary": "If you’re comparing Scrunch versus Peec AI , you need to know your buyers are already forming opinions about your brand in answer engines like ChatGPT, Perplexity, and Google AI Mode before they ever..."
+  },
+  {
+    "title": "Omnichannel customer service: What it is and how to do it",
+    "url": "https://blog.hubspot.com/marketing/omnichannel-customer-service",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-05",
+    "summary": "In today’s digital world, customers want to access support quickly via their preferred communication channel. In response, more companies are looking to deliver seamless, personalized support..."
+  },
+  {
+    "title": "CRM change management: A practical guide for leaders",
+    "url": "https://blog.hubspot.com/marketing/crm-change-management",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-05",
+    "summary": "CRM projects don’t fail at the technical level — they fail because the people expected to use the system never bought in, the training was too generic to stick, and nobody owned adoption after..."
+  },
+  {
+    "title": "Airtable Just Sold for $2.25B at 2.7x ARR. It Raised $1.4B and Was Once Worth $11.7B. This Was … Market",
+    "url": "https://www.saastr.com/airtable-just-sold-for-2-25b-at-2-7x-arr-it-raised-1-4b-and-was-once-worth-11-7b/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-05",
+    "summary": "Bending Spoons is acquiring Airtable in an all-cash deal at a $1.285B enterprise value. With Airtable’s net cash, that’s roughly $2.25B of equity value. Expected to close by year end, subject to..."
+  },
+  {
+    "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
+    "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-05",
+    "summary": "Watch now | 🎙️ I used Vercel Eve agents and Codex to build Merge Mommy: a PR review bot that scores risk, auto-approves the easy ones, and pings me in Slack for the rest"
+  },
+  {
     "title": "5 Interesting Learnings from Palantir at $7.7 Billion ARR: 93% Growth (!), 157% NRR, and a Rule of 40 Score of 155%",
     "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
     "source": "saastr",
@@ -22,6 +78,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-08-04",
     "summary": "The case for career emergence"
+  },
+  {
+    "title": "HubSpot AEO Grader vs. Peec AI: Features, pricing, and use cases",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-peec-ai",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-04",
+    "summary": "If your buyers are asking ChatGPT for vendor recommendations instead of scrolling through Google results, your brand’s visibility in AI search engines matters as much as your organic rankings … maybe..."
+  },
+  {
+    "title": "5 Semrush AI visibility alternatives worth testing",
+    "url": "https://blog.hubspot.com/marketing/semrush-ai-visibility-alternatives",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-04",
+    "summary": "For many, Semrush is the gold standard for tracking traditional SERP rankings, and the tool has recently added AI visibility features to its suite. However, there are plenty of Semrush AI visibility..."
   },
   {
     "title": "The skills every PMM needs after a promotion",
@@ -3926,77 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-04-14",
     "summary": "Most marketing teams I talk to are doing genuinely good SEO, and yet when they open ChatGPT or Perplexity and type in the prompts their buyers are actually using, their brand is nowhere to be found...."
-  },
-  {
-    "title": "The Real AI Race Isn't About Models or Data. It's About Context.",
-    "url": "https://blog.hubspot.com/marketing/the-real-ai-race-isnt-about-models-or-data-its-about-context",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-09",
-    "summary": "Every company I talk to right now is convinced they have an AI problem."
-  },
-  {
-    "title": "AEO strategy for SaaS: 6 tactics that convert prospects into trials",
-    "url": "https://blog.hubspot.com/marketing/aeo-for-saas-companies",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-09",
-    "summary": "An AEO strategy for SaaS won’t stray too far from a good SEO strategy, but some tactics benefit AI search more than others, and it helps to know what these are. We all know that AI has shifted how..."
-  },
-  {
-    "title": "Loop Marketing vs. traditional marketing: What’s the difference?",
-    "url": "https://blog.hubspot.com/marketing/loop-marketing-vs-traditional-marketing",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-08",
-    "summary": "Two-thirds of marketers say that marketing has changed more in the past three years than in the past 50. Understanding Loop Marketing versus traditional marketing has become essential for marketers..."
-  },
-  {
-    "title": "Marketing forecast fundamentals every growth team needs",
-    "url": "https://blog.hubspot.com/marketing/marketing-forecast",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-08",
-    "summary": "A marketing forecast estimates future marketing results, such as leads, pipeline, and revenue, using historical data and conversion assumptions. Marketing forecasting connects planned activity to..."
-  },
-  {
-    "title": "Knowing About AI Isn't Enough. Here's How to Actually Use It.",
-    "url": "https://blog.hubspot.com/marketing/ai-enablement",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-08",
-    "summary": "Maybe you’ve opened ChatGPT a handful of times, gotten subpar results, and moved on. Maybe you’ve sat through an AI training or two and thought, “Cool, but how does this actually apply to my job?” Or..."
-  },
-  {
-    "title": "From Signup to Value: How AI Is Changing Activation in SaaS",
-    "url": "https://alleged-peace.flywheelsites.com/from-signup-to-value-how-ai-is-changing-activation-in-saas/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2026-04-07",
-    "summary": "Users are trying a new product and getting to value faster than ever. That first “oh, this actually works” feeling, which used to take days of setup and onboarding, is now happening in the first..."
-  },
-  {
-    "title": "Profound vs. AthenaHQ AI: Which AEO platform fits your growth stack?",
-    "url": "https://blog.hubspot.com/marketing/profound-vs-athenahq",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-06",
-    "summary": "AI-referred traffic has increased by 600% since January 2025, and marketers are racing to understand what that means for brand discovery. For teams seeking clarity on how AI impacts brand and..."
-  },
-  {
-    "title": "Best workflow automation software: How to choose the right tool for your growth stage",
-    "url": "https://blog.hubspot.com/marketing/workflow-automation-tools",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-06",
-    "summary": "Workflow automation tools automate repetitive business tasks across systems using defined triggers and logic. These platforms link apps, CRM data, and communication channels to execute multi-step..."
-  },
-  {
-    "title": "AI-driven email personalization strategies that actually work",
-    "url": "https://blog.hubspot.com/marketing/ai-driven-email-personalization",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-06",
-    "summary": "Email personalization drives measurable revenue impact. According to HubSpot’s 2026 State of Marketing report , 93.2% of marketers say personalized or segmented experiences generate more leads and..."
   }
 ]
