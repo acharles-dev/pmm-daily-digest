@@ -1,5 +1,29 @@
 [
   {
+    "title": "HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-06",
+    "summary": "As more buyers skip search entirely and go straight to ChatGPT, Gemini, or Perplexity for recommendations, marketers are realizing they need a new kind of tool — one that shows them how their brand..."
+  },
+  {
+    "title": "CRM deployment: A step-by-step process for growing teams",
+    "url": "https://blog.hubspot.com/marketing/crm-deployment",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-06",
+    "summary": "There’s an irony at the heart of most failed CRM rollouts: the technology almost never lets you down. The deployment does. More than 60% of CRM failures trace back to people and process challenges,..."
+  },
+  {
+    "title": "I Bought 30+ APIs This Year. Only Exa Asked How It Went. Copy Them.",
+    "url": "https://www.saastr.com/i-bought-30-apis-this-year-only-exa-asked-how-it-went-copy-them/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-06",
+    "summary": "Four sentences, from a real PM, timed off actual usage. It got a 400-word product spec back. We run 21+ AI agents in production at SaaStr, and we’re building SaaStr AI Connect on top of them. That..."
+  },
+  {
     "title": "Two things analyst relations is supposed to do – and why most programs only do one",
     "url": "https://www.productmarketingalliance.com/two-things-analyst-relations-is-supposed-to-do/",
     "source": "pma",
@@ -56,6 +80,22 @@
     "summary": "Watch now | 🎙️ I used Vercel Eve agents and Codex to build Merge Mommy: a PR review bot that scores risk, auto-approves the easy ones, and pings me in Slack for the rest"
   },
   {
+    "title": "Ideal customer profile template",
+    "url": "https://www.productmarketingalliance.com/ideal-customer-profile-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-05",
+    "summary": "Find and target your best-fit customers with confidence."
+  },
+  {
+    "title": "“Our AI Agent Rewrote Our App Without Telling Us” The Agents #12 is Here!",
+    "url": "https://www.saastr.com/our-ai-agent-rewrote-our-app-without-telling-us-the-agents-12-is-here/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-05",
+    "summary": "The Agents, Episode 12, with Jason Lemkin and Amelia Lerutte A year ago this week we added our third agent. Running all three took Amelia and me about 30 minutes a day, combined. This week it was..."
+  },
+  {
     "title": "5 Interesting Learnings from Palantir at $7.7 Billion ARR: 93% Growth (!), 157% NRR, and a Rule of 40 Score of 155%",
     "url": "https://www.saastr.com/5-interesting-learnings-from-palantir-at-7-7-billion-arr-93-growth-157-nrr-and-a-rule-of-40-score-of-155/",
     "source": "saastr",
@@ -94,6 +134,14 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-08-04",
     "summary": "For many, Semrush is the gold standard for tracking traditional SERP rankings, and the tool has recently added AI visibility features to its suite. However, there are plenty of Semrush AI visibility..."
+  },
+  {
+    "title": "The 9 best tools for your early-stage startup tech stack in 2026",
+    "url": "https://www.intercom.com/blog/early-stage-startup-tech-stack/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-08-04",
+    "summary": "Learn how to create a foundational tech stack for your high growth and early-stage startup – starting with these top tools."
   },
   {
     "title": "The skills every PMM needs after a promotion",
@@ -3950,53 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-04-14",
     "summary": "At its core, an SEO audit is a step-by-step review of your website’s technical health, content quality, and search visibility. An SEO audit identifies technical, on-page, content, and link issues on..."
-  },
-  {
-    "title": "8 Generative engine optimization best practices your strategy needs",
-    "url": "https://blog.hubspot.com/marketing/generative-engine-optimization-best-practices",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "Despite what the headlines would have you believe, artificial intelligence (AI) isn’t new. The term and early technology date back to the 1950s , but generative AI (which emerged in the 2010s) is..."
-  },
-  {
-    "title": "How HubSpot became the #1 CRM in AI search [A case study]",
-    "url": "https://blog.hubspot.com/marketing/hubspot-aeo-case-study",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "Today, more and more buyers are beginning their journey with an AI-search. They may ask ChatGPT to compare products or use an AI-powered platform like Perplexity. Or, they're just Googling an..."
-  },
-  {
-    "title": "What AEO rank trackers measure and why marketers need them",
-    "url": "https://blog.hubspot.com/marketing/aeo-rank-trackers",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "If you’re asking yourself, “How can I measure AEO success?”, AEO rank trackers should be your next investment. They gauge your brand visibility in AI-generated answers, considering metrics like..."
-  },
-  {
-    "title": "AEO Insights: Building an Informed Answer Engine Strategy",
-    "url": "https://blog.hubspot.com/marketing/aeo-insights",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "By now, you know that everyone’s buzzing over answer engine optimization (AEO). So, just what is AEO in marketing? It’s a new way of ensuring your brand shows up in the places your prospects are..."
-  },
-  {
-    "title": "How to Show Up in ChatGPT Results and Get Noticed by Customers",
-    "url": "https://blog.hubspot.com/marketing/how-to-show-up-in-chatgpt-results",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "There’s a lot of conjecture out there about how to show up in ChatGPT results, but if you want advice from a practitioner who’s actually done it , keep reading."
-  },
-  {
-    "title": "The FSA framework explained: Why AI engines cite certain brands (and how marketers can use it)",
-    "url": "https://blog.hubspot.com/marketing/fsa-framework",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "Most marketing teams I talk to are doing genuinely good SEO, and yet when they open ChatGPT or Perplexity and type in the prompts their buyers are actually using, their brand is nowhere to be found...."
   }
 ]
