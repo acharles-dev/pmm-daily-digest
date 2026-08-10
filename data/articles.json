@@ -1,5 +1,117 @@
 [
   {
+    "title": "B2B campaign tracker template",
+    "url": "https://www.productmarketingalliance.com/b2b-campaign-tracker-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-10",
+    "summary": "One tracker for leads, MQLs, SQLs, conversions, and pipeline."
+  },
+  {
+    "title": "The hidden cost of product portfolio complexity: How product marketers can turn complexity into clarity",
+    "url": "https://www.productmarketingalliance.com/the-hidden-cost-of-product-portfolio-complexity/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-10",
+    "summary": "Product portfolio complexity is a hidden tax on growth. Learn how product marketers can turn internal complexity into external customer clarity and drive better conversions."
+  },
+  {
+    "title": "The simple way to make your marketing claims 42.9% more believable",
+    "url": "https://blog.hubspot.com/marketing/marketing-claims-psychology",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-10",
+    "summary": "A few weeks back, I stumbled across a Reddit post that talked about the first measurement ever taken of Mount Everest. Rather than listing the exact measurement of 29,000 feet, the British Royal..."
+  },
+  {
+    "title": "How Mailchimp Went From $1B+ ARR to … Shrinking Inside Intuit. A Death Spiral in the Age of AI?",
+    "url": "https://www.saastr.com/how-mailchimp-went-from-1b-arr-and-20-growth-to-shrinking-inside-intuit/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-10",
+    "summary": "A product that won by doing one thing perfectly spent seven years becoming several. Now its parent publishes growth figures with it removed, and the platforms where new apps get built don’t list it..."
+  },
+  {
+    "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+    "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-10",
+    "summary": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email"
+  },
+  {
+    "title": "Atlassian Just Deleted Loom’s Free Creator Seats. They Were Also Loom’s Distribution.",
+    "url": "https://www.saastr.com/atlassian-just-deleted-looms-free-seats-it-was-also-looms-distribution/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-09",
+    "summary": "It wasn’t even 30 days after I left Adobe after their acquisition of my last start-up EchoSign / Adobe Sign when … they ripped out the Free edition. It had millions of users over time, was cheap to..."
+  },
+  {
+    "title": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup?",
+    "url": "https://www.saastr.com/what-is-a-good-demo-conversion-rate-for-saas-startup/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-09",
+    "summary": "Dear SaaStr: What Is A Good Demo Conversion Rate for a SaaS Startup? 10%-20%. If fewer than 8%-10% or so of your demos convert to paid customers, you’ll start to burn out your sales team. Because..."
+  },
+  {
+    "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+    "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-09",
+    "summary": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting"
+  },
+  {
+    "title": "The Simple Math Behind a 3x Venture Fund: Why Your Best Investment Needs to Return the Whole Thing",
+    "url": "https://www.saastr.com/the-simple-math-behind-a-3x-venture-fund-why-your-best-investment-needs-to-return-the-whole-thing/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-08",
+    "summary": "One of the questions I get asked most often by new VCs is deceptively simple: “How do I actually return a 3x fund?” In theory there are a lot of ways to get there. Especially with smaller funds. You..."
+  },
+  {
+    "title": "Backstory Retiered Its Entire Customer Base in 3 Days. The Same Exercise Used to Take Five Teams a Quarter.",
+    "url": "https://www.saastr.com/backstory-retiered-its-entire-customer-base-in-3-days-the-same-exercise-used-to-take-five-teams-a-quarter/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-08",
+    "summary": "Haya Kamola on running an account tiering analysis with connectors, custom signals, and four rounds of iteration, live at SaaStr AI Day Haya Kamola leads customer success at Backstory, and spent her..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-08",
+    "summary": "Community Wisdom 196"
+  },
+  {
+    "title": "How Elizabeth Simms, Director of Product Marketing at Salesforce, rebuilt her PMM org for the AI era",
+    "url": "https://www.productmarketingalliance.com/how-salesforce-is-rebuilding-pmm-for-the-ai-era/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-07",
+    "summary": "Stop building AI hacks, start building shared infrastructure."
+  },
+  {
+    "title": "What is enterprise marketing automation? Features, platforms, and best practices",
+    "url": "https://blog.hubspot.com/marketing/enterprise-marketing-automation",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-07",
+    "summary": "Enterprise marketing automation is how large organizations scale personalized marketing across multiple teams and channels without disrupting their data or workflow. If you’re evaluating platforms or..."
+  },
+  {
+    "title": "5 Interesting Learnings from Shopify at $14B in Revenue: 34% Growth, 18% Free Cash Flow Margins, and AI Orders Up 3x",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-shopify-at-14b-in-revenue-34-growth-18-free-cash-flow-margins-and-ai-orders-up-3x/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-07",
+    "summary": "Shopify reported Q2 2026 this week and the stock jumped roughly 18% on the news, erasing most of a 25% year-to-date decline in a single session. The headline numbers: $3.58 billion in quarterly..."
+  },
+  {
     "title": "HubSpot AEO vs. Ahrefs Brand Radar: Features compared [2026]",
     "url": "https://blog.hubspot.com/marketing/hubspot-vs-ahrefs-aeo",
     "source": "hubspot",
@@ -22,6 +134,14 @@
     "source_name": "SaaStr",
     "date": "2026-08-06",
     "summary": "Four sentences, from a real PM, timed off actual usage. It got a 400-word product spec back. We run 21+ AI agents in production at SaaStr, and we’re building SaaStr AI Connect on top of them. That..."
+  },
+  {
+    "title": "HubSpot AEO vs. Scrunch: Which tool fits your workflow?",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-scrunch",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-06",
+    "summary": "If you’re evaluating answer engine optimization tools, here’s the short version: HubSpot AEO is an insight-to-execution platform that connects AI visibility data directly to your CRM and content..."
   },
   {
     "title": "Two things analyst relations is supposed to do – and why most programs only do one",
@@ -3878,125 +3998,5 @@
     "source_name": "Intercom Blog",
     "date": "2026-04-23",
     "summary": "Today we’re announcing The Sales Agent Blueprint, a map for launching and scaling AI for sales with confidence."
-  },
-  {
-    "title": "Generative engine optimization KPIs that actually matter for marketing teams",
-    "url": "https://blog.hubspot.com/marketing/geo-kpis",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-23",
-    "summary": "Generative AI is changing how people discover brands, products, and information. Because it disrupts the buyer journey, it requires new metrics, specifically GEO KPIs, that accurately reflect..."
-  },
-  {
-    "title": "GPT 5.5 just did what no other model could",
-    "url": "https://www.lennysnewsletter.com/p/gpt-55-just-did-what-no-other-model",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-23",
-    "summary": "Watch now | 🎙️ Why I'm happy to pay $180 per million output tokens for GPT 5.5 Pro, what it actually did in my Codex workflow, and the intelligence test it completed that Claude Code kept failing"
-  },
-  {
-    "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
-    "url": "https://www.lennysnewsletter.com/p/how-anthropics-product-team-moves",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-23",
-    "summary": "Listen now | Head of Product for Claude Code on how AI is changing the PM role, building products before the model is ready, inside Claude Code's launch room process, and why speed now matters more..."
-  },
-  {
-    "title": "Announcing Fin for Sales: A new role for Fin Customer Agent",
-    "url": "https://www.intercom.com/blog/announcing-fin-for-sales/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-04-22",
-    "summary": "At Pioneer, we shared our vision of a single Customer Agent working across the customer lifecycle. Fin for Sales is a big step towards that vision, and brings Fin to the start of the customer journey."
-  },
-  {
-    "title": "AEO metrics every marketer should track in 2026",
-    "url": "https://blog.hubspot.com/marketing/aeo-metrics",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-22",
-    "summary": "According to Adobe Express, 77% of Americans have used ChatGPT as a search tool. Although Google still owns a large share of traditional search, it’s becoming clearer that discovery no longer happens..."
-  },
-  {
-    "title": "AEO Strategy for B2B: 9 Tactics to Increase B2B Answer Engine Visibility",
-    "url": "https://blog.hubspot.com/marketing/aeo-b2b-strategy",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-22",
-    "summary": "Research shows that 32% of buyers discover new B2B vendors using generative AI chatbots. This is why an answer engine optimization (AEO) strategy for B2B businesses is essential . AI-driven answer..."
-  },
-  {
-    "title": "What Claude Design is actually good for (and why Figma isn’t dead yet)",
-    "url": "https://www.lennysnewsletter.com/p/what-claude-design-is-actually-good",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-22",
-    "summary": "Watch now | 🎙️I built a landing page, slides, and an unhinged redesign to find out what Claude Design is actually good at—plus why GPT Image 2.0 might change how you create brand assets"
-  },
-  {
-    "title": "AI is approving our pull requests: Here’s how we made it safe",
-    "url": "https://www.intercom.com/blog/ai-is-approving-our-pull-requests-heres-how-we-made-it-safe/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-04-21",
-    "summary": "We're producing more code than ever at Intercom. Here's how we're safely using AI for PR approval."
-  },
-  {
-    "title": "The future of generative engine optimization: How 5 GEO trends reshape loop and inbound marketing",
-    "url": "https://blog.hubspot.com/marketing/future-of-geo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-21",
-    "summary": "​​GEO — or, as HubSpot refers to it, AEO — has found its place in the search landscape, and it’s reasonable to think that the future of generative engine optimization is guaranteed. According to..."
-  },
-  {
-    "title": "New: A free year of Cursor, Google AI Pro, Notion, Supabase, Gumloop, and Fin for subscribers",
-    "url": "https://www.lennysnewsletter.com/p/new-a-free-year-of-cursor-google",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-21",
-    "summary": "Now 25 incredible products totaling over $30,000 in value—free with your Lenny’s Newsletter subscription"
-  },
-  {
-    "title": "8 Ways to Elevate Your Brand as a Creator or Entrepreneur (& Close the Pay Gap)",
-    "url": "https://blog.hubspot.com/marketing/grow-your-personal-brand-minority-creator",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-17",
-    "summary": "While many are still skeptical, the global creator economy is expected to reach $1.18 trillion USD by 2032 . And for minority creators and entrepreneurs from underrepresented groups, this moment is..."
-  },
-  {
-    "title": "The hardest percentages",
-    "url": "https://www.intercom.com/blog/the-hardest-percentages/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-04-14",
-    "summary": "Solving your customers' most challenging problems is what your support team exists for. With Procedures, Fin can do this too."
-  },
-  {
-    "title": "Answer engine optimization case studies that prove the ROI of AEO in 2026",
-    "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-case-studies",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "Answer engines are already influencing how buyers discover brands — and the results are measurable. According to the 2026 HubSpot State of Marketing report, 58% of marketers say visitors referred by..."
-  },
-  {
-    "title": "AEO vs. GEO explained: What marketers need to know now",
-    "url": "https://blog.hubspot.com/marketing/aeo-vs-geo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "Marketers use AEO and GEO interchangeably, but there is a difference, and that’s what will be defined and explained in this article. In brief, AEO optimizes content for answer boxes and voice search..."
-  },
-  {
-    "title": "SEO audits: How to conduct one that drives traffic growth [+ checklist]",
-    "url": "https://blog.hubspot.com/marketing/seo-audit",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-14",
-    "summary": "At its core, an SEO audit is a step-by-step review of your website’s technical health, content quality, and search visibility. An SEO audit identifies technical, on-page, content, and link issues on..."
   }
 ]
