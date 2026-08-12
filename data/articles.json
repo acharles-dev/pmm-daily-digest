@@ -1,5 +1,85 @@
 [
   {
+    "title": "Trust is the product: 5 lessons I learned leading product marketing in banking",
+    "url": "https://www.productmarketingalliance.com/leading-product-marketing-in-banking/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-12",
+    "summary": "Learn 5 essential lessons on building buyer trust, driving loyalty, and navigating modern product marketing in an AI-driven landscape."
+  },
+  {
+    "title": "Top B2B SEO tools that actually grow your pipeline in 2026",
+    "url": "https://blog.hubspot.com/marketing/b2b-seo-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-12",
+    "summary": "The bar for B2B SEO tools has shifted. SEO strategy is no longer just about ranking on page one, because buyers are increasingly discovering vendors through AI-generated answers . A strong Google..."
+  },
+  {
+    "title": "AI search visibility ROI: How to measure what matters (& ignore what doesn’t)",
+    "url": "https://blog.hubspot.com/marketing/ai-search-visibility-roi",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-12",
+    "summary": "As long as there has been commerce, there have been questions. First, those questions were only for salespeople. Then, it was search engines. Now, AI has been thrown into the mix. But how do you know..."
+  },
+  {
+    "title": "Beware the “Mediocre Recycled.” The Zombie Executives of B2B + AI.",
+    "url": "https://www.saastr.com/beware-the-mediocre-recycled-the-zombie-executives-of-b2b-ai/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-12",
+    "summary": "So I wrote a version of this post a while back, and it struck a chord. A lot of founders reached out and said some version of “I just hired one of these.” Or worse, “I’ve hired three.” But I’m..."
+  },
+  {
+    "title": "The AI security and privacy checklist every PMM needs before their next prompt",
+    "url": "https://www.productmarketingalliance.com/the-ai-security-and-privacy-checklist/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-11",
+    "summary": "A practical AI security and privacy checklist for product marketers: what never belongs in a prompt, how to vet a tool, and where team policy usually breaks down."
+  },
+  {
+    "title": "Operationalizing AI to scale strategy and execution",
+    "url": "https://www.productmarketingalliance.com/operationalizing-ai-to-scale-strategy-and-execution/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-11",
+    "summary": "Learn why using AI to save time isn't the same as using it to change how you work, and what it'll take to actually get there."
+  },
+  {
+    "title": "AI search performance KPIs every marketer should track",
+    "url": "https://blog.hubspot.com/marketing/ai-search-kpis",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-11",
+    "summary": "As long as I’ve been in marketing, people have warned against focusing on “ vanity metrics ,” or those flashy, high numbers that don’t translate to real results or profit. Fast forward a decade, I..."
+  },
+  {
+    "title": "5 Interesting Learnings from Palo Alto Networks at $11.4 Billion in Revenue: 60% ARR Growth, 120% NRR, and a $25B Acquisition That Doubled the Stock",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-palo-alto-networks-at-11-4-billion-in-revenue-60-arr-growth-120-nrr-and-a-25b-acquisition-that-doubled-the-stock/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-11",
+    "summary": "Palo Alto Networks is now a ~$265B market cap company. The stock is up roughly 100% over the past twelve months and hit an all-time high of $368.80 in July. What makes it interesting isn’t the run...."
+  },
+  {
+    "title": "Pylon’s Founders at SaaStr AI Day: A 1,000-Person Support Team Deflected 50% of Its Tickets. Headcount Didn’t Change.",
+    "url": "https://www.saastr.com/pylons-founders-at-saastr-ai-day-a-1000-person-support-team-deflected-50-of-its-tickets-headcount-didnt-change/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-11",
+    "summary": "Marty Kausas and Advith Chelikani on why deflection rate is the wrong numberin CX. And what they’re replacing it with, and what you should, too. Pylon closed out the latest SaaStr AI Day with the two..."
+  },
+  {
+    "title": "How to make people care about your startup",
+    "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-11",
+    "summary": "Three founder archetypes—and how to turn your origin story into a communications strategy"
+  },
+  {
     "title": "B2B campaign tracker template",
     "url": "https://www.productmarketingalliance.com/b2b-campaign-tracker-template-framework/",
     "source": "pma",
@@ -38,6 +118,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-08-10",
     "summary": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email"
+  },
+  {
+    "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-10",
+    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
   },
   {
     "title": "Atlassian Just Deleted Loom’s Free Creator Seats. They Were Also Loom’s Distribution.",
@@ -3910,93 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-04-28",
     "summary": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As AI-powered search engines like ChatGPT, Google AI Overviews, and Perplexity handle a growing..."
-  },
-  {
-    "title": "Your Couch-to-5K for AI",
-    "url": "https://www.lennysnewsletter.com/p/your-couch-to-5k-for-ai",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-28",
-    "summary": "A step-by-step guide to building an AI habit that sticks"
-  },
-  {
-    "title": "Answer engine optimization vs. traditional SEO: What marketers need to know",
-    "url": "https://blog.hubspot.com/marketing/aeo-vs-seo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-27",
-    "summary": "Understanding answer engine optimization (AEO) vs. traditional SEO has become mission-critical for content managers and marketing leaders as search shifts toward AI-generated responses, voice..."
-  },
-  {
-    "title": "AI visibility score: How to summarize your AI visibility",
-    "url": "https://blog.hubspot.com/marketing/ai-visibility-score",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-27",
-    "summary": "Your brand’s AI visibility score covers the part of the search landscape that traditional SEO rank tracking can’t see. Tracking it is becoming as essential as monitoring Google rankings — and a lot..."
-  },
-  {
-    "title": "Best practices for answer engine optimization (AEO) marketing teams can't ignore",
-    "url": "https://blog.hubspot.com/marketing/answer-engine-optimization-best-practices",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-27",
-    "summary": "Search behavior has changed dramatically, and teams need to learn answer engine optimization (AEO) best practices to keep up. While traditional search engines still dominate, people increasingly turn..."
-  },
-  {
-    "title": "How to Optimize Content for ChatGPT: An AI Discovery Guide",
-    "url": "https://blog.hubspot.com/marketing/how-to-optimize-content-for-chatgpt",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-27",
-    "summary": "A lot is going on in search today. Google still reigns supreme, but the competition and evolution coming from AI alternatives have many marketers wondering how to optimize for ChatGPT."
-  },
-  {
-    "title": "🎙️ This week on How I AI: GPT 5.5, Claude Design, and GPT Images 2.0 hands-on reviews—plus an inside look at Memelord",
-    "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-gpt-55-claude",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-27",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
-  },
-  {
-    "title": "From a $6.90 newsletter to $3M API: How a non-coder built Memelord | Jason Levin",
-    "url": "https://www.lennysnewsletter.com/p/from-a-690-newsletter-to-3m-api-how",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-27",
-    "summary": "Listen now | 🎙️Jason Levin (CEO of Memelord) shows how he built a $100K ARR meme company without coding—plus why every marketer should vibe code and how agents are becoming his primary users"
-  },
-  {
-    "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
-    "url": "https://www.lennysnewsletter.com/p/snapchat-ceo-why-distribution-is",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-26",
-    "summary": "Listen now | Snap's co-founder on why only two consumer apps broke through in 15 years, how every major Snapchat feature was cloned, why hardware is the only real moat, and why distribution beats..."
-  },
-  {
-    "title": "🧠 Community Wisdom: What great product leaders do differently, Claude vs. ChatGPT, receiving hard feedback two weeks into the job, tips for joining a pre-PMF startup, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-great-product",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-04-25",
-    "summary": "Community Wisdom 182"
-  },
-  {
-    "title": "AI citation tracking: How to track (and grow) AI engine citations",
-    "url": "https://blog.hubspot.com/marketing/ai-citation-tracking",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-24",
-    "summary": "AI search engine citation tracking helps measure brand visibility and authority in AI-powered search results. As AI-powered search experiences reshape how people discover information, evaluate..."
-  },
-  {
-    "title": "Introducing the Sales Agent Blueprint",
-    "url": "https://www.intercom.com/blog/introducing-the-sales-agent-blueprint/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-04-23",
-    "summary": "Today we’re announcing The Sales Agent Blueprint, a map for launching and scaling AI for sales with confidence."
   }
 ]
