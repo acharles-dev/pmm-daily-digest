@@ -1,5 +1,109 @@
 [
   {
+    "title": "Gamma’s CEO: Why Getting to $100M ARR Without A Sales Team Worked. And Why It Was a Mistake.",
+    "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-15",
+    "summary": "Gamma crossed $100M ARR with 50 employees. Profitably. 50 million users. 600,000 paying subscribers. For most of that run, no sales team at all. That works out to $2M in ARR per employee, at a price..."
+  },
+  {
+    "title": "How Stefan Gladbach, Senior PMM at Pushpay, stopped writing for his boss and started writing for the buyer",
+    "url": "https://www.productmarketingalliance.com/stop-writing-for-your-boss-start-writing-for-the-buyer/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-14",
+    "summary": "Win the room, then win the buyer, every single time."
+  },
+  {
+    "title": "Pardot alternatives: What B2B marketers are choosing now",
+    "url": "https://blog.hubspot.com/marketing/pardot-alternatives",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-14",
+    "summary": "Seventy percent of marketers believe the marketing industry has changed more in the past three years than in the past 50 . That means that marketing automation platforms need to change, too. Pardot..."
+  },
+  {
+    "title": "Klaviyo’s CEO on Building at $1.5B With Agents: “Dark Factory,” Composer, and Why Every Single Employee Had to Hit L3 by June",
+    "url": "https://www.saastr.com/klaviyos-ceo-on-building-at-1-5b-with-agents-dark-factory-composer-and-why-every-single-employee-had-to-hit-l3-by-june/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-14",
+    "summary": "Klaviyo co-founder and co-CEO Andrew Bialecki came to SaaStr AI to walk through how a 2,300-person public company builds AI products. Not the vision deck. The actual build system. Klaviyo won B2B for..."
+  },
+  {
+    "title": "Databricks Just Crossed $7B ARR Growing 80% (!): A 30-Point Acceleration, a $190B Valuation, and the Margin Bill for Agents",
+    "url": "https://www.saastr.com/databricks-just-crossed-7b-arr-growing-80-a-30-point-acceleration-a-190b-valuation-and-the-margin-bill-for-agents/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-14",
+    "summary": "This is almost unprecedented in B2B software Databricks just announced it crossed a $7 billion revenue run-rate in Q2, growing more than 80% year over year, and closed a $5 billion strategic round at..."
+  },
+  {
+    "title": "What is positioning? Market, product, and brand positioning explained",
+    "url": "https://www.productmarketingalliance.com/your-guide-to-positioning/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-13",
+    "summary": "A market positioning strategy is a set of actions and processes that are designed to improve the image and visibility of a brand, company, or product."
+  },
+  {
+    "title": "Announcing Evals and Releases: Evaluate Fin before, during, and after you go live",
+    "url": "https://www.intercom.com/blog/announcing-evals-and-releases/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-08-13",
+    "summary": "Providing a complete evaluation system for Fin, you can now test changes before they go live, roll them out with control, evaluate every live conversation, and have confidence in the experience Fin..."
+  },
+  {
+    "title": "HubSpot AEO vs. Profound: Features, pricing, and use cases",
+    "url": "https://blog.hubspot.com/marketing/hubspot-vs-profound",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-13",
+    "summary": "HubSpot AEO vs. Profound is a comparison between two answer engine optimization tools that take different approaches to AI search visibility. HubSpot AEO tracks how a brand appears in AI-generated..."
+  },
+  {
+    "title": "Ahrefs Brand Radar alternatives for marketing teams",
+    "url": "https://blog.hubspot.com/marketing/ahrefs-brand-radar-alternatives",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-13",
+    "summary": "G2’s 2026 Answer Economy research found that 51% of B2B software buyers start their research with an AI chatbot more often than Google. That shift means marketing teams need to track not only..."
+  },
+  {
+    "title": "Scrunch AI alternatives compared: Features, pricing, and fit [2026]",
+    "url": "https://blog.hubspot.com/marketing/scrunch-alternatives",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-13",
+    "summary": "If you’re comparing Scrunch alternatives, start by separating monitoring from execution. Monitoring tools show how brands appear in AI-generated answers. Optimization tools add recommendations,..."
+  },
+  {
+    "title": "Canva Cuts 2026 Growth by a Third, Jeff Dean Walks Out of Google, and Elon Builds His Own Fab: 20VC x SaaStr",
+    "url": "https://www.saastr.com/canva-cuts-2026-growth-by-a-third-jeff-dean-walks-out-of-google-and-elon-builds-his-own-fab-20vc-x-saastr/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-13",
+    "summary": "The week the “AI is just a feature we’ll add” argument stopped working, and three pay bands replaced two. This week on 20VC x SaaStr with Harry Stebbings, Jason Lemkin and Rory O’Driscoll, we started..."
+  },
+  {
+    "title": "B2B For Physical Products Is Crushing It: Shopify +34%, Toast +23%, Samsara +30%",
+    "url": "https://www.saastr.com/b2b-for-physical-products-is-crushing-it-shopify-34-toast-23/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-13",
+    "summary": "AI is beating down many public software companies. But not many of the leaders servicing the physical world. Some is that they don’t tie pricing models primarily to seats. But it isn’t only the..."
+  },
+  {
+    "title": "Dear SaaStr: At What ACV Size Do I Need an Account Manager in B2B?",
+    "url": "https://www.saastr.com/dear-saastr-at-what-acv-size-do-i-need-an-account-manager-in-b2b/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-13",
+    "summary": "Dear SaaStr: At What ACV Size Do I Need an Account Manager in B2B? There’s no hard rule, but here’s what the data shows: Below $8K-$10K ACV: You can’t afford dedicated account managers. You need to..."
+  },
+  {
     "title": "Trust is the product: 5 lessons I learned leading product marketing in banking",
     "url": "https://www.productmarketingalliance.com/leading-product-marketing-in-banking/",
     "source": "pma",
@@ -3894,109 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-02",
     "summary": "Community Wisdom 184"
-  },
-  {
-    "title": "AEO prompt tracking for marketing teams",
-    "url": "https://blog.hubspot.com/marketing/aeo-prompt-tracking",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-01",
-    "summary": "You already track and analyze your SEO strategy — keyword rankings, organic traffic, SERP positions. But when a prospect asks ChatGPT, Perplexity, or Google AI Overviews a buying question and your..."
-  },
-  {
-    "title": "AI is the answer to the sales growth-without-headcount problem",
-    "url": "https://www.intercom.com/blog/the-sales-growth-without-headcount-problem/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-04-28",
-    "summary": "Sales teams are asked to deliver more pipeline whether headcount follows or not. AI Agents are the first real answer to that constraint."
-  },
-  {
-    "title": "AEO Competitor Analysis: Track AI Answer Engine Rivals",
-    "url": "https://blog.hubspot.com/marketing/aeo-competitor-analysis",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "Every company’s competitors are showing up in AI-generated answers, but do marketers know which ones, for which queries, and why? That’s exactly what AEO competitor analysis is designed to tell teams."
-  },
-  {
-    "title": "Share of Voice Tools for Growing Companies",
-    "url": "https://blog.hubspot.com/marketing/share-of-voice-tools",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "When tracking share of voice for marketing teams, it’s often assumed to be a vanity metric — a number executives like to include in board decks but one that rarely influences strategy. In practice,..."
-  },
-  {
-    "title": "Zero-click searches and the future of your marketing funnel",
-    "url": "https://blog.hubspot.com/marketing/zero-click-searches",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "Search results used to be a doorway. A brand ranked, someone clicked, and they landed on a website. But today, that model is eroding faster than most marketing teams are equipped to move."
-  },
-  {
-    "title": "Free Answer Engine Optimization Tools to Benchmark LLM Visibility",
-    "url": "https://blog.hubspot.com/marketing/free-aeo-tool-benchmark",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "I’ve spent considerable time testing free answer engine optimization tools across dozens of brand audits, and the verdict is clear: you don’t need a five-figure tech stack to get meaningful AEO data."
-  },
-  {
-    "title": "How to do keyword research for AEO (+ Tools)",
-    "url": "https://blog.hubspot.com/marketing/keyword-research-tools-for-aeo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "When I first started auditing content for answer engine visibility, I assumed the keyword research process was roughly the same as traditional SEO — just with a few tweaks. I was wrong."
-  },
-  {
-    "title": "Is AI Killing Web Traffic? How AI Overviews Impact Organic Website Traffic",
-    "url": "https://blog.hubspot.com/marketing/is-ai-killing-web-traffic",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "Every few years, marketing headlines announce the demise of one foundational strategy or another. First, email, then blogging, then search engines. Now, with the rise of AI comes the question, “Is AI..."
-  },
-  {
-    "title": "15 Competitor Monitoring Tools Teams Actually Use (2026)",
-    "url": "https://blog.hubspot.com/marketing/competitor-monitoring-tools",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "Your competitors are adjusting pricing, launching new ad creative, publishing content that outranks yours, and showing up in AI answers you didn’t know existed — often all in the same week...."
-  },
-  {
-    "title": "How we Operate as an AI-first Company",
-    "url": "https://blog.hubspot.com/marketing/how-we-operate-as-an-ai-first-company",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "This is part three of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part two covers how we grow with Agent-first GTM."
-  },
-  {
-    "title": "How we Grow with Agent-first GTM",
-    "url": "https://blog.hubspot.com/marketing/how-we-grow-with-agent-first-gtm",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "This is part two of a three-part series on how HubSpot transformed with AI. Part one covers how we build with AI. Part three is how we operate as an AI-first company."
-  },
-  {
-    "title": "How we Build with AI",
-    "url": "https://blog.hubspot.com/marketing/how-we-build-with-ai",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "This is part one of a three-part series on how HubSpot transformed with AI. Part two covers how we grow with Agent-first GTM. Part three is how we operate as an AI-first company."
-  },
-  {
-    "title": "6 top answer engine optimization benefits for growth and enterprise marketers",
-    "url": "https://blog.hubspot.com/marketing/benefits-of-answer-engine-optimization",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-04-28",
-    "summary": "The AEO benefits that matter most to marketing leaders have shifted from theoretical to measurable. As AI-powered search engines like ChatGPT, Google AI Overviews, and Perplexity handle a growing..."
   }
 ]
