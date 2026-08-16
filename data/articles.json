@@ -1,11 +1,43 @@
 [
   {
+    "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
+    "url": "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-16",
+    "summary": "In sales orgs with extreme product market fit, tight processes, and substantial support … medicore sales reps can often hit 50%-90% of quota. Sometimes even more for stretches In sales orgs without..."
+  },
+  {
+    "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+    "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-16",
+    "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm"
+  },
+  {
     "title": "Gamma’s CEO: Why Getting to $100M ARR Without A Sales Team Worked. And Why It Was a Mistake.",
     "url": "https://www.saastr.com/gammas-ceo-why-getting-to-100m-arr-without-a-sales-team-worked-and-why-it-was-a-mistake/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-08-15",
     "summary": "Gamma crossed $100M ARR with 50 employees. Profitably. 50 million users. 600,000 paying subscribers. For most of that run, no sales team at all. That works out to $2M in ARR per employee, at a price..."
+  },
+  {
+    "title": "Dear SaaStr: What’s Your #1 Opener in Sales?",
+    "url": "https://www.saastr.com/dear-saastr-whats-your-1-opener-in-sales/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-15",
+    "summary": "Dear SaaStr: What’s Your #1 Opener in Sales? The best opener is sharing how a very similar company or a competitor uses your product — and the exact specific ROI that customer gets. Everyone wants to..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-15",
+    "summary": "Community Wisdom 197"
   },
   {
     "title": "How Stefan Gladbach, Senior PMM at Pushpay, stopped writing for his boss and started writing for the buyer",
@@ -3966,37 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-05-04",
     "summary": "As a content writer with over 7 years of SEO experience, I can confidently say that keyword clustering is a critical technique—even in a world where the SEO landscape has changed significantly."
-  },
-  {
-    "title": "🎙️ This week on How I AI: The internal AI tool that’s transforming how Stripe designs products",
-    "url": "https://www.lennysnewsletter.com/p/this-week-on-how-i-ai-the-internal",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-04",
-    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
-  },
-  {
-    "title": "The internal AI tool that’s transforming how Stripe designs products | Owen Williams",
-    "url": "https://www.lennysnewsletter.com/p/the-internal-ai-tool-thats-transforming",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-04",
-    "summary": "Watch now | 🎙️ Owen Williams (Stripe) shows how he vibe coded Protodash, the internal tool that turns Stripe’s design system into clickable prototypes in two minutes"
-  },
-  {
-    "title": "Why cultivating agency matters more than cultivating skills in the AI era | Max Schoening (Head of Product, Notion)",
-    "url": "https://www.lennysnewsletter.com/p/why-cultivating-agency-matters-more",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-03",
-    "summary": "Notion’s design and product lead on why agency beats skills in the AI era, why vibe coding made more software but not better software, and how Notion ships with “drive it like it’s stolen”"
-  },
-  {
-    "title": "🧠 Community Wisdom: Claude Code tips for ADHD users, resources for managing up, going from corporate to startup, tiring of being your company’s AI evangelist, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-claude-code-tips",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-02",
-    "summary": "Community Wisdom 184"
   }
 ]
