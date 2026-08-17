@@ -1,5 +1,37 @@
 [
   {
+    "title": "How to align release velocity to market impact",
+    "url": "https://www.productmarketingalliance.com/how-to-align-release-velocity-to-market-impact/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-17",
+    "summary": "Learn how product marketers can choose the right launch motion when AI accelerates product delivery."
+  },
+  {
+    "title": "CRM for insurance companies: What it does and why it matters",
+    "url": "https://blog.hubspot.com/marketing/crm-for-insurance-companies",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-17",
+    "summary": "Insurance is a business built on relationships, but agents can’t manage all their contacts and communications alone. A CRM for insurance companies helps agencies to manage customer relationships..."
+  },
+  {
+    "title": "Dear SaaStr: How Can I Become a Better VP of Sales?",
+    "url": "https://www.saastr.com/dear-saastr-how-can-i-become-a-better-vp-of-sales/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-17",
+    "summary": "Dear SaaStr: How Can I Become a Better VP of Sales? The hard truth: most VPs of Sales fail not because they can’t sell, but because they don’t understand what the job actually is. It’s not managing a..."
+  },
+  {
+    "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+    "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-17",
+    "summary": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo..."
+  },
+  {
     "title": "The 0% Quota Club (And Why the Same Mediocre Rep Hits 70% at One Company and 0% at Yours)",
     "url": "https://www.saastr.com/the-0-quota-club-and-why-the-same-mediocre-rep-hits-70-at-one-company-and-0-at-yours/",
     "source": "saastr",
@@ -14,6 +46,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-08-16",
     "summary": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm"
+  },
+  {
+    "title": "Jason’s Takes on This Week’s 20VC x SaaStr: The Agents Never Suggested Canva, The Meme You Can’t Outrun, and Why I Only Underwrite Founders Now",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-the-agents-never-suggested-canva-the-meme-you-cant-outrun-and-why-i-only-underwrite-founders-now/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-16",
+    "summary": "My cut on what Canva’s drop to 20% growth means if you’re running a pre-AI product, hiring against Anthropic, and holding a VC/investment mark you set in 2021. Canva cutting 2026 growth from 30% to..."
   },
   {
     "title": "Gamma’s CEO: Why Getting to $100M ARR Without A Sales Team Worked. And Why It Was a Mistake.",
@@ -3958,45 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-05-06",
     "summary": "Brand visibility determines whether your business gets found or gets passed over — in search results, on social feeds, and increasingly, in AI-generated answers. It’s one of the highest-leverage..."
-  },
-  {
-    "title": "Quests, token leaderboards, and a skills marketplace: The elite AI adoption playbook | John Kim (Sendbird)",
-    "url": "https://www.lennysnewsletter.com/p/quests-token-leaderboards-and-a-skills",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-06",
-    "summary": "Watch now | 🎙️Sendbird’s CEO turned AI adoption into a product, including quests, token tiers, and a marketing team that ships live swag stores in a day with zero engineers"
-  },
-  {
-    "title": "Product SEO: 8 Strategies That Drive Demand for B2B & SaaS",
-    "url": "https://blog.hubspot.com/marketing/product-seo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-05",
-    "summary": "Product SEO is one of the highest-leveraged — and most overlooked — strategies in B2B and SaaS marketing. While most teams pour resources into top-of-funnel content, the pages that actually drive..."
-  },
-  {
-    "title": "Why SaaS freemium playbooks don’t work in AI, and what to do instead",
-    "url": "https://www.lennysnewsletter.com/p/why-saas-freemium-playbooks-dont",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-05",
-    "summary": "How to build an AI monetization strategy that actually works"
-  },
-  {
-    "title": "Our Vision for Building an Open Ecosystem for the Agent Era",
-    "url": "https://blog.hubspot.com/marketing/our-vision-for-building-an-open-ecosystem-for-the-agent-era",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-04",
-    "summary": "For years, HubSpot invested in making our platform the best place for marketing, sales, and service teams to do their work. With AI, we’ve been building it to do the work for them – through agents..."
-  },
-  {
-    "title": "Keyword clustering: How to create a strategy for topic authority in 2026",
-    "url": "https://blog.hubspot.com/marketing/keyword-clustering",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-04",
-    "summary": "As a content writer with over 7 years of SEO experience, I can confidently say that keyword clustering is a critical technique—even in a world where the SEO landscape has changed significantly."
   }
 ]
