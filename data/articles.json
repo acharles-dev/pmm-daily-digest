@@ -1,11 +1,91 @@
 [
   {
+    "title": "Analyst Relations Summit Online | OnDemand, August 2026",
+    "url": "https://www.productmarketingalliance.com/analyst-relations-summit-online-ondemand-august-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-21",
+    "summary": "Catch up with all sessions from Analyst Relations Summit Online and hear from speakers at Datamatics, Camunda, and more."
+  },
+  {
+    "title": "Peec AI alternatives for AI visibility monitoring in 2026",
+    "url": "https://blog.hubspot.com/marketing/peec-ai-alternatives",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-21",
+    "summary": "Peec AI alternatives are AI visibility platforms that go beyond monitoring to help marketing teams close citation gaps, connect AI search data to CRM attribution, and run programs across multiple..."
+  },
+  {
+    "title": "Tech stack consolidation: The business case for unified systems & how to build them",
+    "url": "https://blog.hubspot.com/marketing/tech-stack-consolidation",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-21",
+    "summary": "Tech stack consolidation is the process of reducing the software tools your organization runs and standardizing work on a smaller, more integrated set of systems."
+  },
+  {
+    "title": "ServiceTitan Just Shut Off Podium’s Integration for ~1,000 Shared Customers. Why? Agents Turned a 9-Year Partner Into a Direct Competitor.",
+    "url": "https://www.saastr.com/servicetitan-just-shut-off-podiums-integration-for-1000-shared-customers-agents-turned-a-9-year-partner-into-a-direct-competitor/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-21",
+    "summary": "When a 9 year partnership … breaks down in the Agent Era. Podium co-founder and CEO Eric Rea posted last week that ServiceTitan gave roughly 1,000 shared customers about 30 days’ notice that the..."
+  },
+  {
+    "title": "Dear SaaStr: How Do You Build a Real Exit Strategy?",
+    "url": "https://www.saastr.com/build-relevant-exit-strategy/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-21",
+    "summary": "Dear SaaStr: How Do You Build a Real Exit Strategy? First, bear in mind acquisitions are relatively rare. The vast majority of startups will never get one strong acquisition offer. Still, it’s not..."
+  },
+  {
     "title": "Vertical B2B Leader Owner Acclerated After $100M ARR With Agents. The Key Insight: Every Time a Customer Logs In, Owner Has Failed.",
     "url": "https://www.saastr.com/vertical-b2b-leader-owner-acclerated-after-100m-arr-with-agents-the-key-insight-every-time-a-customer-logs-in-owner-has-failed/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-08-20",
     "summary": "Everyone agrees you have to build with AI now. That argument is over. The unsettled questions are what a product built on agents is supposed to measure, and what stops a foundation model from doing..."
+  },
+  {
+    "title": "PMM Powerhour: AI-powered data ecosystems",
+    "url": "https://www.productmarketingalliance.com/pmm-powerhour/ai-powered-ecosystems/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-20",
+    "summary": ""
+  },
+  {
+    "title": "AEO audit tools — the best options on the market",
+    "url": "https://blog.hubspot.com/marketing/aeo-audit-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-20",
+    "summary": "AEO audit tools have become essential for any team that needs to know whether answer engines are citing their brand, and whether those citations are accurate. While traditional SEO audits track..."
+  },
+  {
+    "title": "How to write a CRM RFP (with free template)",
+    "url": "https://blog.hubspot.com/marketing/crm-rfp",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-20",
+    "summary": "CRM buying decisions go sideways in a predictable way. Sales wants pipeline automation, IT wants an on-premise option, marketing wants native email, and finance wants to know why there’s a $200K line..."
+  },
+  {
+    "title": "Top 10 Mistakes I See New CROs and VP Sales Make The First Week on the Job",
+    "url": "https://www.saastr.com/top-10-mistakes-i-see-new-vp-of-sales-make-the-first-week-on-the-job/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-20",
+    "summary": "\"The top mistakes CROs make when they pick their next role: #1. Needing to be too passionate about the space#2. Don't do enough diligence on fit for their skills#3. Don't listen to enough calls..."
+  },
+  {
+    "title": "Dear SaaStr: Can A Great Sales Rep Sell Any Product?",
+    "url": "https://www.saastr.com/can-a-good-salesman-sell-anything/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-20",
+    "summary": "Dear SaaStr: Can A Great Sales Rep Sell Any B2B Product? No. Not really in software. At least not well. Although many think they can. Too many. The very, very best in SaaS that are truly curious can..."
   },
   {
     "title": "Your roadmap is not a feature list: A two-level slicing framework for better release planning",
@@ -3918,85 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-13",
     "summary": "We’re hiring a hands-on, driven human marketing exec who loves AI and loves running campaigns. To report directly to our AI VP Marketing, 10K. \"We're hiring for a Director of Digital Marketing. 6..."
-  },
-  {
-    "title": "Two AI VPs for $257. A Website Became Our 21st Agent. Killed a $4K SaaS App in 60 Minutes: The Agents #005 Is Out!!",
-    "url": "https://www.saastr.com/two-ai-vps-for-257-a-website-became-our-21st-agent-killed-a-4k-saas-app-in-60-minutes-the-agents-005-is-out/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-13",
-    "summary": "Amelia and I just shipped Episode #005 of The Agents. Same setup as always: three humans, 21+ agents, revenue went from -19% to +47% YoY, and every week we talk about what’s actually working, what’s..."
-  },
-  {
-    "title": "Where do product marketing leaders go next?",
-    "url": "https://www.productmarketingalliance.com/where-do-product-marketing-leaders-go-next/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-12",
-    "summary": "Senior PMMs have more career paths than ever, from CMO to fractional work. Here's how the best leaders are choosing what comes next."
-  },
-  {
-    "title": "Today Intercom becomes Fin",
-    "url": "https://www.intercom.com/blog/today-intercom-becomes-fin/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-12",
-    "summary": "We're changing the name of our company to Fin. Intercom will live on as our customer service software platform, but Fin is our future."
-  },
-  {
-    "title": "Who’s Winning Enterprise AI Now: Claude Up 128%, Gemini Up 48%, OpenAI Down 8%, Grok Still A Rounding Error",
-    "url": "https://www.saastr.com/whos-winning-enterprise-ai-now-claude-up-128-gemini-up-48-openai-down-8-grok-still-a-rounding-error/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-12",
-    "summary": "New Enterprise Technology Research data, reported by the Wall Street Journal today, shows how enterprise AI adoption has shifted over the past twelve months. The percentage of enterprises currently..."
-  },
-  {
-    "title": "The #1 Way to Win as a GTM Exec in the Age of AI: Be a True Product Guru. Know Your Space 10x Better Than Any Customer.",
-    "url": "https://www.saastr.com/the-1-way-to-win-as-a-gtm-exec-in-the-age-of-ai-be-a-true-product-guru-know-your-space-10x-better-than-any-customer/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-12",
-    "summary": "It’s not enough to be a “people person” anymore. Not even close. Here’s a test I want every sales leader to try right now: Upload your company’s pitch deck, product documentation, and competitive..."
-  },
-  {
-    "title": "4 strategies for PMM and CS to drive sustained active use",
-    "url": "https://www.productmarketingalliance.com/4-strategies-for-pmm-and-cs-to-drive-sustained-active-use/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-11",
-    "summary": "Learn 4 proven strategies for PMM and customer success to partner, drive post-sale engagement, and guarantee sustained SaaS active use."
-  },
-  {
-    "title": "🎙️ How I AI: Quests, token leaderboards, and the elite AI adoption playbook & Notion’s spec-driven development",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-quests-token-leaderboards",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-11",
-    "summary": "Your weekly listens from How I AI, part of the Lenny's Podcast Network"
-  },
-  {
-    "title": "Spec-driven development: The AI engineering workflow at Notion | Ryan Nystrom",
-    "url": "https://www.lennysnewsletter.com/p/spec-driven-development-the-ai-engineering",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-11",
-    "summary": "Watch now | 🎙 Ryan Nystrom (Notion) shows how to automate standups, ship PRs from a single comment, and use spec-first development so agents do the coding while you do the thinking"
-  },
-  {
-    "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
-    "url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-10",
-    "summary": "Listen now | The Lean Startup author on why most mission-driven companies are just mission-“hopeful,” why only 20% of founders remain CEO three years post-IPO, and the Delaware filing every founder..."
-  },
-  {
-    "title": "🧠 Community Wisdom: What to do when non-PMs start shipping directly to production, thoughts on Claude Code’s pricing A/B test, the use of gen AI in games, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-what-to-do-when",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-09",
-    "summary": "Community Wisdom 185"
   }
 ]
