@@ -1,5 +1,21 @@
 [
   {
+    "title": "The 3 New Pricing Models in B2B. Pick One, Because The Old One (Just Seats) Really is Dying",
+    "url": "https://www.saastr.com/the-3-new-pricing-models-in-b2b-pick-one-because-the-old-one-just-seats-is-dying/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-25",
+    "summary": "Henry Schuck, CEO of ZoomInfo, posted his read on where B2B pricing is going. His summary, after talking to the world’s most expensive consultants and hundreds of his own customers: nobody knows. Not..."
+  },
+  {
+    "title": "How to figure out your next career move",
+    "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-25",
+    "summary": "Six essential questions to help you navigate change"
+  },
+  {
     "title": "Using Claude Skills, M365 Copilot, and Gemini Gem in product marketing and product management",
     "url": "https://www.productmarketingalliance.com/using-claude-skills-m365-copilot-and-gemini-gem-in-product-marketing-and-product-management/",
     "source": "pma",
@@ -22,6 +38,30 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-08-24",
     "summary": "Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight"
+  },
+  {
+    "title": "Product Marketing Summit | Brazil, 2026",
+    "url": "https://www.productmarketingalliance.com/product-marketing-summit-brazil-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-24",
+    "summary": "Catch up on all sessions from Product Marketing Summit Brazil with insights from Oracle, Meta, Nubank, Afya, and more."
+  },
+  {
+    "title": "Dear SaaStr: How Long is a Venture Round Supposed to Last?",
+    "url": "https://www.saastr.com/how-long-is-each-venture-funding-supposed-to-last-for-the-company-being-funded/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-24",
+    "summary": "Dear SaaStr: How Long is a Venture Round Supposed to Last? I think like many venture axioms, founders get often get bad advice here out of good solid rules. The classic rule was “18-24 months”. In..."
+  },
+  {
+    "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-24",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "Stripe Buys OpenRouter for $7B, Anthropic Turns Its First Profit, and Silver Lake Circles Workday at $43B: 20VC x SaaStr",
@@ -3958,45 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-17",
     "summary": "We just wrapped SaaStr AI Annual 2026, and the closing Q&A on Day 3 ended up being one of the most engaged of the whole gathering. No script, no prepared deck, just an hour-and-a-half of questions..."
-  },
-  {
-    "title": "Our AI VP of Marketing Updates Our Revenue Forecasts in Real Time, Without Bias. That Alone is Magical.",
-    "url": "https://www.saastr.com/magicalforecastai/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-16",
-    "summary": "If you haven’t heard of 10K: it’s our AI VP of Marketing at SaaStr, built on Replit. We tried to buy something that did what we needed — an AI agent that could actually orchestrate marketing, not..."
-  },
-  {
-    "title": "🧠 Community Wisdom: Screening AI slop in hiring, Wispr Flow alternatives for voice transcription, multi-agent pipeline vs. MCP, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-screening-ai-slop",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-16",
-    "summary": "Community Wisdom 185"
-  },
-  {
-    "title": "Why AI is making your VOC program worse",
-    "url": "https://www.productmarketingalliance.com/why-ai-is-making-your-voc-program-worse/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-15",
-    "summary": "Customers are constantly sending you signals – are you set up to receive them?"
-  },
-  {
-    "title": "Operator: A look under the hood",
-    "url": "https://www.intercom.com/blog/operator-a-look-under-the-hood/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-15",
-    "summary": "Operator is a powerful Agent that helps you manage, optimize, and continuously improve your AI-first support organization. Here's more insight into how we built it."
-  },
-  {
-    "title": "Meet Operator: An Agent for your customer operations",
-    "url": "https://www.intercom.com/blog/introducing-operator/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-15",
-    "summary": "Learn how Operator can help you understand, manage, and improve your customer experience in a way that has never been possible before."
   }
 ]
