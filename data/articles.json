@@ -1,5 +1,13 @@
 [
   {
+    "title": "Only 7 Public B2B Companies Are Growing Over 30%. In the AI-Native Cohort, That Would Be Last Place",
+    "url": "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-27",
+    "summary": "Seven public B2B software companies are growing faster than 30%. Here they are, most recently reported quarter, straight from the earnings releases. Annualized is that quarter’s revenue times four...."
+  },
+  {
     "title": "The PMM's honest guide to buying AI tools: What to evaluate, what to ignore",
     "url": "https://www.productmarketingalliance.com/the-pmms-honest-guide-to-buying-ai-tools-what-to-evaluate-what-to-ignore/",
     "source": "pma",
@@ -14,6 +22,22 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-08-26",
     "summary": "Adobe Marketo Engage has long been the go-to for enterprise demand generation teams. But over the past few years, a growing number of marketing operations leaders have started asking a harder..."
+  },
+  {
+    "title": "A Quiet Salute to the CEOs Still Rebuilding for the Age of AI. Most Are Maybe 40% Of The Way There.",
+    "url": "https://www.saastr.com/a-quiet-salute-to-the-ceos-still-rebuilding-for-the-age-of-ai-most-are-maybe-40-there/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-26",
+    "summary": "The CEOs I have the most respect for today? The ones truly rebuilding their companies for the Age of AI. Not just sort of, kind of, doing so. Not the ones who shipped AI features and put them on the..."
+  },
+  {
+    "title": "5 Interesting Learnings from Box at $1.29 Billion in Revenue: 17% Billings Growth, 106% NRR, and 20 Basis Points of AI Margin Cost",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-box-at-1-29-billion-in-revenue-17-billings-growth-106-nrr-and-20-basis-points-of-ai-margin-cost/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-26",
+    "summary": "Box reported Q2 FY27 and saw real if modest acceleration: Revenue of $321.1 million, up 9% and up 11% in constant currency. Non-GAAP operating margin of 29.4%. Non-GAAP EPS of $0.40 against a $0.39..."
   },
   {
     "title": "The 3 New Pricing Models in B2B. Pick One, Because The Old One (Just Seats) Really is Dying",
@@ -3974,29 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-18",
     "summary": "We just pulled the last 28 days data from Google Analytics on SaaStr.com and SaaStr.ai and compared it to the same window in 2025. The story is pretty clear. AI is on fire, and it’s pulling..."
-  },
-  {
-    "title": "HTML is the new Markdown: How Anthropic engineers are building with Claude Code | Thariq Shihipar",
-    "url": "https://www.lennysnewsletter.com/p/html-is-the-new-markdown-how-anthropic",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-18",
-    "summary": "Watch now | 🎙️ Anthropic's Claude Code engineer on why HTML replaced markdown, building micro-apps for spec editing, living design systems, and becoming a \"compute allocator\""
-  },
-  {
-    "title": "🎙️ How I AI: HTML is the new Markdown: How Anthropic engineers are building with Claude Code",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-html-is-the-new-markdown",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-18",
-    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
-  },
-  {
-    "title": "When Growth Slows, Is It Sales’ Fault or the Product’s Fault? The Answer Has Changed.",
-    "url": "https://www.saastr.com/when-growth-slows-is-it-sales-fault-or-the-products-fault-the-answer-has-changed/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-17",
-    "summary": "This has led to office fights, drama, accusations, finger pointing, and more since the dawn of B2B software. Growth decelerates. The board asks tough questions. And then the blame game starts. The VP..."
   }
 ]
