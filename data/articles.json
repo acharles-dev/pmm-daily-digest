@@ -1,11 +1,51 @@
 [
   {
+    "title": "How Jennifer Dewey, Senior Director of PMM at Thumbtack, built a system that drives retention and expansion",
+    "url": "https://www.productmarketingalliance.com/how-pmms-build-a-system-that-drives-retention-and-expansion/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-28",
+    "summary": "A practical playbook for turning new signups into loyal users."
+  },
+  {
+    "title": "AEO mentions vs. citations: Key differences explained",
+    "url": "https://blog.hubspot.com/marketing/aeo-mentions-vs-citations",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-08-28",
+    "summary": "If you’ve been tracking your brand’s presence in AI-generated answers, you’ve probably noticed something confusing: your brand name sho ws up all the time, but that traffic isn’t materializing. The..."
+  },
+  {
+    "title": "50% of the Work Created in Linear Is Now Created by Agents. A Year Ago It Was 3%.",
+    "url": "https://www.saastr.com/50-of-the-work-created-in-linear-is-now-created-by-agents-a-year-ago-it-was-3/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-28",
+    "summary": "Linear published its tender offer news this week: $99 million of secondary at a $2.5 billion valuation, up from $1.25 billion at the Series C last year. Accel and 01A participated, with Salesforce..."
+  },
+  {
     "title": "Only 7 Public B2B Companies Are Growing Over 30%. In the AI-Native Cohort, That Would Be Last Place",
     "url": "https://www.saastr.com/only-7-public-b2b-companies-are-growing-over-30-in-the-ai-native-cohort-that-would-be-last-place/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-08-27",
     "summary": "Seven public B2B software companies are growing faster than 30%. Here they are, most recently reported quarter, straight from the earnings releases. Annualized is that quarter’s revenue times four...."
+  },
+  {
+    "title": "20VC x SaaStr: Nvidia Pays $6B for Poolside’s Model Factory, OpenAI Has to Go Public in 2027, and Why $9B No Longer Clears the Bar for Seed",
+    "url": "https://www.saastr.com/20vc-x-saastr-nvidia-pays-6b-for-poolsides-model-factory-openai-has-to-go-public-in-2027-and-why-9b-no-longer-clears-the-bar-for-seed/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-27",
+    "summary": "Harry Stebbings, Rory O’Driscoll and I went through Nvidia’s ecosystem spending spree, OpenAI’s move from number one to number two, and what happens to CFO budgets when your best people are addicted..."
+  },
+  {
+    "title": "Dear SaaStr: What Are Some Signs That Your B2B Marketing Programs Won’t Scale Well?",
+    "url": "https://www.saastr.com/what-are-some-signs-that-your-saas-marketing-programs-wont-scale-well/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-27",
+    "summary": "Dear SaaStr: What Are Some Signs That Your B2B Marketing Programs Won’t Scale Well? The #1 flag your marketing efforts aren’t working is that you are spending too much — but importantly, in the..."
   },
   {
     "title": "The PMM's honest guide to buying AI tools: What to evaluate, what to ignore",
@@ -3958,45 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-19",
     "summary": "September 10th in San Francisco. Applications are now open."
-  },
-  {
-    "title": "The 3 gaps that are quietly sabotaging your product launches",
-    "url": "https://www.productmarketingalliance.com/3-gaps-quietly-sabotaging-your-product-launches/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-18",
-    "summary": "GTM execution fails due to three trust gaps: Clarity, Credibility, and Commitment. Learn the AAA Model (Awareness, Alignment, Action) to diagnose, fix, and launch successfully."
-  },
-  {
-    "title": "Agents can do the work",
-    "url": "https://www.intercom.com/blog/agents-can-do-the-work/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-18",
-    "summary": "Agents today are more capable than ever. When businesses struggle to deploy them, it's a reflection of organizational readiness."
-  },
-  {
-    "title": "Brand mentions: How to track and measure visibility",
-    "url": "https://blog.hubspot.com/marketing/brand-mentions",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-18",
-    "summary": "Brand mentions aren’t a new concept, but answer engine optimization (AEO) is giving them a different weight. Brand mentions are any online reference to your brand, product, spokesperson, or company..."
-  },
-  {
-    "title": "Tired vs. Wired: $4 Trillion in IPOs Coming, $100B in M&A, Vibing Isn’t Killing Salesforce After All, and Why the B2B Doomers Were Dead Wrong (Mostly)",
-    "url": "https://www.saastr.com/tired-vs-wired-4-trillion-in-ipos-coming-100b-in-ma-vibing-isnt-killing-salesforce-after-all-and-why-the-b2b-doomers-were-dead-wrong-mostly/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-18",
-    "summary": "I put this chart together for my SaaStr AI Annual opener last week. Of the 5 things we kept hearing through 2025 and through Q1 2026, and what we’re actually seeing now that the agents have shipped..."
-  },
-  {
-    "title": "AI Is On Fire. And So Every Single B2B Traffic Channel Is Up YoY for SaaStr AI. Even SEO is Up +42%",
-    "url": "https://www.saastr.com/ai-is-on-fire-and-so-every-single-b2b-traffic-channel-is-up-yoy-for-saastr-ai/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-18",
-    "summary": "We just pulled the last 28 days data from Google Analytics on SaaStr.com and SaaStr.ai and compared it to the same window in 2025. The story is pretty clear. AI is on fire, and it’s pulling..."
   }
 ]
