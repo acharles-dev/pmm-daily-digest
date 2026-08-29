@@ -1,5 +1,13 @@
 [
   {
+    "title": "Rule of 40 Is Half Dead: Growth Is All That Matters, Margins Above 25% Don’t Help, and Category Beats Both. The Latest From Kroll",
+    "url": "https://www.saastr.com/rule-of-40-is-half-dead-growth-is-all-that-matters-margins-above-25-dont-help-and-category-beats-both-the-latest-from-kroll/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-29",
+    "summary": "Kroll published its Summer 2026 Global Software Sector Update, covering software M&A and public comps through June 30, 2026. It’s 20 pages of deal data with a lot of detail on what the market..."
+  },
+  {
     "title": "How Jennifer Dewey, Senior Director of PMM at Thumbtack, built a system that drives retention and expansion",
     "url": "https://www.productmarketingalliance.com/how-pmms-build-a-system-that-drives-retention-and-expansion/",
     "source": "pma",
@@ -22,6 +30,14 @@
     "source_name": "SaaStr",
     "date": "2026-08-28",
     "summary": "Linear published its tender offer news this week: $99 million of secondary at a $2.5 billion valuation, up from $1.25 billion at the Series C last year. Accel and 01A participated, with Salesforce..."
+  },
+  {
+    "title": "When Agents Take Over the System of Record: 40GB Nobody Typed, a Renewal Agent Built in Half a Day, and Why Our Agents Love Clay: The Agents #013",
+    "url": "https://www.saastr.com/when-agents-take-over-the-system-of-record-40gb-nobody-typed-a-renewal-agent-built-in-half-a-day-and-why-our-agents-love-clay-the-agents-013/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-28",
+    "summary": "Episode #013 of The Agents is here! Same setup as always: three humans, 20+ agents in production, an 8-figure B2B + AI business. This week was about what happens when agents take over the system of..."
   },
   {
     "title": "Only 7 Public B2B Companies Are Growing Over 30%. In the AI-Native Cohort, That Would Be Last Place",
@@ -3982,21 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-19",
     "summary": "Live now: saastr.ai/api-report-card When we shipped the AI Agent API Report Card a few weeks ago, we had 75 B2B APIs graded and a hunch this was a tool builders had been quietly waiting for. A few..."
-  },
-  {
-    "title": "Ready for your busiest day: How we scale",
-    "url": "https://www.intercom.com/blog/ready-for-your-busiest-day-how-we-scale/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-19",
-    "summary": "Every system has limits. Competence is knowing where they are, measuring them, and moving them before customers reach them. Here's how we do this at Fin."
-  },
-  {
-    "title": "The Lenny and Friends Summit is back!",
-    "url": "https://www.lennysnewsletter.com/p/the-lenny-and-friends-summit-is-back",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-19",
-    "summary": "September 10th in San Francisco. Applications are now open."
   }
 ]
