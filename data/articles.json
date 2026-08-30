@@ -1,11 +1,35 @@
 [
   {
+    "title": "Owner.com Did an AI Rebuild to Accelerate Past $100M ARR. The 7 Top Lessons, and What It Takes to Copy Them",
+    "url": "https://www.saastr.com/owner-com-did-an-ai-rebuild-to-accelerate-past-100m-arr-6-lessons-and-what-it-costs-to-apply-them/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-30",
+    "summary": "Their own customer research said restaurant owners feared AI. It was three months old and completely wrong Adam Guild CEO of Owner.com gave one of the more useful operator talks at SaaStr AI 2026..."
+  },
+  {
+    "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+    "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-30",
+    "summary": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to..."
+  },
+  {
     "title": "Rule of 40 Is Half Dead: Growth Is All That Matters, Margins Above 25% Don’t Help, and Category Beats Both. The Latest From Kroll",
     "url": "https://www.saastr.com/rule-of-40-is-half-dead-growth-is-all-that-matters-margins-above-25-dont-help-and-category-beats-both-the-latest-from-kroll/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-08-29",
     "summary": "Kroll published its Summer 2026 Global Software Sector Update, covering software M&A and public comps through June 30, 2026. It’s 20 pages of deal data with a lot of detail on what the market..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-29",
+    "summary": "Community Wisdom 199"
   },
   {
     "title": "How Jennifer Dewey, Senior Director of PMM at Thumbtack, built a system that drives retention and expansion",
@@ -3974,29 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-20",
     "summary": "Most of the discussion about AI agents in B2B right now treats the agent as a feature you ship: a chat box, a copilot, a magical button inside your product. That framing has been throwing people off,..."
-  },
-  {
-    "title": "5 Interesting Learnings from HubSpot at $3.5B in ARR: 23% Reported Growth, $211M in Buybacks, and a 16% Stock Drop",
-    "url": "https://www.saastr.com/5-interesting-learnings-from-hubspot-at-3-5b-in-arr-23-reported-growth-211m-in-buybacks-and-a-16-stock-drop/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-20",
-    "summary": "On paper, this was a strong quarter for HubSpot. Maybe not epic, but strong. HubSpot reported Q1 ’26 with revenue of $881M, up 23% … as reported. Subscription revenue alone hit $862.3M, putting ARR..."
-  },
-  {
-    "title": "What launched at Google I/O 2026 (30-minute day 1 recap)",
-    "url": "https://www.lennysnewsletter.com/p/what-launched-at-google-io-2026-30",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-20",
-    "summary": "Watch now | 🎙️ Every major Google I/O 2026 launch—what's fast, what's broken, and what builders should actually care about"
-  },
-  {
-    "title": "144 B2B APIs Graded. The Average Score is 71/100. The New AI Agent API Report Card Tells Us Where B2B Really Stands.",
-    "url": "https://www.saastr.com/the-new-ai-agent-api-report-card-tells-us-where-b2b-really-stands/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-19",
-    "summary": "Live now: saastr.ai/api-report-card When we shipped the AI Agent API Report Card a few weeks ago, we had 75 B2B APIs graded and a hunch this was a tool builders had been quietly waiting for. A few..."
   }
 ]
