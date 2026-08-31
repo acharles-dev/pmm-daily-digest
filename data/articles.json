@@ -1,5 +1,29 @@
 [
   {
+    "title": "The Second Reader: How product marketers build personas for AI agents",
+    "url": "https://www.productmarketingalliance.com/building-personas-for-ai-agents/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-08-31",
+    "summary": "AI agents research your product and recommend it before customers ever see it. Learn how to build a persona for this buyer."
+  },
+  {
+    "title": "We’ve Been Running Salesforce Headless for 6 Months on Our Own “Claudeforce.” We’re Never Going Back",
+    "url": "https://www.saastr.com/weve-been-running-salesforce-headless-and-our-own-claudeforce-for-6-months-were-never-going-back/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-31",
+    "summary": "For the past six-plus months, almost no one at SaaStr has logged into Salesforce. The data is all still there. We still pay for it. We still depend on it. We just stopped using the UI as the primary..."
+  },
+  {
+    "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+    "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-31",
+    "summary": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a..."
+  },
+  {
     "title": "Owner.com Did an AI Rebuild to Accelerate Past $100M ARR. The 7 Top Lessons, and What It Takes to Copy Them",
     "url": "https://www.saastr.com/owner-com-did-an-ai-rebuild-to-accelerate-past-100m-arr-6-lessons-and-what-it-costs-to-apply-them/",
     "source": "saastr",
@@ -3974,29 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-05-20",
     "summary": "Discover how Claude Design is changing what product marketers can build – from landing pages and pitch decks to animated explainer videos, without a designer."
-  },
-  {
-    "title": "Why your customer data doesn't predict what customers will do",
-    "url": "https://www.productmarketingalliance.com/why-your-customer-data-doesnt-predict-what-customers-will-do/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-20",
-    "summary": "Learn why PMMs must bridge the gap between declared intent and subconscious reality using a neuro-informed GTM framework to reduce product failure."
-  },
-  {
-    "title": "How we develop pricing and packaging at Fin",
-    "url": "https://www.intercom.com/blog/how-we-develop-pricing-and-packaging-at-fin/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-20",
-    "summary": "At Fin, pricing and packaging must balance the needs and wants of our customers and our broader vision. Here's how we do it."
-  },
-  {
-    "title": "Why 10K (Our AI VP Marketing) and QBee (Our AI VP Customer Success) Work So Well: The App and the Agent Are One System",
-    "url": "https://www.saastr.com/why-10k-our-ai-vp-marketing-and-qbee-our-ai-vp-customer-success-work-so-well-the-app-and-the-agent-are-one-system/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-20",
-    "summary": "Most of the discussion about AI agents in B2B right now treats the agent as a feature you ship: a chat box, a copilot, a magical button inside your product. That framing has been throwing people off,..."
   }
 ]
