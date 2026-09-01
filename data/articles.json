@@ -1,5 +1,29 @@
 [
   {
+    "title": "How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead",
+    "url": "https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-01",
+    "summary": "For years, we ran data studies at Semrush the way most similar companies did: whenever someone had a good idea and whenever there was time to spare. Mostly, though, our efforts were limited to one or..."
+  },
+  {
+    "title": "ICONIQ: The 100%+ Growers Added 133% More Headcount in H1 2026. But The 50%-100% Growers Cut Hiring Almost in Half.",
+    "url": "https://www.saastr.com/iconiq-the-100-growers-added-133-more-headcount-in-h1-2026-but-the-50-100-growers-cut-hiring-almost-in-half/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-01",
+    "summary": "New ICONIQ data (as of 08/04/2026, covering 2022 through Q2 2026) on median headcount change by revenue growth band. ICONIQ’s own framing was that AI isn’t freezing headcount at hypergrowth..."
+  },
+  {
+    "title": "How to turn your AI into a world-class designer",
+    "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-01",
+    "summary": "An end-to-end process for tapping into AI’s hidden creativity"
+  },
+  {
     "title": "The Second Reader: How product marketers build personas for AI agents",
     "url": "https://www.productmarketingalliance.com/building-personas-for-ai-agents/",
     "source": "pma",
@@ -22,6 +46,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-08-31",
     "summary": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a..."
+  },
+  {
+    "title": "Dear SaaStr: My Sales Rep is Grossly Underperforming but is Involved in a Key Deal. Should I Fire Him or Wait for The Deal to Close?",
+    "url": "https://www.saastr.com/dear-saastr-my-sales-rep-is-grossly-underperforming-but-is-involved-in-a-key-deal-should-i-fire-him-or-wait-for-the-deal-to-close/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-08-31",
+    "summary": "Dear SaaStr: My Sales Rep is Grossly Underperforming but is Involved in a Key Deal. Should I Fire Him or Wait for The Deal to Close? This is pretty common and most founders make the same mistake...."
+  },
+  {
+    "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-08-31",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "Owner.com Did an AI Rebuild to Accelerate Past $100M ARR. The 7 Top Lessons, and What It Takes to Copy Them",
@@ -3958,45 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-05-21",
     "summary": "I’ve spent the last year watching marketing teams scramble to understand why their organic traffic reports tell one story while their pipeline tells another. The missing link is almost always a need..."
-  },
-  {
-    "title": "AI citation tracking tools to monitor and increase visibility",
-    "url": "https://blog.hubspot.com/marketing/ai-citation-tracking-tools",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-21",
-    "summary": "The brand tracking dashboard says awareness is up. Social listening tools show steady mention volume. The PR platform logged a dozen media hits last quarter. But, none of those tools show how a brand..."
-  },
-  {
-    "title": "How Anthropic Rebuilt Its Sales Org From Scratch When Demand Went Vertical: 54% of New Enterprise Logos Now Come Self-Serve",
-    "url": "https://www.saastr.com/how-anthropic-rebuilt-its-sales-org-from-scratch-when-demand-went-vertical-54-of-new-enterprise-logos-now-come-self-serve/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-21",
-    "summary": "When Claude Opus 4.6 shipped in December 2025, Anthropic’s commercial team came back from winter break to find demand had gone vertical. They hadn’t hired for it. They hadn’t planned for it. As..."
-  },
-  {
-    "title": "The Modern GTM Org in 2026: 20-30% Leaner, 9x Flatter, ~2x More Net New Revenue Per Rep. The Latest from ICONIQ Growth.",
-    "url": "https://www.saastr.com/moderngtmleanerflatter/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-21",
-    "summary": "ICONIQ just released their latest 2026 GTM benchmark report, surveying 150+ B2B software companies in January. The findings line up with what we’re seeing in our portfolio, what we saw at SaaStr AI..."
-  },
-  {
-    "title": "Member masterclass: How to evolve positioning and messaging in engineering-led orgs",
-    "url": "https://www.productmarketingalliance.com/member-masterclass/positioning-messaging-engineering/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-20",
-    "summary": "As a Pro and Pro+ member, you can get exclusive access to industry leaders through live sessions crafted around the challenges you’re experiencing. Think of it as having your very own PMM coach in..."
-  },
-  {
-    "title": "Claude Design for product marketing [Bonus article]",
-    "url": "https://www.productmarketingalliance.com/claude-design-for-product-marketing-bonus-article/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-20",
-    "summary": "Discover how Claude Design is changing what product marketers can build – from landing pages and pitch decks to animated explainer videos, without a designer."
   }
 ]
