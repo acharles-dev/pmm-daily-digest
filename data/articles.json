@@ -1,5 +1,45 @@
 [
   {
+    "title": "Product market fit: Everything you need to know",
+    "url": "https://www.productmarketingalliance.com/everything-you-need-to-know-about-product-market-fit/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-02",
+    "summary": "With our complete guide, discover what product market fit actually is, the benefits of a strong PMF strategy and how to effectively measure its success through valuable metrics."
+  },
+  {
+    "title": "What high-citation brands do differently in AI search: The 2026 AEO playbook",
+    "url": "https://blog.hubspot.com/marketing/brands-with-high-ai-search-citations",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-02",
+    "summary": "Answer engine optimization is disrupting search as we know it. What once was predictable — add a keyword, focus on high-quality backlinks, increase your domain rating — has become a new game that..."
+  },
+  {
+    "title": "Using LinkedIn for AEO: How marketers can use social media to improve their AI visibility [experiment]",
+    "url": "https://blog.hubspot.com/marketing/linkedin-aeo-experiment",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-02",
+    "summary": "Over the past few months, I noticed a pattern while researching for clients. When I searched Perplexity for B2B reports or insights that I could cite for a project, the source list would look like..."
+  },
+  {
+    "title": "Our Newest AI Agent Is a Renewal Agent. It Builds a Better Renewal Deck Than Any Human Could, For Every Single Account. Not Just the Big Ones.",
+    "url": "https://www.saastr.com/our-newest-ai-agent-is-a-renewal-agent-it-builds-a-better-renewal-deck-than-any-human-could-for-every-single-account-not-just-the-big-ones/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-02",
+    "summary": "Every company cuts the same corner on renewals. You go top down. Your biggest accounts get a real custom deck with their actual results in it. Everyone else gets a templated follow-up email. Not..."
+  },
+  {
+    "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+    "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-02",
+    "summary": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my..."
+  },
+  {
     "title": "How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead",
     "url": "https://blog.hubspot.com/marketing/turning-data-thought-leadership-into-growth-channel",
     "source": "hubspot",
@@ -3958,45 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-22",
     "summary": "For our entire careers in tech, the standard management test has been: “Given what you know now, would you hire this person again?” It’s a decent HR framework. It forces honesty. If the answer is no,..."
-  },
-  {
-    "title": "20VC x SaaStr: Anthropic at $900B, Salesforce Spends $300M on Tokens, SpaceX Files for the Biggest IPO in History, and Why the Tech Lash Is Just Beginning",
-    "url": "https://www.saastr.com/20vc-x-saastr-anthropic-at-900b-salesforce-spends-300m-on-tokens-spacex-files-for-the-biggest-ipo-in-history-and-why-the-tech-lash-is-just-beginning/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-22",
-    "summary": "With Harry Stebbings, Jason Lemkin, and Rory O’Driscoll Anthropic is in talks for $30 billion at a $900 billion valuation. That’s nearly triple the $380 billion price from February. Andre Karpathy..."
-  },
-  {
-    "title": "The emotional layer your enterprise messaging is missing",
-    "url": "https://www.productmarketingalliance.com/the-emotional-layer-your-enterprise-messaging-is-missing/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-22",
-    "summary": "Enterprise messaging that goes beyond the spec sheet."
-  },
-  {
-    "title": "Goodbye, Lenny's Reads!",
-    "url": "https://www.lennysnewsletter.com/p/goodbye-lennys-reads",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-22",
-    "summary": "After a year of bringing you these audio versions of my newsletter, I’ve decided it’s time to wind down this experiment."
-  },
-  {
-    "title": "State of Product Marketing Report 2026",
-    "url": "https://www.productmarketingalliance.com/state-of-product-marketing-report-2026/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-21",
-    "summary": "The State of Product Marketing 2026: real data on AI adoption, KPIs, reporting structures, and where the PMM role is heading."
-  },
-  {
-    "title": "Best AI search analytics tools for marketing teams",
-    "url": "https://blog.hubspot.com/marketing/ai-search-analytics-tools",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-21",
-    "summary": "I’ve spent the last year watching marketing teams scramble to understand why their organic traffic reports tell one story while their pipeline tells another. The missing link is almost always a need..."
   }
 ]
