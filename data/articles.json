@@ -1,5 +1,37 @@
 [
   {
+    "title": "20VC x SaaStr: Nvidia Guides to 70% Growth, 1,000 Agents Breach Hugging Face, and Clay at $7B",
+    "url": "https://www.saastr.com/20vc-x-saastr-nvidia-guides-to-70-growth-1000-agents-breach-hugging-face-and-clay-at-7b/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-04",
+    "summary": "This week on 20VC x SaaStr, Harry Stebbings, Rory O’Driscoll and I went through Nvidia’s $96.2B quarter and its 70% forward guide, the $12.9B Hugging Face deal, OpenAI cutting off Cursor, the agent..."
+  },
+  {
+    "title": "Goodnight & Goodbye, SVB",
+    "url": "https://www.saastr.com/goodnight-goodbye-svb/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-04",
+    "summary": "I got the email the other day. Frank Holding Jr., Marc Cadieux and Jesse Hurley, letting me know that starting in early October, the rollout of a “united brand strategy” begins. And the SVB brand..."
+  },
+  {
+    "title": "5 Interesting Learnings from Salesforce at $45 Billion ARR: 14% cRPO Growth, 6% Organic Growth, and $2.53 of EPS From Its Anthropic Stake",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-salesforce-at-45-billion-arr-14-crpo-growth-6-organic-growth-and-2-53-of-eps-from-its-anthropic-stake/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-03",
+    "summary": "Salesforce reported Q2 FY27 on August 26 and the stock went up a stunning 23%. And almost every other B2B stock went up along with it, Is the SaaSpocolypse … over? Well, it may be past the panic..."
+  },
+  {
+    "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
+    "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-03",
+    "summary": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months"
+  },
+  {
     "title": "Product market fit: Everything you need to know",
     "url": "https://www.productmarketingalliance.com/everything-you-need-to-know-about-product-market-fit/",
     "source": "pma",
@@ -38,6 +70,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-02",
     "summary": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my..."
+  },
+  {
+    "title": "The CPOs of Harvey, Glean and Rubrik on What It Actually Takes To Ship a Category-Winning Agent",
+    "url": "https://www.saastr.com/the-cpos-of-harvey-glean-and-rubrik-on-what-it-actually-takes-to-ship-a-category-winning-agent/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-02",
+    "summary": "For about ten years, chief product officer was the best job in B2B. You brought your mug to the office, told the team what you were shipping this year, moved a few things to next quarter, and when an..."
   },
   {
     "title": "How to turn data thought leadership into a growth channel, according to Semrush’s marketing lead",
@@ -3958,45 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-24",
     "summary": "Why most work will happen inside Codex or Claude Code, the CLI era is over, every agent needs a human, and why he’s wildly bullish on PMs and designers"
-  },
-  {
-    "title": "Even a Mediocre Prompt Can Build Pretty Good Software Today",
-    "url": "https://www.saastr.com/even-a-mediocre-prompt-can-build-pretty-good-software-today/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-23",
-    "summary": "Here’s the exact prompt I typed into Replit the other day “ok i have an idea where we built a new speaker card page, where if you upload a headshot, we build you a 1080×1080 card on a background you..."
-  },
-  {
-    "title": "SaaStr AI App of the Week: Helply. The Bootstrapped B2B Support Platform That’s Free Forever, Charges Only When AI Actually Resolves a Ticket, and Showed Up to SaaStr AI 2026 With Giant Pandas",
-    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-helply-the-bootstrapped-b2b-support-platform-thats-free-forever-charges-only-when-ai-actually-resolves-a-ticket-and-showed-up-to-saastr-ai-2026-with-giant-pandas/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-23",
-    "summary": "The Bottom Line: Alex Turnbull bootstrapped Groove from $0 to $5M ARR as a solo founder over a decade. Then he bet against his own playbook. Helply is the AI-native B2B support platform he’s building..."
-  },
-  {
-    "title": "🧠 Community Wisdom: Best AI cold outreach app, advice for college students interested in PM, the state of AI in design, the relevance of QA in 2026, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-best-ai-cold-outreach",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-23",
-    "summary": "Community Wisdom 186"
-  },
-  {
-    "title": "What really matters when evaluating AI Agents for customer service?",
-    "url": "https://www.intercom.com/blog/what-matters-when-evaluating-ai-agents-for-customer-service/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-22",
-    "summary": "Performance is only one factor in determining if an AI Agent is the right fit. Here's what else to consider."
-  },
-  {
-    "title": "Forget “Would You Hire Them Again.” The Real Test Now Is Whether You’d Replace Them With an Agent.",
-    "url": "https://www.saastr.com/forget-would-you-hire-them-again-the-real-test-now-is-whether-youd-replace-them-with-an-agent/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-22",
-    "summary": "For our entire careers in tech, the standard management test has been: “Given what you know now, would you hire this person again?” It’s a decent HR framework. It forces honesty. If the answer is no,..."
   }
 ]
