@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T14:52:40Z",
+  "last_updated": "2026-09-05T14:20:07Z",
   "total_articles": 500,
   "sources": {
     "pma": {
@@ -23,9 +23,9 @@
       "articles_found": 50
     },
     "saastr": {
-      "status": "ok",
+      "status": "error",
       "name": "SaaStr",
-      "articles_found": 10
+      "error": "429 Too Many Requests"
     },
     "lenny": {
       "status": "ok",
