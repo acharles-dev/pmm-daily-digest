@@ -1,5 +1,37 @@
 [
   {
+    "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
+    "url": "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-06",
+    "summary": "Eight months ago the market decided that AI was going to eat B2B software. Roughly $2 trillion of market cap came out of the group. Then it came back. The recovery at the index level is close to..."
+  },
+  {
+    "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+    "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-06",
+    "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed"
+  },
+  {
+    "title": "California Is Taxing SaaS and AI Tools and Is About to Make Your Software 8-10% More Expensive. Here’s What SB 122 Does to Buyers and Vendors",
+    "url": "https://www.saastr.com/california-is-taxing-saas-and-ai-tools-and-is-about-to-make-your-software-8-10-more-expensive-heres-what-sb-122-does-to-buyers-and-vendors/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-05",
+    "summary": "On June 29, 2026, Gavin Newsom signed SB 122. Effective January 1, 2027, California sales and use tax applies to prewritten software and SaaS, however it’s delivered. Downloaded, streamed, accessed..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-05",
+    "summary": "Community Wisdom 200"
+  },
+  {
     "title": "20VC x SaaStr: Nvidia Guides to 70% Growth, 1,000 Agents Breach Hugging Face, and Clay at $7B",
     "url": "https://www.saastr.com/20vc-x-saastr-nvidia-guides-to-70-growth-1000-agents-breach-hugging-face-and-clay-at-7b/",
     "source": "saastr",
@@ -3966,37 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-25",
     "summary": "Watch now | 🎙️ Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware “buddy”"
-  },
-  {
-    "title": "Dear SaaStr: How Do The Best Sales Leaders Retain Their High Performers?",
-    "url": "https://www.saastr.com/dear-saastr-how-do-the-best-sales-leaders-retain-their-high-performers/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-25",
-    "summary": "Dear SaaStr: How Do The Best Sales Leaders Retain Their High Performers? A few ways I’ve observed that the best sales leaders retain the best: They promote the best. You can’t promote everyone, but..."
-  },
-  {
-    "title": "Speed-to-lead is a solved problem",
-    "url": "https://www.intercom.com/blog/speed-to-lead-is-a-solved-problem/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-25",
-    "summary": "Speed-to-lead made sense when the lag was unavoidable. An AI Agent removes it. Here’s what that means for how you build, staff, and measure your sales org."
-  },
-  {
-    "title": "Why 95% of Customer Success Managers Can’t Be Turned into Forward Deployed Engineers. And What That Means.",
-    "url": "https://www.saastr.com/why-95-of-customer-success-managers-cant-be-turned-into-forward-deployed-engineers-and-what-that-means/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-24",
-    "summary": "Every B2B company right now is staring at the same problem: they need more Forward Deployed Engineers, they don’t have enough of them, and they’re looking at their CS team wondering if they can..."
-  },
-  {
-    "title": "The Agents Episode #005 is Out! Our 2 AI VPs Cost $257/Month, a Website Willed Itself Into Becoming an Agent, and QB Sent 83 Personalized Emails at 12:20am",
-    "url": "https://www.saastr.com/the-agents-episode-005-is-out-our-2-ai-vps-cost-257-month-a-website-willed-itself-into-becoming-an-agent-and-qb-sent-83-personalized-emails-at-1220am/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-24",
-    "summary": "Amelia and I just recorded Episode 005 of The Agents right before 2026 SaaStr AI Annual. You may have missed it in all the fun of the big event, here’s your chance to catch up! Most importantly: we..."
   }
 ]
