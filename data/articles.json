@@ -1,5 +1,45 @@
 [
   {
+    "title": "Messaging playbook template",
+    "url": "https://www.productmarketingalliance.com/messaging-playbook-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-07",
+    "summary": "One playbook, every channel: social, email, PR, and partners."
+  },
+  {
+    "title": "What B2B marketers get wrong about AI feature launches",
+    "url": "https://www.productmarketingalliance.com/what-b2b-marketers-get-wrong-about-ai-feature-launches/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-07",
+    "summary": "Learn how to shift from feature-focused hype to outcome-driven positioning that builds buyer trust and delivers real business value."
+  },
+  {
+    "title": "Founders Are Coming Back to Run Their Pre-AI B2B Companies. Because It’s The Last Stand.",
+    "url": "https://www.saastr.com/founders-are-coming-back-to-run-their-pre-ai-b2b-companies-because-its-the-last-stand/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-07",
+    "summary": "I’m seeing more and more founders come back to run their pre-AI B2B companies. Not because the board panicked over a bad quarter. Because it’s The Last Stand. The pattern shows up at companies big..."
+  },
+  {
+    "title": "Don’t Hire a VP of Sales Everybody Loves",
+    "url": "https://www.saastr.com/dont-hire-a-vp-of-sales-everybody-loves/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-07",
+    "summary": "So this is a seemingly simple post, and one with a title that is purposefully a bit binary. Yes, sometimes it’s OK to hire a VP of Sales that everyone loves. But not usually. At least 9 times out of..."
+  },
+  {
+    "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+    "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-07",
+    "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent"
+  },
+  {
     "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
     "url": "https://www.saastr.com/beyond-the-saaspocalypse-the-winners-and-losers-of-2026-so-far/",
     "source": "saastr",
@@ -14,6 +54,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-06",
     "summary": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed"
+  },
+  {
+    "title": "Jason’s Takes on This Week’s 20VC: Locks Beat Guardrails, Agents Pick Your Software, and Building With 448 Open Tasks",
+    "url": "https://www.saastr.com/jasons-takes-on-this-weeks-20vc-locks-beat-guardrails-agents-pick-your-software-and-building-with-448-open-tasks/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-06",
+    "summary": "Ten things from this week’s episode that changed what I’m doing in my own build. Harry, Rory and I covered a lot on Thursday: Nvidia’s 70% guide, the $12.9B Hugging Face deal, OpenAI cutting off..."
   },
   {
     "title": "California Is Taxing SaaS and AI Tools and Is About to Make Your Software 8-10% More Expensive. Here’s What SB 122 Does to Buyers and Vendors",
@@ -3950,53 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-26",
     "summary": "36 timeless books that’ll make you a better builder, leader, and person"
-  },
-  {
-    "title": "The hidden operating system of great product marketers: Community",
-    "url": "https://www.productmarketingalliance.com/the-hidden-operating-system-of-great-pmms/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-25",
-    "summary": "Product marketers are often isolated. Discover how community is the \"hidden operating system\" that provides support, sharpens decision-making, and helps PMMs truly thrive."
-  },
-  {
-    "title": "How to optimize for AI overviews (AIOs): A complete 2026 playbook",
-    "url": "https://blog.hubspot.com/marketing/optimize-for-ai-overviews",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-25",
-    "summary": "Google AI Overviews appear in Google Search results for a growing share of queries, and if your content isn’t structured to earn a citation, you’re losing visibility to competitors who’ve already..."
-  },
-  {
-    "title": "How to rank in AI Overviews on Google and beyond",
-    "url": "https://blog.hubspot.com/marketing/how-to-rank-in-ai-overviews",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-25",
-    "summary": "Growing up, the only “top 10” I cared about was MTV’s Total Request Live (TRL). When I started working, that became the top 10 results in the Google SERP. Now, my eyes are set even higher as we..."
-  },
-  {
-    "title": "Top 10 Learnings From Building Our Own AI VP of Customer Success “Qbee”",
-    "url": "https://www.saastr.com/top-10-learnings-from-building-our-own-ai-vp-of-customer-success-qbee/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-25",
-    "summary": "We’ve now rolled out 21+ AI agents and 12+ vibe coded apps at SaaStr AI, used 1,100,000+ times. AI SDRs. An AI VP of Marketing (10K) that in many ways now manages us, not the other way around...."
-  },
-  {
-    "title": "🎙️ How I AI: How the engineer behind Claude Cowork actually uses Claude Cowork & What launched at Google I/O 2026",
-    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-engineer-behind",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-25",
-    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
-  },
-  {
-    "title": "How the engineer behind Claude Cowork actually uses Claude | Felix Rieseberg (Anthropic)",
-    "url": "https://www.lennysnewsletter.com/p/how-the-engineer-behind-claude-cowork",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-25",
-    "summary": "Watch now | 🎙️ Felix Rieseberg (Anthropic) shows how he uses Claude to build 3D house walkthroughs from floor plans, track promises automatically, and create a $20 hardware “buddy”"
   }
 ]
