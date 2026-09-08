@@ -1,5 +1,29 @@
 [
   {
+    "title": "How much does AEO cost? Pricing by agency, tools, and software",
+    "url": "https://blog.hubspot.com/marketing/how-much-does-aeo-cost",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-08",
+    "summary": "How much does AEO cost? The short answer is roughly $30 a month for a monitoring tool you run yourself to over $15,000 a month for a full-service agency program that handles everything for you — with..."
+  },
+  {
+    "title": "Meet Our Agents: What All 20 Actually Do, What They Refuse to Do, and Every Place They’ve Failed Us",
+    "url": "https://www.saastr.com/meet-our-agents-what-all-20-actually-do-what-they-refuse-to-do-and-every-place-theyve-failed-us/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-08",
+    "summary": "A post by Brad Blumberg on LinkedIn week described how SaaStr runs on roughly 3 humans and 20-30+ AI agents. It was a fun summary so I thought we’d do a detailed latest dive on what each agent won’t..."
+  },
+  {
+    "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+    "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-08",
+    "summary": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever"
+  },
+  {
     "title": "Messaging playbook template",
     "url": "https://www.productmarketingalliance.com/messaging-playbook-template-framework/",
     "source": "pma",
@@ -38,6 +62,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-07",
     "summary": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent"
+  },
+  {
+    "title": "Dear SaaStr: As a Founder, What Will I Learn Getting More Involved in Sales?",
+    "url": "https://www.saastr.com/dear-saastr-as-a-founder-what-will-i-learn-getting-more-involved-in-sales/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-07",
+    "summary": "Dear SaaStr: I’m Pretty Hands Off on the Sales Team. What Will I Learn Getting More Involved in Sales? The most important thing that you will learn is how businesses truly scale on the revenue side...."
+  },
+  {
+    "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-07",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "Beyond the SaaSpocalypse: The Winners and Losers of 2026 (So Far)",
@@ -2064,6 +2104,14 @@
     "summary": "So recently we had a B2B buying experience that led to a No that is very common but many don’t realize is there, or at least is there that much: A B2B Pricing Gap We went to buy Riverside, a..."
   },
   {
+    "title": "11 social media trends every marketer should watch in 2026 [new data]",
+    "url": "https://blog.hubspot.com/marketing/social-media-predictions-2017",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-07-14",
+    "summary": "The data doesn’t lie. According to HubSpot’s 2026 State of Social Media Report , 67% of marketers believe social media to be more important in the next two years, while 73% say it’s harder than ever..."
+  },
+  {
     "title": "Documentation as GTM: The most underrated PMM asset",
     "url": "https://www.productmarketingalliance.com/documentation-as-gtm/",
     "source": "pma",
@@ -3950,53 +3998,5 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-05-27",
     "summary": "For years, the SEO playbook was straightforward: earn backlinks, climb rankings, capture clicks. But as AI reshapes how traditional SEO works , a different mechanism is determining which content gets..."
-  },
-  {
-    "title": "Pressure-test your messaging template",
-    "url": "https://www.productmarketingalliance.com/pressure-test-your-messaging-template-framework/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-26",
-    "summary": "Is your messaging clear to buyers, or just to you?"
-  },
-  {
-    "title": "The Claude product marketing decision framework [Series 6 of 6]",
-    "url": "https://www.productmarketingalliance.com/the-claude-product-marketing-decision-framework-series-6-of-6/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-26",
-    "summary": "A practical decision framework for product marketers: when to use Claude's Chat, Cowork, Code, and Design surfaces to route any task confidently."
-  },
-  {
-    "title": "What AI Overviews mean for SEO & website traffic",
-    "url": "https://blog.hubspot.com/marketing/what-ai-overviews-mean-for-seo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-26",
-    "summary": "If you’re worried about what AI Overviews mean for SEO, let me remind you of the panic over featured snippets circa 2017. Remember how that turned out? At first, bloggers and SEOs bristled over these..."
-  },
-  {
-    "title": "For Frack’s Sake, It’s Not Too Late to Ship an Epic AI Agent. And Get Back to Real Growth.",
-    "url": "https://www.saastr.com/for-fracks-sake-its-not-too-late-to-ship-an-epic-agent-and-get-back-to-growth/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-26",
-    "summary": "So I spent the other day writing a fairly dark post about how most traditional B2B leaders will slowly atrophy to nothingness. Maybe seven survivors, everyone else decays, Medallia as the cautionary..."
-  },
-  {
-    "title": "How Owner.com’s CRO Is Closing $2M+ in ARR Per Rep With AI: 5 Things You Can Steal",
-    "url": "https://www.saastr.com/how-owner-coms-cro-is-closing-2m-in-arr-per-rep-with-ai-5-things-you-can-steal-to-do-it-yourself/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-26",
-    "summary": "At SaaStr AI 2026, Kyle Norton, CRO of vertical AI leader for restaurants Owner.com, walked through how his team is generating outcomes that look almost impossible on paper for traditional B2B. Owner..."
-  },
-  {
-    "title": "Essential books for product builders—part 1",
-    "url": "https://www.lennysnewsletter.com/p/essential-books-for-product-builderspart",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-26",
-    "summary": "36 timeless books that’ll make you a better builder, leader, and person"
   }
 ]
