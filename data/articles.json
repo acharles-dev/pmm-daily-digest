@@ -1,5 +1,37 @@
 [
   {
+    "title": "Unifying messaging and GTM across a fragmented SaaS portfolio",
+    "url": "https://www.productmarketingalliance.com/messaging-and-gtm-across-fragmented-portfolio/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-09",
+    "summary": "Learn how to diagnose portfolio sprawl and align your products with business goals for better growth."
+  },
+  {
+    "title": "How to create winning sales battlecards [+ examples]",
+    "url": "https://www.productmarketingalliance.com/all-you-need-to-know-about-battlecards/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-09",
+    "summary": "Many companies include sales battlecards among these resources and provide these assets to their sales reps to turn their buyer personas into fully-fledged customers."
+  },
+  {
+    "title": "How to optimize your website for AI search",
+    "url": "https://blog.hubspot.com/marketing/optimize-website-ai-search",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-09",
+    "summary": "Learning how to optimize your website for AI search is one of the hottest skills for marketers right now, because the audience for these tools is growing fast. Monthly unique visitors to the major..."
+  },
+  {
+    "title": "What VCs Are Looking For Now: $25B+ Exits. The New “Decacorn”",
+    "url": "https://www.saastr.com/what-vcs-are-looking-for-now-25b-exits-the-new-decacorn/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-09",
+    "summary": "So my co-investor in $2.3B Owner.com (Vertical AI for restaurants) just moved to growth partner at Menlo Ventures and put out a post and chart this week that explains how venture capital works in..."
+  },
+  {
     "title": "How much does AEO cost? Pricing by agency, tools, and software",
     "url": "https://blog.hubspot.com/marketing/how-much-does-aeo-cost",
     "source": "hubspot",
@@ -3966,37 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-27",
     "summary": "Guess Whose Stock Is Up +66% year-to-date? And trades at 20x ARR? In the midst of the most challenging run for software stocks … ever? Datadog. As of May 22, 2026: $222.32 per share, +66.20%..."
-  },
-  {
-    "title": "Dropbox Hit $1B Faster Than Any B2B Company Ever. But Now, It’s The End of an Era",
-    "url": "https://www.saastr.com/dropbox-hit-1b-faster-than-any-b2b-company-ever-but-now-its-theend-of-an-era/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-27",
-    "summary": "An end of an era Of my generation of SaaS CEOs, no star burned brighter than Dropbox It grew to $1B ARR faster than any before, and burning almost nothing, perfecting the PLG motion. The startup we..."
-  },
-  {
-    "title": "The Codex feature that works while you sleep",
-    "url": "https://www.lennysnewsletter.com/p/the-codex-feature-that-works-while",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-27",
-    "summary": "Watch now | 🎙️I break down the /goal feature in Codex, including a live demo, three real use cases, and the 6-part framework for writing goals that actually run"
-  },
-  {
-    "title": "The ultimate guide to knowledge management for your Service Agent",
-    "url": "https://www.intercom.com/blog/guide-customer-service-knowledge-management-ai/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-05-27",
-    "summary": "Everything you need to know about building and maintaining a knowledge base that powers your Service Agent, in one comprehensive guide."
-  },
-  {
-    "title": "The role of citations in AEO: Why citations matter more than backlinks for AI visibility",
-    "url": "https://blog.hubspot.com/marketing/citations-in-aeo",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-27",
-    "summary": "For years, the SEO playbook was straightforward: earn backlinks, climb rankings, capture clicks. But as AI reshapes how traditional SEO works , a different mechanism is determining which content gets..."
   }
 ]
