@@ -1,5 +1,21 @@
 [
   {
+    "title": "Getting started with psychographic market segmentation",
+    "url": "https://www.productmarketingalliance.com/psychographic-market-segmentation/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-10",
+    "summary": "Dive into psychographic market segmentation. Gain insights into customer motivations and craft marketing strategies that resonate and convert."
+  },
+  {
+    "title": "AI search tools marketers should know in 2026",
+    "url": "https://blog.hubspot.com/marketing/best-ai-search-tools",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-10",
+    "summary": "Something big just shifted in how people find answers online. More buyers are skipping the investigation and deliberation of clicking through blue links on Google, in favor of asking ChatGPT,..."
+  },
+  {
     "title": "Unifying messaging and GTM across a fragmented SaaS portfolio",
     "url": "https://www.productmarketingalliance.com/messaging-and-gtm-across-fragmented-portfolio/",
     "source": "pma",
@@ -30,6 +46,14 @@
     "source_name": "SaaStr",
     "date": "2026-09-09",
     "summary": "So my co-investor in $2.3B Owner.com (Vertical AI for restaurants) just moved to growth partner at Menlo Ventures and put out a post and chart this week that explains how venture capital works in..."
+  },
+  {
+    "title": "Announcing the 2026 AI Sentiment Report: How end users feel about AI Agents",
+    "url": "https://www.intercom.com/blog/the-2026-ai-sentiment-report/",
+    "source": "intercom",
+    "source_name": "Intercom Blog",
+    "date": "2026-09-09",
+    "summary": "We asked over 1,000 end users how they felt about interacting with AI Agents, how capable they think they are, and how much they trust them. Here are our findings."
   },
   {
     "title": "How much does AEO cost? Pricing by agency, tools, and software",
@@ -3974,29 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-05-27",
     "summary": "Discover 4 crucial strategies to collaborate with customer marketing and drive sustained SaaS active use and engagement."
-  },
-  {
-    "title": "Introducing the HubSpot Agent CLI",
-    "url": "https://blog.hubspot.com/marketing/introducing-the-hubspot-agent-cli",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-27",
-    "summary": "A few weeks ago, I wrote about our vision for the agent era: agents should be able to run on HubSpot, and to run HubSpot. I want to go a level deeper on what “run HubSpot” actually means, and our..."
-  },
-  {
-    "title": "A master class in persuasion from an unlikely place",
-    "url": "https://blog.hubspot.com/marketing/social-proof-master-class",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-05-27",
-    "summary": "Walk down a suburban street, and you might stumble across a following sign. It’s probably messy with poor formatting and inconsistent font size. Here’s one that I saw in Houston."
-  },
-  {
-    "title": "Datadog Stock Is Up +66%. Here Are 5 Reasons Why, And Why It’s the Cleanest AI Beneficiary in B2B.",
-    "url": "https://www.saastr.com/datadogup/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-27",
-    "summary": "Guess Whose Stock Is Up +66% year-to-date? And trades at 20x ARR? In the midst of the most challenging run for software stocks … ever? Datadog. As of May 22, 2026: $222.32 per share, +66.20%..."
   }
 ]
