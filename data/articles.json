@@ -1,5 +1,13 @@
 [
   {
+    "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn’t Magical",
+    "url": "https://www.saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-11",
+    "summary": "Bending Spoons just announced a definitive agreement to acquire Miro at a $1.355 billion enterprise value. Five weeks ago it announced Airtable at $1.285 billion, and that one just closed. Two of the..."
+  },
+  {
     "title": "Getting started with psychographic market segmentation",
     "url": "https://www.productmarketingalliance.com/psychographic-market-segmentation/",
     "source": "pma",
@@ -14,6 +22,30 @@
     "source_name": "HubSpot Marketing",
     "date": "2026-09-10",
     "summary": "Something big just shifted in how people find answers online. More buyers are skipping the investigation and deliberation of clicking through blue links on Google, in favor of asking ChatGPT,..."
+  },
+  {
+    "title": "The analyst advantage: Driving commercial growth through analyst relations",
+    "url": "https://www.productmarketingalliance.com/the-analyst-advantage-driving-commercial-growth-through-analyst-relations/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-10",
+    "summary": "Learn how to turn analyst relations from a reporting exercise into a measurable growth engine, and why \"staying top of mind\" might mean something very different to your analysts than it does to you."
+  },
+  {
+    "title": "20VC x SaaStr: Jensen Declares AGI, $170M of Secondary Before the Series C, and Why Index Walked Away From Town",
+    "url": "https://www.saastr.com/20vc-x-saastr-jensen-declares-agi-170m-of-secondary-before-the-series-c-and-why-index-walked-away-from-town/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-10",
+    "summary": "This week with Harry Stebbings, Rory O’Driscoll and Jason Lemkin: rule-breaking as a product feature, the legal AI ceiling, agents that route around their own guardrails, and Anthropic walking from a..."
+  },
+  {
+    "title": "5 Interesting Learnings from Snowflake at $6 Billion in Revenue: 37% Growth and Accelerating, 126% NRR, and a Gross Margin Guided Down to Pay for AI",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-snowflake-at-6-billion-in-revenue-37-growth-and-accelerating-126-nrr-and-a-gross-margin-guided-down-to-pay-for-ai/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-10",
+    "summary": "Snowflake reported its fiscal Q2 2027 on September 2. And it crushed it: Product revenue was $1.49 billion, up 37% year over year, the third consecutive quarter of accelerating growth. The stock..."
   },
   {
     "title": "Unifying messaging and GTM across a fragmented SaaS portfolio",
@@ -54,6 +86,14 @@
     "source_name": "Intercom Blog",
     "date": "2026-09-09",
     "summary": "We asked over 1,000 end users how they felt about interacting with AI Agents, how capable they think they are, and how much they trust them. Here are our findings."
+  },
+  {
+    "title": "ElevenLabs Went From $0 to $600M+ ARR in 41 Months. When the AI Agent Closes the Deal, They Still Pay the Human. With Carles Reina, First VP of Revenue",
+    "url": "https://www.saastr.com/elevenlabs-went-from-0-to-600m-arr-in-41-months-when-the-ai-agent-closes-the-deal-they-still-pay-the-human-with-carles-reina-first-vp-of-revenue/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-09",
+    "summary": "Carles Reina was employee #4 at ElevenLabs and its first go-to-market hire. He was also its first investor. He spent the first nine months selling enterprise deals by himself, then built the entire..."
   },
   {
     "title": "How much does AEO cost? Pricing by agency, tools, and software",
@@ -3958,45 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-05-28",
     "summary": "The complete guide to Claude for product marketers. 86 pages covering Chat, Cowork, Code, Design, Skills, and Connectors, with real workflows for positioning, competitive intelligence, launch..."
-  },
-  {
-    "title": "AI PR Is Killing Your Startup’s Chances With the Media",
-    "url": "https://www.saastr.com/ai-pr-is-killing-your-startups-chances-with-the-media/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-28",
-    "summary": "Yeah. I never blocked any domains or people pre-AI … but now … every day The rotation and throway does get around it partially though I am surprised the lame PR apps don’t use them — Jason..."
-  },
-  {
-    "title": "Gartner: AI Software Spending to Grow 60% to $453B in 2026. And Another 41% to $638B in 2027",
-    "url": "https://www.saastr.com/gartner-ai-software-spending-to-grow-60-to-453b-in-2026-and-its-still-early/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-28",
-    "summary": "Gartner released its updated worldwide AI spending forecast last week. And per their latest data, AI software spend is … breathtaking: AI Software spending is growing to $453 billion in 2026. Up 60%..."
-  },
-  {
-    "title": "20VC x SaaStr This Week: Anthropic Hits 70% Margins, OpenAI Files Its S-1, and Nvidia Yawns at $58B",
-    "url": "https://www.saastr.com/20vc-x-saastr-this-week-anthropic-hits-70-margins-openai-files-its-s-1-and-nvidia-yawns-at-56b/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-28",
-    "summary": "We did the 20VC x SaaStr episode this week with Harry Stebbings and Rory O’Driscoll, and by the end something funny happened. Every single segment, no matter where we started, collapsed into the same..."
-  },
-  {
-    "title": "Claude Opus 4.8 is here. Is it as good as they say?",
-    "url": "https://www.lennysnewsletter.com/p/claude-opus-48-is-here-is-it-as-good",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-28",
-    "summary": "Watch now | 🎙️My first impressions of Opus 4.8—where it excels and where it falls short"
-  },
-  {
-    "title": "4 ways PMMs can drive engagement post-sale",
-    "url": "https://www.productmarketingalliance.com/4-ways-pmms-can-drive-engagement-post-sale/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-27",
-    "summary": "Discover 4 crucial strategies to collaborate with customer marketing and drive sustained SaaS active use and engagement."
   }
 ]
