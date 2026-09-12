@@ -1,11 +1,27 @@
 [
   {
+    "title": "Is the Era of the Sales-Guy CEO … Over in B2B?",
+    "url": "https://www.saastr.com/is-the-era-of-the-sales-guy-ceo-over-in-b2b/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-12",
+    "summary": "Frank Slootman is the only CEO in history to take three enterprise software companies public. Data Domain, then ServiceNow, then Snowflake. At their peaks those three were worth more than $200..."
+  },
+  {
     "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn’t Magical",
     "url": "https://www.saastr.com/one-thing-miro-airtable-show-getting-cash-flow-positive-isnt-magical/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-09-11",
     "summary": "Bending Spoons just announced a definitive agreement to acquire Miro at a $1.355 billion enterprise value. Five weeks ago it announced Airtable at $1.285 billion, and that one just closed. Two of the..."
+  },
+  {
+    "title": "How Sarah Reynolds, CMO of Benifex, stopped chasing the perfect case study and built a portfolio instead",
+    "url": "https://www.productmarketingalliance.com/stop-chasing-the-perfect-case-study-build-a-portfolio-instead/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-11",
+    "summary": "Learn how to build a diverse customer story portfolio that drives real commercial impact."
   },
   {
     "title": "Getting started with psychographic market segmentation",
@@ -3982,21 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-05-28",
     "summary": "You'll learn three exercises that will help you speak with confidence, recover quickly from rambling or blanking, and deliver a clear, concise point, even when the stakes are high."
-  },
-  {
-    "title": "How to be confident and engaging in high‑stakes meetings | July 16",
-    "url": "https://www.productmarketingalliance.com/lightning-lectures/get-confident/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-28",
-    "summary": "Learn three new exercises that will help you manage nerves and be more dynamic in high-stakes meetings."
-  },
-  {
-    "title": "Mastering Claude for product marketing eBook",
-    "url": "https://www.productmarketingalliance.com/mastering-claude-for-product-marketing-ebook/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-28",
-    "summary": "The complete guide to Claude for product marketers. 86 pages covering Chat, Cowork, Code, Design, Skills, and Connectors, with real workflows for positioning, competitive intelligence, launch..."
   }
 ]
