@@ -1,11 +1,27 @@
 [
   {
+    "title": "Harvey Puts a Former Practicing Lawyer in Every Deployment. About 180 of Them. Here’s How That Model Works",
+    "url": "https://www.saastr.com/harvey-puts-a-former-practicing-lawyer-in-every-deployment-about-180-of-them-heres-how-that-model-works/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-13",
+    "summary": "Everybody in B2B AI is rediscovering forward deployed engineers right now. Palantir ran the model for two decades, OpenAI built a team, and everyone has figured out agents don’t deploy themselves..."
+  },
+  {
     "title": "Is the Era of the Sales-Guy CEO … Over in B2B?",
     "url": "https://www.saastr.com/is-the-era-of-the-sales-guy-ceo-over-in-b2b/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-09-12",
     "summary": "Frank Slootman is the only CEO in history to take three enterprise software companies public. Data Domain, then ServiceNow, then Snowflake. At their peaks those three were worth more than $200..."
+  },
+  {
+    "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-12",
+    "summary": "Community Wisdom 298"
   },
   {
     "title": "One Thing Miro + Airtable Show: Getting Cash Flow Positive Isn’t Magical",
@@ -3982,21 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-05-29",
     "summary": "Retention keeps you alive. Advocacy makes you unstoppable."
-  },
-  {
-    "title": "The SaaSpocalypse Is Officially Over. Public Software Is Back to Green at the Index Level. But The Gains Aren’t Remotely Even.",
-    "url": "https://www.saastr.com/the-saaspocalypse-is-officially-over-public-software-is-back-to-green-at-the-index-level/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-29",
-    "summary": "The public software basket is back green for 2026. After the roughest start to the year for software stocks… ever. At the index level, the aggregate losses from the sell-off have been pared, and a..."
-  },
-  {
-    "title": "Start speaking clearly in high-stakes meetings | June 24",
-    "url": "https://www.productmarketingalliance.com/lightning-lectures/speaking-clearly/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-28",
-    "summary": "You'll learn three exercises that will help you speak with confidence, recover quickly from rambling or blanking, and deliver a clear, concise point, even when the stakes are high."
   }
 ]
