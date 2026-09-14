@@ -1,11 +1,43 @@
 [
   {
+    "title": "Why your Unified Value Logic always breaks down in the room",
+    "url": "https://www.productmarketingalliance.com/unified-value-logic/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-14",
+    "summary": "Learn why enterprise Unified Value Logic collapses and how to build resilient positioning using the Multi-Dimensional Trust Architecture."
+  },
+  {
+    "title": "We Run 21 AI Agents and They’ve Closed Millions. But There Still Isn’t a Good AI Account Executive. Yet",
+    "url": "https://www.saastr.com/we-run-21-ai-agents-and-theyve-closed-millions-but-there-still-isnt-a-good-ai-account-executive-yet/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-14",
+    "summary": "We run 21 AI agents in production at SaaStr. They have closed millions in revenue. They book meetings on Saturday nights, resurrect leads nobody had touched in six months, run the invoice and the..."
+  },
+  {
+    "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+    "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-14",
+    "summary": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes"
+  },
+  {
     "title": "Harvey Puts a Former Practicing Lawyer in Every Deployment. About 180 of Them. Here’s How That Model Works",
     "url": "https://www.saastr.com/harvey-puts-a-former-practicing-lawyer-in-every-deployment-about-180-of-them-heres-how-that-model-works/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-09-13",
     "summary": "Everybody in B2B AI is rediscovering forward deployed engineers right now. Palantir ran the model for two decades, OpenAI built a team, and everyone has figured out agents don’t deploy themselves..."
+  },
+  {
+    "title": "SaaStr AI App of the Week: Sumble. The Kaggle Founders Rebuilt Sales Intelligence Around Context, Not Contacts",
+    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-sumble-the-kaggle-founders-rebuilt-sales-intelligence-around-context-not-contacts/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-13",
+    "summary": "by Jason Lemkin | AI App of Week, Blog Posts The Next Generation App To Learn What’s Really Happening In Your Target Accounts Sumble is a knowledge graph of what’s actually happening inside your..."
   },
   {
     "title": "Is the Era of the Sales-Guy CEO … Over in B2B?",
@@ -3966,37 +3998,5 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-05-30",
     "summary": "Community Wisdom 187"
-  },
-  {
-    "title": "GTM for PMMs Summit | Virtual, April 2026",
-    "url": "https://www.productmarketingalliance.com/gtm-for-pmms-summit-virtual-april-2026/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-29",
-    "summary": "Catch up on all session from GTM for PMMs Virtual Summit including insights from IBM, Global Payments Inc, Alma, and more."
-  },
-  {
-    "title": "How Our AI Agent Booked 614 Meetings from 442K Chats, And Why B Leads Are Pure Gold If You Add AI. The Top Learnings from Agent’s Day of SaaStr AI Annual 2026",
-    "url": "https://www.saastr.com/how-our-ai-agent-booked-614-meetings-from-442k-chats-why-b-leads-are-pure-gold-if-you-add-ai-and-8-other-top-learnings-from-the-final-day-of-saastr-ai-annual-2026/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-29",
-    "summary": "The final day at SaaStr AI Annual was our agent stack deep dive day. Amelia and I walked through the 20+ agents we run our business on. Adam Guild from Owner.com showed how they crossed $100M ARR by..."
-  },
-  {
-    "title": "Salesforce Just Reaccelerated Growth at $45B+ ARR. It Took the Entire Kitchen Sink. 5 Learnings.",
-    "url": "https://www.saastr.com/salesforce-just-reaccelerated-growth-at-45b-scale-it-took-the-entire-kitchen-sink-5-learnings/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-29",
-    "summary": "Reaccelerating growth at scale is the hardest thing in B2B. Almost no one does it. The law of large numbers is tough to defeat: the bigger you get, the more new revenue you need just to hold the same..."
-  },
-  {
-    "title": "Why advocacy beats retention as a growth engine for 2026",
-    "url": "https://www.productmarketingalliance.com/why-advocacy-beats-retention-as-a-growth-engine-for-2026/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-05-29",
-    "summary": "Retention keeps you alive. Advocacy makes you unstoppable."
   }
 ]
