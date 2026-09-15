@@ -1,5 +1,37 @@
 [
   {
+    "title": "Product Marketing Summit San Francisco, September 2026",
+    "url": "https://www.productmarketingalliance.com/product-marketing-summit-san-francisco-september-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-15",
+    "summary": "Catch up on every session from Product Marketing Summit San Francisco 2026 with sessions from the likes of AT&T, Google and more."
+  },
+  {
+    "title": "Enterprise email marketing shortfalls and the upmarket features to avoid them",
+    "url": "https://blog.hubspot.com/marketing/advanced-email-marketing-challenges",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-15",
+    "summary": "Most email marketing teams know the basics. Authenticate your domain. Clean your list. Write a compelling subject line—test before you send."
+  },
+  {
+    "title": "What Would an Independent Slack Look Like If It Hadn’t Sold to Salesforce? And Would It Still Be Worth $27 Billion?",
+    "url": "https://www.saastr.com/what-would-slack-look-like-on-its-own-today-and-what-would-the-comp-be/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-15",
+    "summary": "Julian Lehr asked a good question the other day on X: what if Slack had never sold to Salesforce, stayed in founder mode, and went hard at AI? What would the product look like, and what would it be..."
+  },
+  {
+    "title": "60+ new creative growth ideas",
+    "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-15",
+    "summary": "How to stand out when everyone is running the same playbook"
+  },
+  {
     "title": "Why your Unified Value Logic always breaks down in the room",
     "url": "https://www.productmarketingalliance.com/unified-value-logic/",
     "source": "pma",
@@ -22,6 +54,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-14",
     "summary": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes"
+  },
+  {
+    "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-14",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "Harvey Puts a Former Practicing Lawyer in Every Deployment. About 180 of Them. Here’s How That Model Works",
@@ -3958,45 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-05-31",
     "summary": "The Replit team came out in force to SaaStr AI 2026 (from the CEO to the CRO and the President!). They also in an unguarded moment interviewed me on stage and off stage about how we’re actually..."
-  },
-  {
-    "title": "A rational conversation on where AI is actually going | Benedict Evans",
-    "url": "https://www.lennysnewsletter.com/p/a-rational-conversation-on-where",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-31",
-    "summary": "Benedict Evans on why AI is a 1997 internet moment, what everyone gets wrong about job loss, and where the real value may accrue"
-  },
-  {
-    "title": "One Unexpected Benefit of Our AI VP Customer Success: Customers Yell a Lot Less. Everything Is Just … More Calm.",
-    "url": "https://www.saastr.com/one-unexpected-benefit-of-our-ai-vp-customer-success-customers-yell-a-lot-less-everything-is-just-more-calm/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-30",
-    "summary": "Agents Really > Humans in Many Cases. If the AI Agent is Really Well Trained and Designed. There’s a part of running AI agents in production that nobody writes about. It’s not the cost. It’s not the..."
-  },
-  {
-    "title": "AI App of the Week: Delightloop, the AI Agent That Closes Deals With Physical Gifts",
-    "url": "https://www.saastr.com/aiappweekdelightloop/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-30",
-    "summary": "For years, B2B gifting was a manual, expensive afterthought. A field marketer would spend 200 hours a quarter sourcing tchotchkes, guessing addresses, hoping the package landed before the rep gave up..."
-  },
-  {
-    "title": "How One AI Teammate Beat a Stack of 20 AI Sales Agents With Vivun’s CMO",
-    "url": "https://www.saastr.com/how-one-ai-teammate-beat-a-stack-of-20-ai-sales-agents-with-vivuns-cmo/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-05-30",
-    "summary": "Most go-to-market teams spent the last 18 months buying an agent for every job. Gartner told them to. The advice was to evaluate agents for discrete parts of the sales cycle: a task, an agent; a..."
-  },
-  {
-    "title": "🧠 Community Wisdom: Catching people using AI during an interview, org design when everything lives in one person’s head, when to rename your product, from nurse to health-tech PM, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-catching-people",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-05-30",
-    "summary": "Community Wisdom 187"
   }
 ]
