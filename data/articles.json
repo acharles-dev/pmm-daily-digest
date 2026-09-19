@@ -1,5 +1,69 @@
 [
   {
+    "title": "A Full Teardown of How SaaStr AI Actually Runs Inbound, Renewals, and Outbound on the Latest The Agents",
+    "url": "https://www.saastr.com/a-full-teardown-of-how-saastr-ai-actually-runs-inbound-renewals-and-outbound-on-the-latest-the-agents/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-19",
+    "summary": "We talk a lot on The Agents pod about what our agent stack does. This episode Amelia walked through what it actually, exactly looks like, screen by screen, with the real inputs and the real outputs:..."
+  },
+  {
+    "title": "Matt Ziegler, Sr Director of Solutions Marketing at Claroty, shares how to scale PMM without burning out",
+    "url": "https://www.productmarketingalliance.com/scale-pmm-without-burning-out/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": "Three steps to a PMM function that scales itself."
+  },
+  {
+    "title": "Competitive Intelligence Certified: Masters | Virtual",
+    "url": "https://www.productmarketingalliance.com/learning/live-virtual/competitive-intelligence-certified-masters-virtual/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": "Master every facet of product marketing with our CIM and CPD-accredited certification. Tailored insights, practical activities, and industry expertise await."
+  },
+  {
+    "title": "Messaging Certified: Masters | Virtual",
+    "url": "https://www.productmarketingalliance.com/learning/live-virtual/messaging-certified-masters-virtual/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": "Master every facet of product marketing with our CIM and CPD-accredited certification. Tailored insights, practical activities, and industry expertise await."
+  },
+  {
+    "title": "AI for Product Marketing Certified: Masters | Virtual",
+    "url": "https://www.productmarketingalliance.com/learning/live-virtual/ai-for-product-marketing-certified-masters-virtual/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": "Master every facet of product marketing with our CIM and CPD-accredited certification. Tailored insights, practical activities, and industry expertise await."
+  },
+  {
+    "title": "Go-to-Market Certified: Masters | Virtual",
+    "url": "https://www.productmarketingalliance.com/learning/live-virtual/go-to-market-certified-masters-virtual/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": ""
+  },
+  {
+    "title": "Win/Loss Certified: Masters | Virtual",
+    "url": "https://www.productmarketingalliance.com/learning/live-virtual/win-loss-certified-masters-virtual/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-18",
+    "summary": "Master every facet of product marketing with our CIM and CPD-accredited certification. Tailored insights, practical activities, and industry expertise await."
+  },
+  {
+    "title": "What’s Truly “Great” Now in B2B + AI Per ICONIQ? 115% Growth at $100M+, 55% Gross Margins, and $655K in Revenue Per Employee",
+    "url": "https://www.saastr.com/whats-truly-great-now-in-b2b-ai-per-iconiq-115-growth-at-100m-55-gross-margins-and-655k-in-revenue-per-employee/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-18",
+    "summary": "ICONIQ just published The Pacesetter Index. It replaces their Enterprise Five Scorecard, and shows the real growth rates and metrics for the top venture-backed startups. Not the average. But to be..."
+  },
+  {
     "title": "5 Interesting Learnings from ServiceTitan at $1.14 Billion in Revenue: 21% Growth … But a Back Half Guided to Mid-Teens, and a 30% One-Day Stock Price Drop",
     "url": "https://www.saastr.com/5-interesting-learnings-from-servicetitan-at-1-14-billion-in-revenue-21-growth-but-a-back-half-guided-to-mid-teens-and-a-30-one-day-stock-price-drop/",
     "source": "saastr",
@@ -3934,69 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-02",
     "summary": "One of the classic original SaaStr posts was on the Top 10+ Questions to Ask a VP of Sales Candidate. I updated it in 2025. I’m updating it again for 2026, because the world has changed even more...."
-  },
-  {
-    "title": "Sales enablement learning path",
-    "url": "https://www.productmarketingalliance.com/learning-paths/sales-enablement-learning-path-2/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-01",
-    "summary": ""
-  },
-  {
-    "title": "Learning paths (Emi testing)",
-    "url": "https://www.productmarketingalliance.com/learning-paths/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-01",
-    "summary": ""
-  },
-  {
-    "title": "PMM Powerhour: Win/Loss Analysis",
-    "url": "https://www.productmarketingalliance.com/pmm-powerhour/win-loss-june/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-01",
-    "summary": ""
-  },
-  {
-    "title": "PMM Powerhour: Custom persona GPTs",
-    "url": "https://www.productmarketingalliance.com/pmm-powerhour/custom-persona-gpts/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-01",
-    "summary": ""
-  },
-  {
-    "title": "PMM Powerhour: Solo PMM",
-    "url": "https://www.productmarketingalliance.com/pmm-powerhour/solo-pmm-june/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-01",
-    "summary": ""
-  },
-  {
-    "title": "The AI Perception-Reality Gap",
-    "url": "https://blog.hubspot.com/marketing/ai-perception-reality-gap",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-06-01",
-    "summary": "There’s a widening gap between what the market says about AI and what we actually hear from customers. The media, the VCs, the AI labs, and influencers have all talked about AI replacing humans,..."
-  },
-  {
-    "title": "Right Now, We Run 4+ AI SDR Agents. Here’s Why.",
-    "url": "https://www.saastr.com/right-now-we-run-4-ai-sdr-agents-heres-why/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-01",
-    "summary": "We’ll take four A+ specialized AI agents over one B+ all-in-one platform every time. At least … for now. The all-in-one AI agent builders promise simplicity. What they deliver is mediocrity across..."
-  },
-  {
-    "title": "Entrata at $575m ARR Growing 23% Is First of the Next Wave of PE-Backed Software IPOs. The Catch: Almost None of Them Are Accelerating.",
-    "url": "https://www.saastr.com/entrata-is-first-of-the-next-wave-of-pe-backed-software-ipos-the-catch-almost-none-of-them-are-accelerating/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-01",
-    "summary": "Entrata filed its S-1 on May 28 to list on the NYSE under the ticker “ENT.” It’s the multifamily property management Operating System out of Lehi, Utah, founded way back in 2003, with Silver Lake..."
   }
 ]
