@@ -1,11 +1,35 @@
 [
   {
+    "title": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse And It’s Great, and Miro Sells for $1.35B After a $17.5B Mark",
+    "url": "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-20",
+    "summary": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse, and Miro Sells for $1.35B After a $17.5B Mark Plus: a $1B round at $10B for Instinct, Discovery Loop from $10B to $50B in weeks, and Mistral’s €3B..."
+  },
+  {
+    "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+    "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-20",
+    "summary": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM"
+  },
+  {
     "title": "A Full Teardown of How SaaStr AI Actually Runs Inbound, Renewals, and Outbound on the Latest The Agents",
     "url": "https://www.saastr.com/a-full-teardown-of-how-saastr-ai-actually-runs-inbound-renewals-and-outbound-on-the-latest-the-agents/",
     "source": "saastr",
     "source_name": "SaaStr",
     "date": "2026-09-19",
     "summary": "We talk a lot on The Agents pod about what our agent stack does. This episode Amelia walked through what it actually, exactly looks like, screen by screen, with the real inputs and the real outputs:..."
+  },
+  {
+    "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+    "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-19",
+    "summary": "Community Wisdom 299"
   },
   {
     "title": "Matt Ziegler, Sr Director of Solutions Marketing at Claroty, shares how to scale PMM without burning out",
@@ -3974,29 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-03",
     "summary": "We run SaaStr AI on 3 humans and 21+ AI agents. At SaaStr AI 2026 we did something we’d never done before: we pulled up the back ends of our top agents live, in front of the room, and went through..."
-  },
-  {
-    "title": "Agents Just Passed Humans in Token Usage. And They Burn Far More Than Anyone Budgeted. A Deep Dive With OpenRouter’s COO",
-    "url": "https://www.saastr.com/agents-just-passed-humans-in-token-usage-and-they-burn-far-more-than-anyone-budgeted-a-deep-dive-with-openrouters-coo/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-03",
-    "summary": "If you want a clean read on where AI is heading, look at the inference. Chris Clark, COO and co-founder of OpenRouter, runs the largest AI gateway in the world: around 70 model providers, hundreds of..."
-  },
-  {
-    "title": "Gemini Omni: Clone yourself with AI in under 15 minutes",
-    "url": "https://www.lennysnewsletter.com/p/gemini-omni-clone-yourself-with-ai",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-06-03",
-    "summary": "Watch now | 🎙️ Testing Google’s Gemini Omni avatar feature live—I scan a QR code, clone my face, and ship a hype reel"
-  },
-  {
-    "title": "The Top 15 Questions to Ask a VP of Sales During an Interview (Updated for 2026)",
-    "url": "https://www.saastr.com/the-top-15-questions-to-ask-a-vp-of-sales-during-an-interview-updated-for-2026/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-02",
-    "summary": "One of the classic original SaaStr posts was on the Top 10+ Questions to Ask a VP of Sales Candidate. I updated it in 2025. I’m updating it again for 2026, because the world has changed even more...."
   }
 ]
