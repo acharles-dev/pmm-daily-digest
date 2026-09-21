@@ -1,5 +1,37 @@
 [
   {
+    "title": "B2C campaign tracker template",
+    "url": "https://www.productmarketingalliance.com/b2c-campaign-tracker-template-framework/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-21",
+    "summary": "Track every B2C campaign from first click to conversion."
+  },
+  {
+    "title": "The psychology behind why AI shows it's working",
+    "url": "https://blog.hubspot.com/marketing/why-ai-shows-loadtime",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-21",
+    "summary": "In 2025, most of the major answer engines made an almost identical update. Claude, ChatGPT, Gemini, and many others started to show what they were thinking."
+  },
+  {
+    "title": "The New Career Path: Joining a 0% Grower. Maybe For Many, It’s Better.",
+    "url": "https://www.saastr.com/the-new-career-path-joining-a-0-grower-maybe-for-many-its-better/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-21",
+    "summary": "So there’s a new option for seasoned B2B execs now: join something growing … 0%. Ok maybe 0%-10%, let’s call it. This sounds a little wacky described as a career choice. But it’s something some execs..."
+  },
+  {
+    "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+    "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-21",
+    "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI..."
+  },
+  {
     "title": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse And It’s Great, and Miro Sells for $1.35B After a $17.5B Mark",
     "url": "https://www.saastr.com/20vc-x-saastr-pacing-the-frontier-meta-ships-muse-and-its-great-and-miro-sells-for-1-35b-after-a-17-5b-mark/",
     "source": "saastr",
@@ -3966,37 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-04",
     "summary": "The fastest-growing companies in B2B + AI are not running the customer success playbook the rest of the market spent a decade building. At the FDE / CS Summit at SaaStr AI Annual 2026, leaders from..."
-  },
-  {
-    "title": "Announcing The New SaaStr AI University: Our Best Playbooks, And 4 Free Courses. We’ll Get You AI Fluent.",
-    "url": "https://www.saastr.com/saastraiuniversity/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-04",
-    "summary": "For 13 years, we’ve published 4,000+ posts, run hundreds of sessions, and shared just about everything we’ve learned about building B2B and now B2B + AI companies. But it’s mostly scattered. A post..."
-  },
-  {
-    "title": "The 5 lens framework for launch readiness",
-    "url": "https://www.productmarketingalliance.com/the-5-lens-framework-for-launch-readiness/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-03",
-    "summary": "Learn the five critical lenses product marketers must use to assess and ensure a successful go-live."
-  },
-  {
-    "title": "On-page content formats answer engines actually favor [new research]",
-    "url": "https://blog.hubspot.com/marketing/content-format-types-that-earn-citations",
-    "source": "hubspot",
-    "source_name": "HubSpot Marketing",
-    "date": "2026-06-03",
-    "summary": "It seems like every brand is scrambling to get a piece of the pie in this new answer engine optimization (AEO) world. But what if you could get ahead of the curve by knowing the best on-page content..."
-  },
-  {
-    "title": "The Agents #006: We Run SaaStr AI on 3 Humans and 21+ AI Agents. Here’s Every Agent, Agent by Agent, With the Numbers.",
-    "url": "https://www.saastr.com/the-agents-episode-06-we-run-saastr-on-3-humans-and-21-ai-agents-heres-every-agent-agent-by-agent-with-the-numbers/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-03",
-    "summary": "We run SaaStr AI on 3 humans and 21+ AI agents. At SaaStr AI 2026 we did something we’d never done before: we pulled up the back ends of our top agents live, in front of the room, and went through..."
   }
 ]
