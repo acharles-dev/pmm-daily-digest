@@ -1,5 +1,21 @@
 [
   {
+    "title": "Being a System of Record Helps With Retention. But Alone, It Won’t Equal Growth",
+    "url": "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-22",
+    "summary": "The other day ServiceTitan shut off Podium’s integration for roughly 1,000 shared customers after a nine-year partnership. The coverage mostly framed it as a breakup. It works better as a case study..."
+  },
+  {
+    "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+    "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-22",
+    "summary": "Why you should never skip error discovery"
+  },
+  {
     "title": "B2C campaign tracker template",
     "url": "https://www.productmarketingalliance.com/b2c-campaign-tracker-template-framework/",
     "source": "pma",
@@ -30,6 +46,14 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-21",
     "summary": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI..."
+  },
+  {
+    "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+    "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-21",
+    "summary": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network"
   },
   {
     "title": "20VC x SaaStr: Pacing the Frontier, Meta Ships Muse And It’s Great, and Miro Sells for $1.35B After a $17.5B Mark",
@@ -3974,29 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-06-04",
     "summary": "Swati Tripathi thought a failed GTM experiment was behind her, until PMA Pro+ training gave her the confidence to try it again. Here's how the membership transformed her approach to product marketing."
-  },
-  {
-    "title": "Playing a different game",
-    "url": "https://www.intercom.com/blog/playing-a-different-game/",
-    "source": "intercom",
-    "source_name": "Intercom Blog",
-    "date": "2026-06-04",
-    "summary": "Announcing Fin Voice 2, a major upgrade to Fin Voice with over 20 new features, and our first product built on Apex Flash."
-  },
-  {
-    "title": "20VC x SaaStr is Back!! Tokens Over Humans, the End of the SaaSpocalypse, and the Trillion-Dollar Land Grab",
-    "url": "https://www.saastr.com/20vc-x-saastr-is-back-tokens-over-humans-the-end-of-the-saaspocalypse-and-the-trillion-dollar-land-grab/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-04",
-    "summary": "The latest 20VC roundtable with Harry Stebbings, Rory and Jason ran through nine of the biggest stories in B2B and AI right now. Anthropic filing to go public the same week it closed a $65B round...."
-  },
-  {
-    "title": "What Lovable, Harvey & Assembly AI Are Doing in Customer Success. That You’re Not",
-    "url": "https://www.saastr.com/what-lovable-harvey-assembly-ai-are-doing-in-customer-success-that-youre-not/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-04",
-    "summary": "The fastest-growing companies in B2B + AI are not running the customer success playbook the rest of the market spent a decade building. At the FDE / CS Summit at SaaStr AI Annual 2026, leaders from..."
   }
 ]
