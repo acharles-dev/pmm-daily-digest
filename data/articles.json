@@ -1,5 +1,21 @@
 [
   {
+    "title": "Stop marketing to developers: What happened when I gave them something to build",
+    "url": "https://www.productmarketingalliance.com/developer-marketing/how-trust-gets-built-instead-of-bought/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-23",
+    "summary": "Discover why paid ads fail with developers and how to build authentic trust through hackathons, transparent documentation, and community engagement."
+  },
+  {
+    "title": "The SaaStr AI Guide to Building a Top-Tier Inbound AI Agent: 17,000 Conversations, ~600 Meetings Booked, and 60% More New Business",
+    "url": "https://www.saastr.com/the-saastr-ai-guide-to-building-a-top-tier-inbound-ai-agent-17000-conversations-600-meetings-booked-and-60-more-new-business/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-23",
+    "summary": "Our inbound AI agent has had 17,000 conversations with prospects in the last 12 months and booked about 600 meetings for SaaStr AI Annual. Together with the newer self-serve agent we added on top of..."
+  },
+  {
     "title": "Being a System of Record Helps With Retention. But Alone, It Won’t Equal Growth",
     "url": "https://www.saastr.com/being-a-system-of-record-helps-with-retention-but-alone-it-wont-equal-growth/",
     "source": "saastr",
@@ -14,6 +30,22 @@
     "source_name": "Lenny's Newsletter",
     "date": "2026-09-22",
     "summary": "Why you should never skip error discovery"
+  },
+  {
+    "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+    "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-22",
+    "summary": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench"
+  },
+  {
+    "title": "I left Claude for months. Opus 5.5 is why I'm back",
+    "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+    "source": "lenny",
+    "source_name": "Lenny's Newsletter",
+    "date": "2026-09-22",
+    "summary": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and..."
   },
   {
     "title": "B2C campaign tracker template",
@@ -3966,37 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-05",
     "summary": "Inside the AI Agent Stacks at SaaStr, Owner.com & Klaviyo | SaaStr AI Annual 2026 Final Day Three companies. Three different stages. Three different markets. But all three have done the same thing in..."
-  },
-  {
-    "title": "SaaStr AI App of the Week: Pylon. The AI-Native Support Platform Built for B2B, Not Reheated B2C",
-    "url": "https://www.saastr.com/saastr-ai-app-of-the-week-pylon-the-ai-native-support-platform-built-for-b2b-not-reheated-b2c/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-05",
-    "summary": "The Bottom Line: Pylon is the support platform built from scratch for B2B, where the real conversations happen in Slack and Teams, accounts are worth six and seven figures, and “deflection” is the..."
-  },
-  {
-    "title": "PLG is getting more technical, more cross-functional, and more human",
-    "url": "https://alleged-peace.flywheelsites.com/plg-is-getting-more-technical-more-cross-functional-and-more-human/",
-    "source": "chartmogul",
-    "source_name": "ChartMogul",
-    "date": "2026-06-05",
-    "summary": "The vast majority of our customers are building ambitious SaaS businesses by way of smart, opinionated products. They don’t have massive amounts of capital, rooms full of Enterprise AEs, or..."
-  },
-  {
-    "title": "Product Marketing Summit | Amsterdam, 2026",
-    "url": "https://www.productmarketingalliance.com/product-marketing-summit-amsterdam-2026-2/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-04",
-    "summary": "Catch up on all sessions from Product Marketing Summit Amsterdam with insights from Royal Schiphol Group, Mastercard, Microsoft and more."
-  },
-  {
-    "title": "How PMA Pro+ changed my approach to experimentation",
-    "url": "https://www.productmarketingalliance.com/how-pma-pro-changed-my-approach-to-experimentation/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-04",
-    "summary": "Swati Tripathi thought a failed GTM experiment was behind her, until PMA Pro+ training gave her the confidence to try it again. Here's how the membership transformed her approach to product marketing."
   }
 ]
