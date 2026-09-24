@@ -1,5 +1,29 @@
 [
   {
+    "title": "Developer Marketing Summit | San Francisco, 2026",
+    "url": "https://www.productmarketingalliance.com/developer-marketing-summit-san-francisco-2026/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-24",
+    "summary": "Catch up on all sessions from Developer Marketing Summit San Francisco with insights from Google, Twilio & more"
+  },
+  {
+    "title": "What is a brand persona? Examples inside",
+    "url": "https://www.productmarketingalliance.com/your-blueprint-for-aligning-social-campaigns-with-brand-personas/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-24",
+    "summary": "Learn how to build a brand persona and align it with your social campaigns in order to optimize your company's online presence."
+  },
+  {
+    "title": "Stripe’s AI CRO on the Fastest-Growing AI Companies: 175% Growth, 48% of Revenue From Outside the Home Market, and Agents About to Read More Stripe Docs Than Human",
+    "url": "https://www.saastr.com/stripes-ai-cro-on-the-fastest-growing-ai-companies-175-growth-48-of-revenue-from-outside-the-home-market-and-agents-about-to-read-more-stripe-docs-than-human/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-24",
+    "summary": "Stripe processes payments for most of the fastest-growing AI companies in the world, so it sees their actual revenue data. At her SaaStr AI session, Maia Josebachvili, Chief Revenue Officer of AI at..."
+  },
+  {
     "title": "Stop marketing to developers: What happened when I gave them something to build",
     "url": "https://www.productmarketingalliance.com/developer-marketing/how-trust-gets-built-instead-of-bought/",
     "source": "pma",
@@ -14,6 +38,14 @@
     "source_name": "SaaStr",
     "date": "2026-09-23",
     "summary": "Our inbound AI agent has had 17,000 conversations with prospects in the last 12 months and booked about 600 meetings for SaaStr AI Annual. Together with the newer self-serve agent we added on top of..."
+  },
+  {
+    "title": "AEO checker tools that measure answer engine visibility [2026]",
+    "url": "https://blog.hubspot.com/marketing/best-aeo-checkers",
+    "source": "hubspot",
+    "source_name": "HubSpot Marketing",
+    "date": "2026-09-23",
+    "summary": "An AEO checker tells you whether the AI answers your buyers rely on actually mention your brand. People increasingly ask ChatGPT, Perplexity, and Gemini a question and act on the reply without..."
   },
   {
     "title": "Being a System of Record Helps With Retention. But Alone, It Won’t Equal Growth",
@@ -3966,37 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-06",
     "summary": "Tom Occhino has built foundational infrastructure at the kind of scale almost no one in B2B will ever touch. He spent over 12 years at Facebook, where he co-created React and React Native and shaped..."
-  },
-  {
-    "title": "🧠 Community Wisdom: Bootstrapping vs. raising funding, building the roadmap of your vibe-coded app, AI agents and data integrity, your first project as an APM, and more",
-    "url": "https://www.lennysnewsletter.com/p/community-wisdom-bootstrapping-vs",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-06-06",
-    "summary": "Community Wisdom 188"
-  },
-  {
-    "title": "Product x PMM: From hand-offs to true partnership",
-    "url": "https://www.productmarketingalliance.com/product-pmm-hand-offs-to-true-partnership/",
-    "source": "pma",
-    "source_name": "Product Marketing Alliance",
-    "date": "2026-06-05",
-    "summary": "The best PMMs don't wait for launch day to show up."
-  },
-  {
-    "title": "$400M ARR With Under 200 People: What Lovable’s Head of Growth Elena Verna Says Actually Works in B2B Now",
-    "url": "https://www.saastr.com/400m-arr-with-under-200-people-what-lovables-head-of-growth-elena-verna-says-actually-works-in-b2b-now/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-05",
-    "summary": "When Elena Verna, Head of Growth at Lovable, took the stage at SaaStr AI, she’d just hit her one-year anniversary at the company. She walked through the question many B2B leaders are wrestling with:..."
-  },
-  {
-    "title": "Inside the AI Agent Stacks at SaaStr, Owner.com & Klaviyo | The Deep Dives From SaaStr AI 2026",
-    "url": "https://www.saastr.com/inside-the-ai-agent-stacks-at-saastr-owner-com-klaviyo-the-deep-dives-from-saastr-ai-2026/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-05",
-    "summary": "Inside the AI Agent Stacks at SaaStr, Owner.com & Klaviyo | SaaStr AI Annual 2026 Final Day Three companies. Three different stages. Three different markets. But all three have done the same thing in..."
   }
 ]
