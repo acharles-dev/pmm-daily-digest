@@ -1,5 +1,21 @@
 [
   {
+    "title": "AI-augmented win/loss analysis eBook",
+    "url": "https://www.productmarketingalliance.com/ai-augmented-win-loss-analysis-ebook/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-25",
+    "summary": "Free guide for PMMs and CI teams: where AI speeds up win/loss analysis, where it fails, plus 3 prompts, a tool map, and a worked example."
+  },
+  {
+    "title": "5 Interesting Learnings from GitLab at $1.13 Billion in Revenue: 24% Billings Growth, $20M of Flex in Six Weeks, and 400 Basis Points of AI Margin Cost",
+    "url": "https://www.saastr.com/5-interesting-learnings-from-gitlab-at-1-13-billion-in-revenue-24-billings-growth-20m-of-flex-in-six-weeks-and-400-basis-points-of-ai-margin-cost/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-25",
+    "summary": "Four months ago GitLab looked like the clearest AI casualty in public B2B: The stock was in the high teens. In May the company announced it would cut roughly 14% of its workforce, about 350 people,..."
+  },
+  {
     "title": "Developer Marketing Summit | San Francisco, 2026",
     "url": "https://www.productmarketingalliance.com/developer-marketing-summit-san-francisco-2026/",
     "source": "pma",
@@ -3982,21 +3998,5 @@
     "source_name": "SaaStr",
     "date": "2026-06-06",
     "summary": "We didn’t want to build it. We run 20+ AI agents at SaaStr. We’ve invested over $500K in AI infrastructure. We follow one rule religiously: buy 90% of what you need, only build the 10% where no..."
-  },
-  {
-    "title": "It Took Apple 42 Years to Reach $1 Trillion. Anthropic Will Do It in 5.",
-    "url": "https://www.saastr.com/it-took-apple-42-years-to-reach-1-trillion-anthropic-will-do-it-in-5/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-06",
-    "summary": "AI has reset everything we knew about the pace, size and scale of company building. At least for the true outliers. The first: Anthropic raised $65 billion at a $965 billion valuation and filed..."
-  },
-  {
-    "title": "How Vercel Runs on AI Agents: 96% of Marketing, 93% of Support, and an SDR Team Reabsorbed. A Deep Dive With CPO Tom Occhino",
-    "url": "https://www.saastr.com/how-vercel-runs-on-ai-agents-96-of-marketing-93-of-support-and-an-sdr-team-reabsorbed-a-deep-dive-with-cpo-tom-occhino/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-06",
-    "summary": "Tom Occhino has built foundational infrastructure at the kind of scale almost no one in B2B will ever touch. He spent over 12 years at Facebook, where he co-created React and React Native and shaped..."
   }
 ]
