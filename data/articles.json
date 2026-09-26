@@ -1,5 +1,13 @@
 [
   {
+    "title": "Everyone Should Publish the Deepest, Most Direct Competitive Evals They Can. Case Study: $100m ARR Gorgias for AI CX",
+    "url": "https://www.saastr.com/everyone-should-publish-the-deepest-most-direct-competitive-evals-they-can-case-study-100m-arr-gorgias-for-ai-cx/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-26",
+    "summary": "Everyone should publish the deepest, most direct competitive evals they can Will there always be some bias? Yes But @gorgiasio did it the right way in ecomm CX: 👉Open-sourced the whole harness👉8,356..."
+  },
+  {
     "title": "AI-augmented win/loss analysis eBook",
     "url": "https://www.productmarketingalliance.com/ai-augmented-win-loss-analysis-ebook/",
     "source": "pma",
@@ -14,6 +22,30 @@
     "source_name": "SaaStr",
     "date": "2026-09-25",
     "summary": "Four months ago GitLab looked like the clearest AI casualty in public B2B: The stock was in the high teens. In May the company announced it would cut roughly 14% of its workforce, about 350 people,..."
+  },
+  {
+    "title": "How Abid Chaudhry, Sr. Director of PMM at ServiceNow, built a system that feeds AI the right context every time",
+    "url": "https://www.productmarketingalliance.com/feed-ai-the-right-context-every-time/",
+    "source": "pma",
+    "source_name": "Product Marketing Alliance",
+    "date": "2026-09-25",
+    "summary": "Your differentiation lives in what you feed the machine."
+  },
+  {
+    "title": "Anthropic Pushes Its $2 Trillion IPO to November, Meta’s Muse Hits #1, and a $40M Seed for a Model That Doesn’t Talk: The Latest 20VC x SaaStr",
+    "url": "https://www.saastr.com/anthropic-pushes-its-2-trillion-ipo-to-november-metas-muse-hits-1-and-a-40m-seed-for-a-model-that-doesnt-talk-the-latest-20vc-x-saastr/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-25",
+    "summary": "With Harry Stebbings, Rory O’Driscoll and Jason Lemkin This week’s 20VC x SaaStr covered a lot. Anthropic moved its IPO back a month. OpenAI’s internal forecast put total burn through 2030 at $278..."
+  },
+  {
+    "title": "Dear SaaStr: How Do We Close Bigger Deals?",
+    "url": "https://www.saastr.com/how-do-we-close-bigger-deals-in-saas/",
+    "source": "saastr",
+    "source_name": "SaaStr",
+    "date": "2026-09-25",
+    "summary": "Dear SaaStr: How Do We Close Bigger Deals? If you already have a few bigger deals under your belt, but most are smaller … a few higher-level suggestions: #1. Hire a Very Good CRO / VP of Sales that..."
   },
   {
     "title": "Developer Marketing Summit | San Francisco, 2026",
@@ -3966,37 +3998,5 @@
     "source_name": "Product Marketing Alliance",
     "date": "2026-06-08",
     "summary": "Build a Claude workflow that fits the way you work – from context files to skill stack to connected toolkit."
-  },
-  {
-    "title": "Top 10 Takeaways from The Agents #006: The Numbers Behind Our Full Go-To-Market Agent Stack",
-    "url": "https://www.saastr.com/top-10-takeaways-from-the-agents-006-the-numbers-behind-our-full-go-to-market-agent-stack/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-07",
-    "summary": "On the latest episode of The Agents, we walked through the actual back ends of our top go-to-market agents: commit counts, API stacks, monthly costs, and live demos. We run SaaStr with 3 humans and..."
-  },
-  {
-    "title": "22 Tools. $3M in Fees. 11 Ops People. Aurasell CEO’s Case for Killing the GTM Stack",
-    "url": "https://www.saastr.com/22-tools-3m-in-fees-11-ops-people-aurasells-case-for-killing-the-gtm-stack/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-07",
-    "summary": "At SaaStr AI 2026, Aurasell co-founder and CEO Jason Eubanks skipped the AI futurism. He put the exact go-to-market stack he ran at his last company on screen, what it cost to run, and why he thinks..."
-  },
-  {
-    "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
-    "url": "https://www.lennysnewsletter.com/p/father-of-the-ipod-and-iphone-on",
-    "source": "lenny",
-    "source_name": "Lenny's Newsletter",
-    "date": "2026-06-07",
-    "summary": "Listen now | The creator of iPod, iPhone, and Nest on opinion vs. data decisions, why marketing matters, the \"three generations\" rule behind everything he's shipped, and why AI will still need screens"
-  },
-  {
-    "title": "We Vibe Coded Our AI VP of Marketing. Here’s What It Actually Does.",
-    "url": "https://www.saastr.com/we-vibe-coded-our-ai-vp-of-marketing-heres-what-it-actually-does/",
-    "source": "saastr",
-    "source_name": "SaaStr",
-    "date": "2026-06-06",
-    "summary": "We didn’t want to build it. We run 20+ AI agents at SaaStr. We’ve invested over $500K in AI infrastructure. We follow one rule religiously: buy 90% of what you need, only build the 10% where no..."
   }
 ]
